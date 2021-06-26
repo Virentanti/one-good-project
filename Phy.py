@@ -18,4 +18,4 @@ print('++++++++++++++++++++++++++++++++++++++++++++++++++++')
 ch= int(input('The Numerical is from Which Chapter___  '))
 if ch== 1:
   print('The Numerical is From Electric Field')
-  data= 
+  data=0
