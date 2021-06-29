@@ -30,34 +30,34 @@ if want=='V':
         Vnew=[]
         Vnew.append(V[i])
         if Vnew ==[['I','R']]:
-          I=int(input('I='))
-          R=int(input('R='))
+          I=input('I=')
+          R=input('R=')
           Volt=I*R
           print('Voltage(I*R) is ',Volt,'V')
         if Vnew ==[['I','P']]:
-          I=int(input('I='))
-          P=int(input('P='))
+          I=input('I=')
+          P=input('P=')
           Volt=P/I
           print('Voltage(P/I) is ',Volt,'V')
         if Vnew ==[['P','R']]:
-          R=int(input('R='))
-          P=int(input('P='))
+          R=input('R=')
+          P=input('P=')
           Volt=P*R
           print('Voltage(P*R) is ',Volt,'V')
         if Vnew ==[['I','R']]:
-          I=int(input('I='))
-          R=int(input('R='))
+          I=input('I=')
+          R=input('R=')
           Volt=I*R
           print('Voltage(I*R) is ',Volt,'V')
         if Vnew ==[['P','E','q']]:
-          P=int(input('P='))
-          E=int(input('E='))
-          q=int(input('q='))
+          P=input('P=')
+          E=input('E=')
+          q=input('q=')
           Volt=P*E/q
           print('Voltage is(P*E/q) ',Volt,'V')
         if Vnew ==[['q','r']]:
-          q=int(input('q='))
-          r=int(input('r='))
+          q=input('q=')
+          r=input('r=')
           Volt=(k)*q/r
           print('Voltage is(k*q/r) ',Volt,'V')
       else:
@@ -75,40 +75,40 @@ elif want=='C':
         Cnew=[]
         Cnew.append(C[i])
         if Cnew ==[['q','V']]:
-          q=int(input('q='))
-          V=int(input('V='))
+          q=input('q=')
+          V=input('V=')
           Cap=q/V
           print('Capacitance is() ',Cap,'F')
         if Cnew ==[['U','V']]:
-          U=int(input('U='))
-          V=int(input('V='))
+          U=input('U=')
+          V=input('V=')
           Cap=2*U/(V**2)
           print('Capacitance is() ',Cap,'F')
         if Cnew ==[['q','U']]:
-          q=int(input('q='))
-          U=int(input('U='))
+          q=input('q=')
+          U=input('U=')
           Cap=q**2/2*U
           print('Capacitance is() ',Cap,'F')
         if Cnew ==[['n','V']]:
-          n=int(input('n='))
-          V=int(input('V='))
+          n=input('n=')
+          V=input('V=')
           Cap=n*e/V
           print('Capacitance is() ',Cap,'F')
         if Cnew ==[['A','d']]:
-          A=int(input('A='))
-          d=int(input('d='))
+          A=input('A=')
+          d=input('d=')
           Cap=e0*A/d
           print('Capacitance is() ',Cap,'F')
         if Cnew ==[['q','r1r2']]:
-          q=int(input('q='))
-          r1=int(input('r1(inner)='))
-          r2=int(input('r2(outer)='))
+          q=input('q=')
+          r1=input('r1(inner)=')
+          r2=input('r2(outer)=')
           Cap=(4*(3.14)*e0*r1*r2)/r1 - r2
           print('Capacitance is() ',Cap,'F')
         if Cnew ==[['L','r1r2']]:
-          L=int(input('L='))
-          r1=int(input('r1(inner)='))
-          r2=int(input('r2(outer)='))
+          L=input('L=')
+          r1=input('r1(inner)=')
+          r2=input('r2(outer)=')
           Cap=(2*(3.14)*e0*L)/(math.log(r2/r1))
           print('Capacitance is() ',Cap,'F')
       
