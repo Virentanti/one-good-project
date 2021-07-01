@@ -21,7 +21,7 @@ k=9*(10**9)
 e0=8.85*(10**-12)
 e=1.6*10**-19
 try:
-  if want=='V':
+  if want=='V'or'emf':
     V=[['I','R'],['P','I'],['P','R'],['q','C'],['P','E','q'],['q','r']]
     for i in range(0,len(V)):
         lst.sort()
@@ -61,7 +61,7 @@ try:
             r=float(input('r='))
             Volt=(k)*q/r
             print('Voltage is(k*q/r) ',Volt,'V')
-        else:
+          else:
             if lst != V[i]:
               print('We cannot find Voltage from Given Information')
             break
@@ -111,6 +111,10 @@ try:
             r2=float(input('r2(outer)='))
             Cap=(2*(3.14)*e0*L)/(math.log(r2/r1))
             print('Capacitance is() ',Cap,'F')
+          else:
+            if lst != C[i]:
+              print('We cannot find Capacitance from Given Information')
+            break
       
 
 except:
