@@ -198,7 +198,7 @@ QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-
                <property name="font">
                 <font>
                  <family>Uni Sans Demo Heavy CAPS</family>
-                 <pointsize>14</pointsize>
+                 <pointsize>12</pointsize>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
