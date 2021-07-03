@@ -46,7 +46,7 @@
         <number>0</number>
        </property>
        <item>
-        <widget class="QFrame" name="sidebar">
+        <widget class="QFrame" name="sidebar_frame">
          <property name="maximumSize">
           <size>
            <width>50</width>
@@ -76,7 +76,7 @@
            <number>20</number>
           </property>
           <item>
-           <widget class="QPushButton" name="pushButton">
+           <widget class="QPushButton" name="menu_btn">
             <property name="sizePolicy">
              <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
               <horstretch>0</horstretch>
@@ -99,7 +99,7 @@ QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-
            </widget>
           </item>
           <item>
-           <widget class="QPushButton" name="pushButton_2">
+           <widget class="QPushButton" name="home_btn">
             <property name="minimumSize">
              <size>
               <width>30</width>
@@ -116,7 +116,7 @@ QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-
            </widget>
           </item>
           <item>
-           <spacer name="verticalSpacer">
+           <spacer name="verticalSpacer_sidebar">
             <property name="orientation">
              <enum>Qt::Vertical</enum>
             </property>
@@ -132,7 +132,7 @@ QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-
            </spacer>
           </item>
           <item>
-           <widget class="QPushButton" name="pushButton_3">
+           <widget class="QPushButton" name="generate_btn">
             <property name="minimumSize">
              <size>
               <width>30</width>
@@ -152,7 +152,7 @@ QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-
         </widget>
        </item>
        <item>
-        <widget class="QFrame" name="main_fraim">
+        <widget class="QFrame" name="main_frame">
          <property name="frameShape">
           <enum>QFrame::NoFrame</enum>
          </property>
@@ -173,7 +173,7 @@ QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-
            <number>0</number>
           </property>
           <item>
-           <widget class="QFrame" name="frame_4">
+           <widget class="QFrame" name="titlebar">
             <property name="maximumSize">
              <size>
               <width>16777215</width>
@@ -194,7 +194,7 @@ QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-
               <number>0</number>
              </property>
              <item>
-              <widget class="QLabel" name="label">
+              <widget class="QLabel" name="title_label">
                <property name="font">
                 <font>
                  <family>Uni Sans Demo Heavy CAPS</family>
@@ -212,7 +212,7 @@ QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-
               </widget>
              </item>
              <item>
-              <widget class="QFrame" name="frame">
+              <widget class="QFrame" name="window_state_frame">
                <property name="maximumSize">
                 <size>
                  <width>80</width>
@@ -242,7 +242,7 @@ QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-
                  <number>15</number>
                 </property>
                 <item>
-                 <widget class="QPushButton" name="pushButton_4">
+                 <widget class="QPushButton" name="minimize_btn">
                   <property name="enabled">
                    <bool>true</bool>
                   </property>
@@ -274,7 +274,7 @@ QPushButton:hover{background-color: rgb(0, 202, 78);}</string>
                  </widget>
                 </item>
                 <item>
-                 <widget class="QPushButton" name="pushButton_5">
+                 <widget class="QPushButton" name="restore_btn">
                   <property name="sizePolicy">
                    <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                     <horstretch>0</horstretch>
@@ -303,7 +303,7 @@ QPushButton:hover{background-color:rgb(255, 189, 68);}</string>
                  </widget>
                 </item>
                 <item>
-                 <widget class="QPushButton" name="pushButton_6">
+                 <widget class="QPushButton" name="close_btn">
                   <property name="sizePolicy">
                    <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                     <horstretch>0</horstretch>
@@ -338,7 +338,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
            </widget>
           </item>
           <item>
-           <widget class="QFrame" name="frame_3">
+           <widget class="QFrame" name="content_vertical_spacing_frame">
             <property name="frameShape">
              <enum>QFrame::StyledPanel</enum>
             </property>
@@ -347,7 +347,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
             </property>
             <layout class="QVBoxLayout" name="verticalLayout_4">
              <item>
-              <spacer name="verticalSpacer_2">
+              <spacer name="verticalSpacer_content">
                <property name="orientation">
                 <enum>Qt::Vertical</enum>
                </property>
@@ -363,7 +363,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
               </spacer>
              </item>
              <item>
-              <widget class="QFrame" name="content">
+              <widget class="QFrame" name="content_horizontal_spacing_hrame">
                <property name="font">
                 <font>
                  <family>MS Sans Serif</family>
@@ -377,7 +377,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
                </property>
                <layout class="QHBoxLayout" name="horizontalLayout_5">
                 <item>
-                 <spacer name="horizontalSpacer">
+                 <spacer name="horizontalSpacer_content">
                   <property name="orientation">
                    <enum>Qt::Horizontal</enum>
                   </property>
@@ -393,7 +393,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
                  </spacer>
                 </item>
                 <item>
-                 <widget class="QFrame" name="frame_2">
+                 <widget class="QFrame" name="content_frame">
                   <property name="minimumSize">
                    <size>
                     <width>0</width>
@@ -423,7 +423,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
                     <number>0</number>
                    </property>
                    <item>
-                    <widget class="QComboBox" name="comboBox_3">
+                    <widget class="QComboBox" name="chapter_combobox">
                      <property name="sizePolicy">
                       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
                        <horstretch>0</horstretch>
@@ -460,7 +460,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
                     </widget>
                    </item>
                    <item>
-                    <widget class="QComboBox" name="comboBox_2">
+                    <widget class="QComboBox" name="input_value_combobpx">
                      <property name="sizePolicy">
                       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
                        <horstretch>0</horstretch>
@@ -500,7 +500,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
                     </widget>
                    </item>
                    <item>
-                    <widget class="QLineEdit" name="lineEdit">
+                    <widget class="QLineEdit" name="values_line_edit">
                      <property name="sizePolicy">
                       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
                        <horstretch>0</horstretch>
@@ -540,7 +540,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
                     </widget>
                    </item>
                    <item>
-                    <widget class="QPushButton" name="pushButton_7">
+                    <widget class="QPushButton" name="calculate_btn">
                      <property name="sizePolicy">
                       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
                        <horstretch>0</horstretch>
@@ -575,7 +575,7 @@ QPushButton:hover{border: 2px solid rgb(33, 0, 114); border-radius: 10px; color:
                     </widget>
                    </item>
                    <item>
-                    <widget class="QLabel" name="label_2">
+                    <widget class="QLabel" name="answer_label">
                      <property name="minimumSize">
                       <size>
                        <width>250</width>
@@ -611,7 +611,7 @@ QPushButton:hover{border: 2px solid rgb(33, 0, 114); border-radius: 10px; color:
                  </widget>
                 </item>
                 <item>
-                 <spacer name="horizontalSpacer_2">
+                 <spacer name="horizontalSpacer_content_2">
                   <property name="orientation">
                    <enum>Qt::Horizontal</enum>
                   </property>
@@ -630,7 +630,7 @@ QPushButton:hover{border: 2px solid rgb(33, 0, 114); border-radius: 10px; color:
               </widget>
              </item>
              <item>
-              <spacer name="verticalSpacer_3">
+              <spacer name="verticalSpacer_content_2">
                <property name="orientation">
                 <enum>Qt::Vertical</enum>
                </property>
