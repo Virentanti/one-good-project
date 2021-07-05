@@ -166,3 +166,71 @@ JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q
 JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
 JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
 JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625490672897	geckodriver	INFO	Listening on 127.0.0.1:65207
+1625490680375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiledo9amO"
+1625490681317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiledo9amO\\search.json.mozlz4", (void 0)))
+1625490685788	Marionette	INFO	Listening on port 65219
+1625490686932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625490768008	geckodriver	INFO	Listening on 127.0.0.1:65267
+1625490775207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileGpeUqz"
+1625490776014	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileGpeUqz\\search.json.mozlz4", (void 0)))
+1625490782135	Marionette	INFO	Listening on port 65307
+1625490782551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625490957284	geckodriver	INFO	Listening on 127.0.0.1:65486
+1625490963895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilelwbYhC"
+1625490964475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilelwbYhC\\search.json.mozlz4", (void 0)))
+1625490969002	Marionette	INFO	Listening on port 65494
+1625490969885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
