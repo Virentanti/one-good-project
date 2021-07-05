@@ -1,0 +1,59 @@
+'''from bs4 import BeautifulSoup
+import os
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options# Instantiate an Options object
+# and add the "--headless" argument
+opts = Options()
+opts.add_argument(" --headless")# If necessary set the path to you browser’s location
+opts.binary_location= os.getcwd() +'\\geckodriver.exe'# Set the location of the webdriver
+firefox_driver = os.getcwd() +"\\cgeckodriver.exe"# Instantiate a webdriver
+driver = webdriver.Firefox(options=opts, executable_path=firefox_driver)# Load the HTML page
+driver.get(os.getcwd() +"\\test.html")# To scrape a url rather than a local file 
+# just do something like this
+driver.get("https://www.studyadda.com/question-bank/12th-class/physics/current-electricity-charging-discharging-of-capacitors-%E0%A4%B5%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A4%A8-%E0%A4%AC%E0%A4%9C%E0%A4%B2-%E0%A4%9A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%AA%E0%A4%B8%E0%A4%9F%E0%A4%B0-%E0%A4%95-%E0%A4%A8%E0%A4%B0/assertion-and-reason/1162")
+
+# Put the page source into a variable and create a BS object from it
+soup_file=driver.page_source
+soup = BeautifulSoup(soup_file)# Load and print the title and the text of the <div>
+print(soup.title.get_text())
+print(soup.find(id='text').get_text())'''
+
+
+#### This program scrapes naukri.com's page and gives our result as a
+#### list of all the job_profiles which are currently present there.
+
+import requests
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+
+#url of the page we want to scrape
+url = "https://www.studyadda.com/question-bank/12th-class/physics/current-electricity-charging-discharging-of-capacitors-%E0%A4%B5%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A4%A8-%E0%A4%AC%E0%A4%9C%E0%A4%B2-%E0%A4%9A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%AA%E0%A4%B8%E0%A4%9F%E0%A4%B0-%E0%A4%95-%E0%A4%A8%E0%A4%B0/assertion-and-reason/1162"
+
+# initiating the webdriver. Parameter includes the path of the webdriver.
+driver = webdriver.Firefox('C:/Users/Rashmi/Desktop/Development/one-good-project/geckodriver.exe')
+driver.get(url)
+
+# this is just to ensure that the page is loaded
+time.sleep(5)
+
+html = driver.page_source
+
+# this renders the JS code and stores all
+# of the information in static HTML code.
+
+# Now, we could simply apply bs4 to html variable
+soup = BeautifulSoup(html, "html.parser")
+all_divs = soup.find('div', {'id' : 'text'})
+job_profiles = all_divs.find_all('Q')
+
+# printing top ten job profiles
+count = 0
+for job_profile in job_profiles :
+	print(job_profile.text)
+	count = count + 1
+	if(count == 10) :
+		break
+
+driver.close() # closing the webdriver

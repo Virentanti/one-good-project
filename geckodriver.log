@@ -1,0 +1,168 @@
+1625485741573	geckodriver	INFO	Listening on 127.0.0.1:51214
+1625485750267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile4DmFUu"
+1625485752869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile4DmFUu\\search.json.mozlz4", (void 0)))
+1625485763677	Marionette	INFO	Listening on port 51225
+1625485764712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/12th-class/physics/current-electricity-charging-discharging-of-capacitors-%E0%A4%B5%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A4%A8-%E0%A4%AC%E0%A4%9C%E0%A4%B2-%E0%A4%9A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%AA%E0%A4%B8%E0%A4%9F%E0%A4%B0-%E0%A4%95-%E0%A4%A8%E0%A4%B0/assertion-and-reason/1162, line 2974: TypeError: $(...).pinterest_grid is not a function
+1625485772905	geckodriver	INFO	Listening on 127.0.0.1:51303
+1625485780447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileHamcrj"
+1625485781411	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileHamcrj\\search.json.mozlz4", (void 0)))
+1625485786905	Marionette	INFO	Listening on port 51316
+1625485788136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/12th-class/physics/current-electricity-charging-discharging-of-capacitors-%E0%A4%B5%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A4%A8-%E0%A4%AC%E0%A4%9C%E0%A4%B2-%E0%A4%9A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%AA%E0%A4%B8%E0%A4%9F%E0%A4%B0-%E0%A4%95-%E0%A4%A8%E0%A4%B0/assertion-and-reason/1162, line 2974: TypeError: $(...).pinterest_grid is not a function
+1625485832686	geckodriver	INFO	Listening on 127.0.0.1:51397
+1625485839340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilesf49sy"
+1625485839980	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilesf49sy\\search.json.mozlz4", (void 0)))
+1625485844875	Marionette	INFO	Listening on port 51407
+1625485845884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625485995850	geckodriver	INFO	Listening on 127.0.0.1:51510
+1625486002537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileLCDPwC"
+1625486003128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileLCDPwC\\search.json.mozlz4", (void 0)))
+1625486007830	Marionette	INFO	Listening on port 51521
+1625486008602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625486017320	geckodriver	INFO	Listening on 127.0.0.1:57500
+1625486023746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileX66ODk"
+1625486024450	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileX66ODk\\search.json.mozlz4", (void 0)))
+1625486032232	Marionette	INFO	Listening on port 57508
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625486033579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625486054453	geckodriver	INFO	Listening on 127.0.0.1:57573
+1625486061610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileHo2BWR"
+1625486062734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileHo2BWR\\search.json.mozlz4", (void 0)))
+1625486068134	Marionette	INFO	Listening on port 57581
+1625486068795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/12th-class/physics/current-electricity-charging-discharging-of-capacitors-%E0%A4%B5%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A4%A8-%E0%A4%AC%E0%A4%9C%E0%A4%B2-%E0%A4%9A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%AA%E0%A4%B8%E0%A4%9F%E0%A4%B0-%E0%A4%95-%E0%A4%A8%E0%A4%B0/assertion-and-reason/1162, line 2974: TypeError: $(...).pinterest_grid is not a function
+1625486868479	geckodriver	INFO	Listening on 127.0.0.1:49463
+1625486877029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileGoyKmW"
+1625486878465	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileGoyKmW\\search.json.mozlz4", (void 0)))
+1625486883634	Marionette	INFO	Listening on port 50693
+1625486884713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/12th-class/physics/current-electricity-charging-discharging-of-capacitors-%E0%A4%B5%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A4%A8-%E0%A4%AC%E0%A4%9C%E0%A4%B2-%E0%A4%9A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%AA%E0%A4%B8%E0%A4%9F%E0%A4%B0-%E0%A4%95-%E0%A4%A8%E0%A4%B0/assertion-and-reason/1162, line 2974: TypeError: $(...).pinterest_grid is not a function
+1625488163030	geckodriver	INFO	Listening on 127.0.0.1:59136
+1625488169505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiletgEyNf"
+1625488170713	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiletgEyNf\\search.json.mozlz4", (void 0)))
+1625488176941	Marionette	INFO	Listening on port 59144
+1625488178078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/12th-class/physics/current-electricity-charging-discharging-of-capacitors-%E0%A4%B5%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A4%A8-%E0%A4%AC%E0%A4%9C%E0%A4%B2-%E0%A4%9A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%AA%E0%A4%B8%E0%A4%9F%E0%A4%B0-%E0%A4%95-%E0%A4%A8%E0%A4%B0/assertion-and-reason/1162, line 2974: TypeError: $(...).pinterest_grid is not a function
+1625488295310	geckodriver	INFO	Listening on 127.0.0.1:59250
+1625488301860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile510gcV"
+1625488302945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile510gcV\\search.json.mozlz4", (void 0)))
+1625488312161	Marionette	INFO	Listening on port 59259
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625488313578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625488389107	geckodriver	INFO	Listening on 127.0.0.1:59346
+1625488395507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile92OSj6"
+1625488396296	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile92OSj6\\search.json.mozlz4", (void 0)))
+1625488401101	Marionette	INFO	Listening on port 59356
+1625488402491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625488760528	geckodriver	INFO	Listening on 127.0.0.1:51035
+1625488767157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileY3MyYn"
+1625488767910	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileY3MyYn\\search.json.mozlz4", (void 0)))
+1625488773020	Marionette	INFO	Listening on port 50847
+1625488774200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625488824689	geckodriver	INFO	Listening on 127.0.0.1:50935
+1625488831191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilejrCPII"
+1625488831791	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilejrCPII\\search.json.mozlz4", (void 0)))
+1625488836500	Marionette	INFO	Listening on port 50946
+1625488837228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625488912535	geckodriver	INFO	Listening on 127.0.0.1:51044
+1625488918958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileE8y5S6"
+1625488919564	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileE8y5S6\\search.json.mozlz4", (void 0)))
+1625488923599	Marionette	INFO	Listening on port 51053
+1625488924449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625489188887	geckodriver	INFO	Listening on 127.0.0.1:50318
+1625489195478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileDWZzDO"
+1625489196115	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileDWZzDO\\search.json.mozlz4", (void 0)))
+1625489201488	Marionette	INFO	Listening on port 50327
+1625489201769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625489502874	geckodriver	INFO	Listening on 127.0.0.1:64087
+1625489509420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileHpk3Mh"
+1625489510093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileHpk3Mh\\search.json.mozlz4", (void 0)))
+1625489514787	Marionette	INFO	Listening on port 64096
+1625489515913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625489587351	geckodriver	INFO	Listening on 127.0.0.1:64182
+1625489593924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileF7kOwT"
+1625489594530	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileF7kOwT\\search.json.mozlz4", (void 0)))
+1625489599168	Marionette	INFO	Listening on port 64193
+1625489599977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625489609473	geckodriver	INFO	Listening on 127.0.0.1:64273
+1625489616196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileIgSfhT"
+1625489616811	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileIgSfhT\\search.json.mozlz4", (void 0)))
+1625489621659	Marionette	INFO	Listening on port 64281
+1625489622728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625489717498	geckodriver	INFO	Listening on 127.0.0.1:64374
+1625489723998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilesbZcIx"
+1625489725080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilesbZcIx\\search.json.mozlz4", (void 0)))
+1625489729671	Marionette	INFO	Listening on port 64382
+1625489730536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625490098583	geckodriver	INFO	Listening on 127.0.0.1:56020
+1625490105033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile3BNqW3"
+1625490106123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile3BNqW3\\search.json.mozlz4", (void 0)))
+1625490110455	Marionette	INFO	Listening on port 56028
+1625490111588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625490136908	geckodriver	INFO	Listening on 127.0.0.1:56067
+1625490143399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiletPNl1M"
+1625490144079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiletPNl1M\\search.json.mozlz4", (void 0)))
+1625490147991	Marionette	INFO	Listening on port 56075
+1625490149402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q2/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
