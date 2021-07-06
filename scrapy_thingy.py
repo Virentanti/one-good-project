@@ -15,6 +15,4 @@ def scrape(url,x,stp):
         driver.get(d_url)
         txt=driver.find_element_by_xpath("/html/body/div[2]/div/div/section/div[1]/div[1]/div").text
         file.write(txt)
-        for i in range(5):
-            file.write("\n")
         text.append(txt)
