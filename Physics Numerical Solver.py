@@ -26,6 +26,7 @@ k=9*(10**9)
 e0=8.85*(10**(-12))
 e=1.6*(10**(-19))
 
+#----->function to compare lists
 def compare(a,b):
     a.sort()
     b.sort()
@@ -35,6 +36,7 @@ def compare(a,b):
             break
     else:
         return True
+
 
 try:
     if want=='V'or want=='emf':

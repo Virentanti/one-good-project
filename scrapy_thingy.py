@@ -5,9 +5,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 def scrape(url,x,stp):
 
     driver = webdriver.Firefox(r"C:\Users\Rashmi\Desktop\Development\one-good-project")
-    rep=url[-5:]
+    rep=int(url[-5:])
     url=url[:-5]
-
+    x+='.txt'
     text=[]
     file=open(x,'a')
     for i in range(rep,stp):

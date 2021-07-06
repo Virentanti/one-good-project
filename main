@@ -11,6 +11,7 @@ parent_dir = r"C:\Users\Rashmi\Desktop\Development\one-good-project\content"
 path = os.path.join(parent_dir, directory)
 #os.mkdir(path)
 for j in type:
-    x=os.path.join(r"C:\Users\Rashmi\Desktop\Development\one-good-project\content\Current Electricity, Charging & Discharging Of Capacitors", j)
+    x=os.path.join(r"C:\Users\Rashmi\Desktop\Development\one-good-project\content\Current Electricity", j)
+    print(dat[j][0],x,dat[j][1]+1)
     scrape(dat[j][0],x,dat[j][1]+1)
     
