@@ -12,7 +12,9 @@ def scrape(url,x,stp):
     file=open(x,'a')
     for i in range(rep,stp):
         d_url=url+str(i)
+        print(d_url)
         driver.get(d_url)
         txt=driver.find_element_by_xpath("/html/body/div[2]/div/div/section/div[1]/div[1]/div").text
+        print(txt)
         file.write(txt)
         text.append(txt)
