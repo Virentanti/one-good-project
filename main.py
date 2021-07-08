@@ -12,5 +12,4 @@ path = os.path.join(parent_dir, directory)
 #os.mkdir(path)
 for j in type:
     x=os.path.join(r"C:\Users\Rashmi\Desktop\Development\one-good-project\content\Current Electricity", j)
-    scrape(dat[j][0],x,dat[j][1]+1)
-    
+    scrape(dat[j][0],x,dat[j][1])

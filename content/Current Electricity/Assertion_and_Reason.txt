@@ -1,0 +1,276 @@
+question_answer
+Assertion             :       The possibility of an electric bulb fusing is higher at the time of switching ON and OFF Reason                 :   Inductive effects produce a surge at the time of switch ON and OFF    [AIIMS 2003]
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            The possibility of an electric bulb fusing is higher at the time of switching ON and switching OFF because inductive effect produces a surge at the time of switching ON and OFF.
+warning Report Error
+
+
+question_answer
+Assertion             :       The 200 W bulbs glows with more brightness then 100 W bulbs. Reason                 :   A 100 W bulb has more resistance than a 200 W bulb.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            The resistance, Þ i.e., higher is the wattage of a bulb, lesser is the resistance and so it will glow bright.
+warning Report Error
+
+
+question_answer
+Assertion             :       Fuse wire must have high resistance and low melting point. Reason                 :   Fuse is used for small current flow only.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: C
+Solution :
+            Assertion is true but reason is false. Fuse wire must have high resistance because in series current remains same, therefore according to Joule's law
+, heat produced is high if R is high. The melting point must be low so that wire may melt with increase in temperature. As the current equal to maximum safe value, flows through the fuse wire, it heats up, melts and break the circuit.
+warning Report Error
+
+
+question_answer
+Assertion             :       Two electric bulbs of 50 and 100 W are given. When connected in series 50 W bulb glows more but when connected parallel 100 W bulb glows more.  Reason                 :   In series combination, power is directly proportional to the resistance of circuit. But in parallel combination, power is inversely proportional to the resistance of the circuit.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            Resistance of 50 W bulb is two times the resistance of 100 W bulb. When bulbs are connected in series, 50 W bulb will glow more as (current remains same in series). In parallel the 100 W bulb will glow more as (potential difference remain same in parallel).
+warning Report Error
+
+
+question_answer
+  Assertion             :       Two bulbs of same wattage, one having a carbon filament and the other having a metallic filament are connected in series. Metallic bulbs will glow more brightly than carbon filament bulb.  Reason                 :   Carbon is a semiconductor.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: D
+Solution :
+            When two bulbs are connected in series, the resistance of the circuit increases and so the voltage in each decreases, hence the brightness and the temperature also decreases. Due to decrease in temperature, the resistance of the carbon filament will slightly increase while that of metal filament will decrease. Hence, carbon filament bulb will glow more brightly (P={{i}^{2}}R). Also carbon is not a semiconductor.
+warning Report Error
+
+
+question_answer
+Assertion             :       An electric bulb is first connected to a dc source and then to a ac source having the same brightness in both the cases. Reason                 :   The peak value of voltage for an A.C. source is times the root mean square voltage.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: E
+Solution :
+                Voltage of dc source is constant but in ac, peak value of voltage is times the rms. voltage. Hence bulb will glow with more brightness when connected to an ac source of the same voltage.
+warning Report Error
+
+
+question_answer
+Assertion             :       Current is passed through a metallic wire, heating it red. When cold water is poured on half of its portion, then rest of the half portion become more hot.   Reason                 :   Resistances decreases due to decrease in temperature and so current through wire increases.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            When cold water is poured on half portion of the wire, its resistance decreases due to decrease in temperature. As a result of this total resistance of circuit decreases i.e. current through each portion of wire increases i.e. rest of the half portion becomes still more hot.
+warning Report Error
+
+
+question_answer
+Assertion             :       Through the same current flows through the line wires and the filament of the bulb but heat produced in the filament is much higher then that in line wires. Reason                 :   The filament of bulbs is made of a material of high resistance and high melting point. 
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            As filament of bulb and line wire are in series, hence current through both is same. Now, because
+and resistance of the filament of the bulb is much higher than that of line wires, hence heat produced in the filament is much higher than that in line wires.
+warning Report Error
+
+
+question_answer
+Assertion             :       Neutral temperature of a thermocouple does not depend upon temperature of cold junction. Reason                 :   Its value is constant for the given metals of the couple.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: B
+Solution :
+            Neutral temperature is the temperature of hot junction, at which the thermo e.m.f. produced in the thermocouple becomes maximum. It is independent of cold junction and depends on the nature of materials of two metals used to form thermocouple.
+warning Report Error
+
+
+question_answer
+Assertion             :       In practical application, power rating of resistance is not important. Reason                 :   Property of resistance remain same even at high temperature. 
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: D
+Solution :
+            Because of heat production every resistance has a maximum power rating, the maximum power that can be dissipated without overheating the device. When this rating is exceeded, heat is produced, due to which resistance may change unpredictably.
+warning Report Error
+
+
+question_answer
+Assertion             :       Leclanche cell is used, when constant supply of electric current is not required.   Reason                 :   The e.m.f. of a Leclanche cell falls, if it is used continuously.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            The e.m.f. of a Leclanche cell falls, because of the partial polarisation due to accumulation of hydrogen gas. In case, Leclanche cell is used in experiment, where current is drawn after short breaks, then during each break, hydrogen gas escapes and converts into by taking oxygen from the atmosphere. As a result, the cell regains its original e.m.f.
+warning Report Error
+
+
+question_answer
+Assertion             :       In the given circuit if lamp B or C fuses then light emitted by lamp A decreases. Reason                 :   Voltage on A decreases.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            When lamp B or C gets fused equivalent resistance of B and C increases. In series voltage distributes in the ratio of resistance, so voltage appears across B increases or in other words voltage across A decreases.
+warning Report Error
+
+
+question_answer
+Assertion             :       If three identical bulbs are connected in series as shown in figure then on closing the switches. Bulb C short circuited and hence illumination of bulbs A and B decreases. Reason                 :   Voltage on A and B decreases
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: D
+Solution :
+            When switch S is closed, bulb C is short circuited, so voltage V distributes only in two parts i.e. voltage on Bulb A and B increases as compared previously. Hence illumination of Bulb A and B increases.
+warning Report Error
+
+
+question_answer
+Assertion             :       Heat is generated continuously is an electric heater but its temperature becomes constant after some time. Reason                 :   At the stage when heat produced in heater is equal to the heat dissipated to its surrounding the temperature of heater becomes constant.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+warning Report Error
+
+
+question_answer
+Assertion             :       Electric appliances with metallic body; e.g. heaters, presses etc, have three pin connections, whereas an electric bulb has a two pin connection. [AIIMS 1996] Reason                 :   Three pin connections reduce heating of connecting cables.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: C
+Solution :
+            The electrical appliances with metallic body like heater, press etc. have three pin connections. Two pins are for supply line and third pin is for earth connection for safety purposes.
+warning Report Error
+
+
+question_answer
+            Assertion             :       A laser beam 0.2 W power can drill holes through a metal sheet, whereas 1000 W torch-light cannot.            Reason                 :   The frequency of laser light is much higher then that of torch light.      [AIIMS 1996]
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: C
+Solution :
+            A laser beam is a beam of light which is light amplification by stimulated emission of radiation. The energy per unit area of the laser beam is very high as compared to the torch light.
+warning Report Error
+
+
+question_answer
+Assertion             :       A domestic electrical appliance, working on a three pin will continue working even if the top pin is removed.            [AIIMS 1995] Reason                 :   The third pin is used only as a safety device.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            Follow hint of question 15 of this section.
+warning Report Error
+
+
+question_answer
+Assertion             :       In all conductors, for studying the thermoelectric behaviour or metals, lead is taken as a reference metal.   Reason                 :   In lead, the Thomson effect is negative.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: C
+Solution :
+            Thomson e.m.f. in lead is practically zero.
+warning Report Error
+
+
+question_answer
+  Assertion             :       The presence of water molecules makes separation of ions easier in electrolyte.   Reason                 :   The presence of water molecules in electrolyte decreases the resistance of electrolyte.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: B
+Solution :
+            The presence of water molecules reduces force between ions by
+1/81
+times because the value of dielectric constant of water is 81. That is why the separation between ions becomes easier.
+warning Report Error
+
+
+question_answer
+  Assertion             :       Thermocouple acts as a heat engine.   Reason                 :   When two junctions of thermocouple are at different temperature, thermo e.m.f. is produced.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: B
+Solution :
+            Here reason is not the correct explanation of the assertion, which is correct.
+warning Report Error
+
+
+question_answer
+Assertion             :       When temperature of cold junction of a thermocouple is lowered, the value of neutral temperature of this thermocouple is raised.  Reason                 :   When the difference of temperature of two junction is raised, more thermo e.m.f. is produced.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: D
+Solution :
+            Here assertion and reason are not correct.
+warning Report Error
+
+
