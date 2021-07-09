@@ -1,0 +1,600 @@
+question_answer
+The production of e.m.f. by maintaining a difference of temperature between the two junctions of two different metals is known as
+A)            Joule effect                          
+B)            Seebeck effect
+C)            Peltier effect                       
+D)            Thomson effect
+Correct Answer: B
+Solution :
+           Production of e.m.f. by temperature difference is known Seeback effect.
+warning Report Error
+
+
+
+question_answer
+When a current passes through the junction of two different metals, evolution or absorption of heat at the junction is known as                                                           [MP PMT/PET 1998]
+A)            Joule effect                          
+B)            Seebeck effect
+C)            Peltier effect                       
+D)            Thomson effect
+Correct Answer: C
+Solution :
+           Production of heat at junctions due to current is known as Peltier effect.
+warning Report Error
+
+
+
+question_answer
+When a current passes through a wire whose different parts are maintained at different temperatures, evolution or absorption of heat all along the length of wire is known as
+A)            Joule effect                          
+B)            Seebeck effect
+C)            Peltier effect                       
+D)            Thomson effect
+Correct Answer: D
+Solution :
+warning Report Error
+
+
+
+question_answer
+The thermocouple is based on the principle of  [MP PET 1984; AFMC 1998; BCECE 2003]
+A)            Seebeck effect                   
+B)            Thomson effect
+C)            Peltier effect                       
+D)            Joule effect
+Correct Answer: A
+Solution :
+warning Report Error
+
+
+
+question_answer
+For a thermocouple, the neutral temperature is and the temperature of its cold junction is . If there is no deflection in the galvanometer, the temperature of the hot junction should be                                                [AMU Engg. 2000]
+A)                              
+B)                   
+C)                              
+D)                   
+Correct Answer: C
+Solution :
+                   When there is no deflection, then this temperature is called inversion temperature. It is given by the relation                    Where is temperature of cold junction and neutral temperature
+warning Report Error
+
+
+
+question_answer
+Thermocouple is a device for the measurement of
+A)            Absolute temperature of a metal
+B)            The temperature difference between two substances
+C)            The couple acting on a wire
+D)            Thermal conductivity of a substance
+Correct Answer: B
+Solution :
+warning Report Error
+
+
+
+question_answer
+The true statement for thermo e.m.f. of a thermocouple
+A)            Depends on the nature of metals
+B)            Depends only on temperature of cold junction
+C)            Depends only on temperature of hot junction
+D)            Depends on the length of the wires used for thermocouple
+Correct Answer: A
+Solution :
+           Thermo e.m.f. of a thermo couple depends on the nature of metals.
+warning Report Error
+
+
+
+question_answer
+The direction of current in an iron-copper thermocouple is [MP PET 1995]
+A)            From copper to iron at the hot junction
+B)            From iron to copper at the hot junction
+C)            From copper to iron at cold junction
+D)            No current will flow
+Correct Answer: A
+Solution :
+warning Report Error
+
+
+
+question_answer
+Peltier coefficient for the junction of a pair of metals is proportional to  [MP PMT 1993; MP PET 1997]
+A)                    T absolute temperature of the junction
+B)                    Square of absolute temperature of the junction
+C)           
+D)           
+Correct Answer: A
+Solution :
+                   According to the definition.
+warning Report Error
+
+
+
+question_answer
+If for a thermocouple is the neutral temperature, is the temperature of the cold junction and is the temperature of inversion, then                    [MP PET 2001; AIEEE 2002]
+A)                                                 
+B)           
+C)                                                   
+D)            None of these
+Correct Answer: A
+Solution :
+           warning Report Error
+
+
+
+question_answer
+ For a thermocouple, the temperature of inversion is that temperature at which thermo e.m.f. is
+A)                    Zero                                 
+B)                    Maximum
+C)                    Minimum                       
+D)                    None of the above
+Correct Answer: A
+Solution :
+warning Report Error
+
+
+
+question_answer
+For a given thermocouple, the thermo e.m.f. can be
+A)                    Zero                                 
+B)                    Positive
+C)            Negative                                
+D)            All of the above
+Correct Answer: D
+Solution :
+warning Report Error
+
+
+
+question_answer
+When current is passed in antimony-bismuth couple, then
+A)                    The junction becomes hot when the current is from bismuth to antimony
+B)                    The junction becomes hot when current flows from antimony to bismuth
+C)                    Both junctions become hot                                       
+D)                    Both junctions become cold
+Correct Answer: B
+Solution :
+                   Based on Peltier effect.
+warning Report Error
+
+
+
+question_answer
+A thermocouple is made of Cu and Fe. If a battery is connected in it, then
+A)                    Both junctions will be at the same temperature
+B)                    Both junctions will become hot
+C)                    One junction will be hotter than the other
+D)                    None of these
+Correct Answer: C
+Solution :
+                   Peltier effect
+warning Report Error
+
+
+
+question_answer
+Thermopile is used for
+A)            Collecting the heat energy
+B)            The measurement of radiant heat energy
+C)            The measurement of current
+D)            The change of atomic energy into heat energy
+Correct Answer: B
+Solution :
+           Thermopile is used for detection of heat radiation and measurement.
+warning Report Error
+
+
+
+question_answer
+When a current of 1 ampere is passed through a conductor whose ends are maintained at temperature difference of
+1
+∘
+C
+, the amount of heat evolved or absorbed is called
+A)                    Peltier coefficient      
+B)                    Thomson coefficient
+C)                    Thermoelectic power       
+D)                    Thermo e.m.f.
+Correct Answer: B
+Solution :
+                   H=σitΔθ
+Þ If i = 1 A, Dq = 1°C, t = 1sec then H = s.
+warning Report Error
+
+
+
+question_answer
+In a thermocouple, the temperature that does not depend on the temperature of the cold junction is called
+A)                    Neutral temperature
+B)                    Temperature of inversion
+C)                    Both the above           
+D)                    None of the above
+Correct Answer: A
+Solution :
+                   According to Seebeck effect
+warning Report Error
+
+
+
+question_answer
+At neutral temperature, the thermoelectric power
+has the value [MP PET 2003; MP PMT 2004]
+A)            Zero                                         
+B)            Maximum but negative
+C)            Maximum but positive    
+D)            Minimum but positive
+Correct Answer: A
+Solution :
+           At neutral temperature,
+warning Report Error
+
+
+
+question_answer
+In Cu-Fe couple, the flow of current at the temperature of inversion is
+A)            From Fe to Cu through the hot junction
+B)            From Cu to Fe through the hot junction
+C)            Maximum
+D)            None of the above
+Correct Answer: A
+Solution :
+           According to Seebeck effect.
+warning Report Error
+
+
+
+question_answer
+In Seebeck series Sb appears before Bi. In a
+Sb−Bi
+thermocouple current flows from                [MP PET 1994]
+A)                    Sb to Bi at the hot junction
+B)                    Sb to Bi at the cold junction
+C)                    Bi to Sb at the cold junction
+D)                    None of the above
+Correct Answer: B
+Solution :
+warning Report Error
+
+
+
+question_answer
+Which of the following statement is correct  [MP PET 1994]
+A)            Both Peltier and Joule effects are reversible
+B)            Both Peltier and Joule effects are irreversible
+C)            Joule effect is reversible, whereas Peltier effect is irreversible
+D)            Joule effect is irreversible, whereas Peltier effect is reversible
+Correct Answer: D
+Solution :
+warning Report Error
+
+
+
+question_answer
+For a given temperature difference, which of the following pairs will generate maximum thermo e.m.f. [MP PMT 1994]
+A)            Antimony-bismuth            
+B)            Silver-gold
+C)            Iron-copper                          
+D)            Lead-nickel
+Correct Answer: A
+Solution :
+           As a rule, more the metals are separated from each other in the thermoelectric series, the greater will be the thermo emf.
+warning Report Error
+
+
+
+question_answer
+The cold junction of a thermocouple is maintained at . No thermo e.m.f. is developed when the hot junction is maintained at . The neutral temperature is [MP PMT 1994]
+A)                             
+B)           
+C)                             
+D)           
+Correct Answer: B
+Solution :
+           warning Report Error
+
+
+
+question_answer
+Which of the following is not reversible [Manipal MEE 1995; DPMT 2001]
+A)            Joule effect                          
+B)            Peltier effect
+C)            Seebeck effect                   
+D)            Thomson effect
+Correct Answer: A
+Solution :
+           Joule effect is not reversible.
+warning Report Error
+
+
+
+question_answer
+Neutral temperature of a thermocouple is defined as the temperature at which                                               [MP PMT 1996]
+A)            The thermo e.m.f. changes sign
+B)            The thermo e.m.f. is maximum
+C)            The thermo e.m.f. is minimum
+D)            The thermo e.m.f. is zero
+Correct Answer: B
+Solution :
+warning Report Error
+
+
+
+question_answer
+As the temperature of hot junction of a thermo‑couple is increased (while cold junction is at constant temperature), the thermo e.m.f.
+A)                    Increases uniformly at constant rate
+B)                    Increases slowly in the beginning and more rapidly at higher temperatures
+C)                    Increases more rapidly in the beginning but less rapidly at higher temperatures
+D)                    In minimum at neutral temperature
+Correct Answer: C
+Solution :
+warning Report Error
+
+
+
+question_answer
+As the temperature of hot junction increases, the thermo e.m.f.                                              [MP PET 1999]
+A)                    Always increases
+B)                    Always decreases
+C)                    May increase or decrease                                          
+D)                    Always remains constant
+Correct Answer: C
+Solution :
+                   The graph between thermo emf and temperature of hot junction is parabolic in shape.
+warning Report Error
+
+
+
+question_answer
+The e.m.f. in a thermoelectric circuit with one junction at and the other at is given by . The neutral temperature is then                     [AMU 1995; BCECE 2004]
+A)                                 
+B)           
+C)                             
+D)           
+Correct Answer: D
+Solution :
+                   At neutral temperature E is maximum so            Þ Þ Þ
+warning Report Error
+
+
+
+question_answer
+The temperature of cold junction and neutral temperature of a thermocouple are
+and
+respectively. The temperature of inversion is                                                     [AMU (Engg.) 1999]
+A)           
+                   B)           
+C)           
+                   D)           
+Correct Answer: C
+Solution :
+           Þ
+Þ
+warning Report Error
+
+
+
+question_answer
+Above neutral temperature, thermo e.m.f. in a thermocouple [AMU (Engg.) 1999]
+A)            Decreases with rise in temperature
+B)            Increases with rise in temperature
+C)            Remains constant
+D)            Changes sign
+Correct Answer: A
+Solution :
+warning Report Error
+
+
+
+question_answer
+Consider the following two statements A and B, and identify the correct choice out of given answers A.       Thermo e.m.f. is minimum at neutral temperature of a thermocouple B.       When two junctions made of two different metallic wires are maintained at different temperatures, an electric current is generated in the circuit.                                                            [EAMCET (Med.) 2000]
+A)            A is false and B is true      
+B)            A is true and B is false
+C)            Both A and B are false      
+D)            Both A and B are true
+Correct Answer: A
+Solution :
+           A is false because at neutral temperature thermo emf is maximum. B is true.
+warning Report Error
+
+
+
+question_answer
+The temperature at which thermal electric power of a thermo couple becomes zero is called      [MP PMT 2001]
+A)            Inversion temperature    
+B)            Neutral temperature
+C)            Junction temperature      
+D)            Null temperature
+Correct Answer: B
+Solution :
+           Thermo-electric power
+at tn, E ® maximum. So P ® zero.
+warning Report Error
+
+
+
+question_answer
+Thomson coefficient of a conductor is
+10μV/K
+. The two ends of it are kept at
+50
+o
+C
+and
+60
+o
+C
+  respectively. Amount of heat absorbed by the conductor when a charge of 10C flows through it is                                              [EAMCET 2001]
+A)            1000 J                                      
+B)            100 J
+C)            100 mJ                                    
+D)            1 mJ
+Correct Answer: D
+Solution :
+                   By using
+H=σQθ
+           Þ 
+H=(10×
+10
+−6
+)×10×(60−50)=
+10
+−3
+J=1mJ
+warning Report Error
+
+
+
+question_answer
+For a thermocouple the neutral temperature is
+when its cold junction is at
+. What will be the neutral temperature and the temperature of inversion when the temperature of cold junction is increased to
+[Kerala PET 2001]
+A)           
+                                     B)           
+C)           
+                                     D)           
+Correct Answer: C
+Solution :
+           No change in neutral temperature but temperature of inversion is
+Þ
+warning Report Error
+
+
+
+question_answer
+Two ends of a conductor are at different temperatures the electromotive force generated between two ends is [MP PMT 2001; MP PET 2002]
+A)            Seebeck electro motive force (e.m.f.)
+B)            Peltier electro motive force (e.m.f.)
+C)            Thomson electro motive force (e.m.f.)
+D)            None of these
+Correct Answer: C
+Solution :
+warning Report Error
+
+
+
+question_answer
+The neutral temperature of a thermocouple is {{350}^{o}}C when the cold junction is at {{0}^{o}}C. When the cold junction is immersed in a bath of {{30}^{o}}C, the inversion temperature is  [Kerala (Med.) 2002]
+A)            {{700}^{o}}C                  
+B)            {{600}^{o}}C
+C)            {{350}^{o}}C                  
+D)            {{670}^{o}}C
+Correct Answer: D
+Solution :
+           {{t}_{i}}=2{{t}_{n}}-{{t}_{c}} Þ {{t}_{i}}=2\times 350-30={{670}^{o}}C
+warning Report Error
+
+
+
+question_answer
+A thermoelectric refrigerator works on             [JIPMER 2002]
+A)            Joule effect                          
+B)            Seeback effect
+C)            Peltier effect                       
+D)            Thermonic emission
+Correct Answer: C
+Solution :
+warning Report Error
+
+
+
+question_answer
+If the temperature of cold junction of thermocouple is lowered, then the neutral temperature [JIPMER 2002]
+A)            Increases                               
+B)            Approaches inversion temperature
+C)            Decreases
+D)            Remains the same
+Correct Answer: D
+Solution :
+           Neutral temperature is independent of temperature of cold junction.
+warning Report Error
+
+
+
+question_answer
+Consider the following two statements A and B and identify the correct choice given in the answers            Duddells thermo-galvanometer is suitable to measure direct current only            Thermopile can measure temperature differences of the order of
+                                           [EAMCET 2003]
+A)            Both A and B are true       
+B)            Both A and B are false
+C)            A is true but B is false       
+D)            A is false but B is true
+Correct Answer: D
+Solution :
+warning Report Error
+
+
+
+question_answer
+If
+what is the temperature of inversion [DCE 2003]
+A)           
+                  B)           
+C)           
+                     D)           
+Correct Answer: A
+Solution :
+           at inversion temperature E will be minimum Thus
+Þ
+Þ
+Þ
+warning Report Error
+
+
+
+question_answer
+Antimony and bismuth are usually used in a thermocouple, because                                       [MH CET 2003]
+A)            Negative thermal e.m.f. produced
+B)            Constant thermal e.m.f. produced
+C)            Lower thermal e.m.f. produced
+D)            Higher thermal e.m.f. produced
+Correct Answer: D
+Solution :
+warning Report Error
+
+
+
+question_answer
+The smallest temperature difference that can be measured with a combination of a thermocouple of thermo e.m.f. 30mV per degree and a galvanometer of 50 ohm resistance, capable of measuring a minimum current of  3 ´ 10?7 amp is [MP PET 2000]
+A)            0.5 degree                            
+B)            1.0 degree
+C)            1.5 degree                            
+D)            2.0 degree
+Correct Answer: A
+Solution :
+           Þ
+warning Report Error
+
+
+
+question_answer
+, If temperature of cold junction is
+then temperature of inversion is
+)            [DCE 2001]
+A)            100                                           
+B)            200
+C)            300
+D)            400
+Correct Answer: B
+Solution :
+           Also
+Þ
+warning Report Error
+
+
+
+question_answer
+If the emf of a thermocouple, one junction of which is kept 0°C is given by
+then the neutral temperature will be                                                [J & K CET 2005]
+A)            a/b
+B)            ? a/b
+C)            a/2b                                        
+D)            ?1/ ab
+Correct Answer: B
+Solution :
+           At neutral temperature, thermal emf will be maximum.                   
+                   For maximum or minima,
+warning Report Error
+
+
+

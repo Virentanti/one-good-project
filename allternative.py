@@ -1,10 +1,7 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from webdriver_manager.firefox import GeckoDriverManager
 from progress.bar import Bar
 
-def scrape(url,x,stp):
+def scrape00(url,x,stp):
 
     #driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
     rep=int(url[-5:])
@@ -13,13 +10,16 @@ def scrape(url,x,stp):
     #print(url)
     x+='.txt'
     text=''
+    driver = webdriver.Firefox(r"C:\Users\Rashmi\Desktop\Development\one-good-project")
+    driver.get('www.google.com')
     file=open(x,'a',encoding='utf-8')
     bar = Bar('Scraping...', max=stp, suffix="%(percent).1f%% - %(eta)ds")
     for i in range(rep,rep+stp):
         try:
-            driver = webdriver.Firefox(r"C:\Users\Rashmi\Desktop\Development\one-good-project")
             d_url=url+str(i)
             #print(d_url)
+            driver.execute_script(f"window.open('about:blank',{i});")
+            driver.switch_to.window(i)
             driver.get(d_url)
             try:
                 txt=driver.find_element_by_xpath("/html/body/div[2]/div/div/section/div[1]/div[1]/div").text

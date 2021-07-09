@@ -1,0 +1,238 @@
+question_answer
+Assertion             :       The resistivity of a semiconductor increases with temperature. Reason                 :   The atoms of a semiconductor vibrate with larger amplitude at higher temperatures thereby increasing its resistivity                                          [AIIMS 2003]
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: D
+Solution :
+            Resistivity of a semiconductor decreases with the temperature. The atoms of a semiconductor vibrate with larger amplitudes at higher temperatures thereby increasing it's conductivity not resistivity.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       In a simple battery circuit the point of lowest potential is positive terminal of the battery Reason                 :   The current flows towards the point of the higher potential as it flows in such a circuit from the negative to the positive terminal. [AIIMS 2002]
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: D
+Solution :
+            It is quite clear that in a battery circuit, the point of lowest potential is the negative terminal of the battery and the current flows from higher potential to lower potential.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       The temperature coefficient of resistance is positive for metals and negative for p-type semiconductor. Reason                 :   The effective charge carriers in metals are negatively charged whereas in p-type semiconductor they are positively charged.  [AIIMS 1996]
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: B
+Solution :
+                   The temperature co-efficient of resistance for metal is positive and that for semiconductor is negative. In metals free electrons (negative charge) are charge carriers while in P-type semiconductors, holes (positive charge) are majority charge carriers.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       In the following circuit emf is 2V and internal resistance of the cell is 1 W and R = 1W, then reading of the voltmeter is 1V. Reason                 :   V=E-ir where E = 2V, i=\frac{2}{2}=1A and R = 1 W          [AIIMS 1995]
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+                   Here, E=2V, 1=\frac{2}{2}=1A and r=1\Omega Therefore, V=E-ir=2-1\times 1=1V
+warning Report Error
+
+
+
+question_answer
+Assertion             :       There is no current in the metals in the absence of electric field. Reason                 :   Motion of free electron are randomly.  [AIIMS 1994]
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            It is clear that electrons move in all directions haphazardly in metals. When an electric field is applied, each free electron acquire a drift velocity. There is a net flow of charge, which constitute current. In the absence of electric field this is impossible and hence, there is no current.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       Electric appliances with metallic body have three connections, whereas an electric bulb has a two pin connection. Reason                 :   Three pin connections reduce heating of connecting wires.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: C
+Solution :
+            The metallic body of the electrical appliances is connected to the third pin which is connected to the earth. This is a safety precaution and avoids eventual electric shock. By doing this the extra charge flowing through the metallic body is passed to earth and avoid shocks. There is nothing such as reducing of the heating of connecting wires by three pin connections.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       The drift velocity of electrons in a metallic wire will decrease, if the temperature of the wire is increased. Reason                 :   On increasing temperature, conductivity of metallic wire decreases.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: B
+Solution :
+            On increasing temperature of wire the kinetic energy of free electrons increase and so they collide more rapidly with each other and hence their drift velocity decreases. Also when temperature increases, resistivity increase and resistivity is inversely proportional to conductivity of material.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       The electric bulbs glows immediately when switch is on. Reason                 :   The drift velocity of electrons in a metallic wire is very high.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: C
+Solution :
+            In a conductor there are large number of free electrons. When we close the circuit, the electric field is established instantly with the speed of electromagnetic wave which cause electron drift at every portion of the circuit. Due to which the current is set up in the entire circuit instantly. The current which is set up does not wait for the electrons flow from one end of the conductor to the another end. It is due to this reason, the electric bulb glows immediately when switch is on.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       Bending a wire does not effect electrical resistance. Reason                 :   Resistance of wire is proportional to resistivity of material.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            Resistance wire R=\rho \frac{l}{A}. where r is resistivity of material which does not depend on the geometry of wire. Since when wire is banded, resistivity, length and area of cross-section do not change, therefore resistance of wire also remain same.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       In meter bridge experiment, a high resistance is always connected in series with a galvanometer. Reason                 :   As resistance increases current through the circuit increases.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: C
+Solution :
+            The resistance of the galvanometer is fixed. In meter bridge experiments, to protect the galvanometer from a high current, high resistance is connected to the galvanometer in order to protect it from damage.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       Voltameter measures current more accurately than ammeter. Reason                 :   Relative error will be small if measured from voltameter.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            Voltameter measures current indirectly in terms of mass of ions deposited and electrochemical equivalent  of the substance \left( I=\frac{m}{Zt} \right). Since value of m and Z are measured to 3rd decimal place and 5th decimal place respectively. The relative error in the measurement of current by voltmeter will be very small as compared to that when measured by ammeter directly.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       Electric field outside the conducting wire which carries a constant current is zero. Reason                 :   Net charge on conducting wire is zero.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            When current flows through a conductor it always remains uncharged, hence no electric field is produced outside it.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       The resistance of super-conductor is zero. Reason                 :   The super-conductors are used for the transmission of electric power.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: B
+Solution :
+            Here assertion and reason both are correct but the reason is not the correct explanation of assertion.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       A potentiometer of longer length is used for accurate measurement. Reason                 :   The potential gradient for a potentiometer of longer length with a given source of e.m.f. becomes small.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            Sensitivity \propto \frac{1}{\text{Potential gradient}}\propto (\text{Length of wire)}
+warning Report Error
+
+
+
+question_answer
+Assertion             :       The e.m.f. of the driver cell in the potentiometer experiment should be greater than the e.m.f. of the cell to be determined. Reason                 :   The fall of potential across the potentiometer wire should not be less than the e.m.f. of the cell to be determined.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            If either the e.m.f. of the driver cell or potential difference across the whole potentiometer wire is lesser than the e.m.f. of the experimental cell, then balance point will not obtained.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       A person touching a high power line gets stuck with the line. Reason                 :   The current carrying wires attract the man towards it.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: D
+Solution :
+            Because there is no special attractive force that keeps a person stuck with a high power line. The actual reason is that a current of the order of 0.05 A or even less is enough to bring disorder in our nervous system. As a result of it, the affected person may lose temporarily his ability to exercise his nervous control to get himself free from the high power line.
+warning Report Error
+
+
+
+question_answer
+Assertion             :       The connecting wires are made of copper. Reason                 :   The electrical conductivity of copper is high.
+A)             If both assertion and reason are true and the reason is the correct explanation of the assertion.
+B)             If both assertion and reason are true but reason is not the correct explanation of the assertion.
+C)             If assertion is true but reason is false.
+D)             If the assertion and reason both are false.
+E)             If assertion is false but reason is true.
+Correct Answer: A
+Solution :
+            Due to high electrical conductivity of copper, it conducts the current without offering much resistance. The copper being diamagnetic material does not get magnetised due to current through it and hence does not disturb the current in the circuit.
+warning Report Error
+
+
+

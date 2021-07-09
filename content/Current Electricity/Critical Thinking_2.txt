@@ -1,0 +1,702 @@
+question_answer
+In an electrical cable there is a single wire of radius 9 mm of copper. Its resistance is 5\,\Omega . The cable is replaced by 6 different insulated copper wires, the radius of each wire is 3\,mm. Now the total resistance of the cable will be [CPMT 1988]
+A)            7.5\,\Omega                 
+B)            45\,\Omega
+C)            90\,\Omega                  
+D)            270\,\Omega
+Correct Answer: A
+Solution :
+                   Initially : Resistance of given cable R=\rho \frac{l}{\pi \times {{(9\times {{10}^{-3}})}^{2}}}                                       ... (i) Finally : Resistance of each insulated copper wire is R\,'=\rho \frac{l}{\pi \times {{(3\times {{10}^{-3}})}^{2}}}. Hence equivalent resistance of cable {{R}_{eq}}=\frac{R\,'}{6}=\frac{1}{6}\times \left( \rho \frac{l}{\pi \times {{(3\times {{10}^{-3}})}^{2}}} \right)?.(ii) On solving equation (i) and (ii) we get Req = 7.5 W
+warning Report Error
+
+
+
+question_answer
+Two uniform wires A and B are of the same metal and have equal masses. The radius of wire A is twice that of wire B. The total resistance of A and B when connected in parallel is [MNR 1994]
+A)            4\,\Omega when the resistance of wire A is 4.25\,\Omega
+B)            5\,\Omega when the resistance of wire A is 4.25\,\Omega
+C)            4\,\Omega when the resistance of wire B is 4.25\,\Omega
+D)            4\,\Omega when the resistance of wire B is 4.25\,\Omega
+Correct Answer: A
+Solution :
+                   \frac{{{R}_{A}}}{{{R}_{B}}}={{\left( \frac{{{r}_{B}}}{{{r}_{A}}} \right)}^{4}} Þ \frac{{{R}_{A}}}{{{R}_{B}}}={{\left( \frac{1}{2} \right)}^{4}}=\frac{1}{16} Þ {{R}_{B}}=16{{R}_{A}} When RA and RB are connected in parallel then equivalent resistance {{R}_{eq}}=\frac{{{R}_{A}}{{R}_{B}}}{({{R}_{A}}+{{R}_{B}})}=\frac{16}{17}{{R}_{A}} If {{R}_{A}}=4.25\Omega then {{R}_{eq}}=4\Omega i.e. option  is correct.
+warning Report Error
+
+
+
+question_answer
+Twelve wires of equal length and same cross-section are connected in the form of a cube. If the resistance of each of the wires is R, then the effective resistance between the two diagonal ends would be                                           [J & K CET 2004]
+A)            2R
+B)            12R
+C)            \frac{5}{6}R
+D)            8R
+Correct Answer: C
+Solution :
+                   The given circuit can be simplified as follows \{{R}_{AD}}=\frac{5R}{6}
+warning Report Error
+
+
+
+question_answer
+You are given several identical resistances each of value R=10\,\Omega and each capable of carrying maximum current of 1 ampere. It is required to make a suitable combination of these resistances to produce a resistance of 5\,\Omega which can carry a current of 4 amperes. The minimum number of resistances of the type R that will be required for this job [CBSE PMT 1990]
+A)            4    
+B)            10
+C)            8    
+D)            20
+Correct Answer: C
+Solution :
+                   Suppose n resistors are used for the required job. Suppose equivalent resistance of the combination is R' and according to energy conservation it's current rating is i'. Energy consumed by the combination = n ´ (Energy consumed by each resistance) Þ i{{'}^{2}}R'=n\times {{i}^{2}}RÞ n={{\left( \frac{i'}{i} \right)}^{2}}\times \left( \frac{R'}{R} \right)={{\left( \frac{4}{1} \right)}^{2}}\times \left( \frac{5}{10} \right)=8
+warning Report Error
+
+
+
+question_answer
+The resistance of a wire is {{10}^{-6}}\Omega per metre. It is bend in the form of a circle of diameter 2\,m. A wire of the same material is connected across its diameter. The total resistance across its diameter AB will be
+A)            \frac{4}{3}\pi \times {{10}^{-6}}\Omega              
+B)            \frac{2}{3}\pi \times {{10}^{-6}}\Omega
+C)            0.88\times {{10}^{-6}}\Omega                                  
+D)            14\pi \times {{10}^{-6}}\Omega
+Correct Answer: C
+Solution :
+                   Resistance across AB=\frac{1}{R'}=\frac{1}{R}+\frac{1}{R}+\frac{1}{{{R}_{1}}} {{R}_{1}}=2\times {{10}^{-6}}\Omega and R=\pi \times 1\times {{10}^{-6}}\Omega On solving, R'=0.88\times {{10}^{-6}}\Omega
+warning Report Error
+
+
+
+question_answer
+In the figure shown, the capacity of the condenser C is 2\,\mu F. The current in 2\,\Omega resistor is     [IIT 1982]
+A)            9 A
+B)            0.9 A
+C)            \frac{1}{9}A                   
+D)            \frac{1}{0.9}A
+Correct Answer: B
+Solution :
+                   No current flows through the capacitor branch in steady state. Total current supplied by the battery i =\frac{6}{2.8+1.2}=\frac{3}{2}. Current through 2 W resistor =\frac{3}{2}\times \frac{3}{5}=0.9A
+warning Report Error
+
+
+
+question_answer
+When the key K is pressed at time t=0, which of the following statements about the current I in the resistor AB of the given circuit is true                                         [CBSE PMT 1995]
+A)            I = 2 mA  at all t
+B)            I oscillates between 1 mA and 2mA
+C)            I = 1 mA at all t
+D)            At t = 0 , I = 2 mA and with time it goes to 1 mA
+Correct Answer: D
+Solution :
+                   At time t = 0 i.e. when capacitor is charging, current i=\frac{2}{1000}=2mA When capacitor is full charged, no current will pass through it, hence current through the circuit i=\frac{2}{2000}=1mA
+warning Report Error
+
+
+
+question_answer
+  A torch bulb rated as 4.5 W, 1.5 V is connected as shown in the figure. The e.m.f. of the cell needed to make the bulb glow at full intensity is                                            [MP PMT 1999]           
+A)            4.5 V
+B)            1.5 V
+C)            2.67 V
+D)            13.5 V
+Correct Answer: D
+Solution :
+                   Current in the bulb =\frac{P}{V}=\frac{4.5}{1.5}=3A Current in 1 W resistance =\frac{1.5}{1}=1.5A Hence total current from the cell i=3+1.5=4.5A By using E=V+irÞ E=1.5+4.5\times (2.67)=13.5V
+warning Report Error
+
+
+
+question_answer
+In the circuit shown in the figure, the current through [IIT 1998]
+A)            The 3W resistor is 0.50A
+B)            The 3W resistor is 0.25\,A
+C)            The 4W resistor is 0.50A
+D)            The 4W resistor is 0.25\,A
+Correct Answer: D
+Solution :
+                   Equivalent resistance of the circuit R=9\Omega \ Main current i=\frac{V}{R}=\frac{9}{9}=1A After proper distribution, the current through 4W resistance is 0.25 A
+warning Report Error
+
+
+
+question_answer
+There are three resistance coils of equal resistance. The maximum number of resistances you can obtain by connecting them in any manner you choose, being free to use any number of the coils in any way is [ISM Dhanbad 1994]
+A)            3    
+B)            4
+C)            6    
+D)            5
+Correct Answer: B
+Solution :
+           Maximum number of resistance ={{2}^{n-1}}={{2}^{3-1}}=4
+warning Report Error
+
+
+
+question_answer
+In the circuit shown, the value of each resistance is r, then equivalent resistance of circuit between points A and B will be                                               [Similar to CBSE PMT 1999; RPET 1999]
+A)            (4/3) r
+B)            3r / 2
+C)            r / 3
+D)            8r / 7
+Correct Answer: D
+Solution :
+                   The given circuit can be simplified as follows.
+warning Report Error
+
+
+
+question_answer
+If in the circuit shown below, the internal resistance of the battery is 1.5 W and VP and VQ are the potentials at P and Q respectively, what is the potential difference between the points P and Q                                       [MP PET 2000]
+A)             Zero
+B)            4 volts (VP > VQ)
+C)            4 volts (VQ > VP)
+D)            2.5 volts (VQ > VP)
+Correct Answer: D
+Solution :
+                   {{R}_{eq}}=\frac{5}{2}\Omega i=\frac{20}{\frac{5}{2}+1.5}=5A Potential difference between X and P, {{V}_{X}}-{{V}_{P}}=\left( \frac{5}{2} \right)\times 3=7.5V                  ....(i) {{V}_{X}}-{{V}_{Q}}=\frac{5}{2}\times 2=5V                              ?(ii)       On solving (i) and (ii) {{V}_{P}}-{{V}_{Q}}=-2.5\text{ }volt\text{; }{{V}_{Q}}>{{V}_{P}}. Short Trick : ({{V}_{P}}-{{V}_{Q}})=\frac{i}{2}({{R}_{2}}-{{R}_{1}})=\frac{5}{2}(2-3)=-\,2.5 Þ {{V}_{Q}}>{{V}_{P}}
+warning Report Error
+
+
+
+question_answer
+Two wires of resistance R1 and R2 have temperature coefficient of resistance {{\alpha }_{1}}\text{ and }{{\alpha }_{2}}, respectively.  These are joined in series.  The effective temperature coefficient of resistance is                                  [MP PET 2003]
+A)            \frac{{{\alpha }_{1}}+{{\alpha }_{2}}}{2}               
+B)            \sqrt{{{\alpha }_{1}}{{\alpha }_{2}}}
+C)            \frac{{{\alpha }_{1}}{{R}_{1}}+{{\alpha }_{2}}{{R}_{2}}}{{{R}_{1}}+{{R}_{2}}}      
+D)            \frac{\sqrt{{{R}_{1}}{{R}_{2}}{{\alpha }_{1}}{{\alpha }_{2}}}}{\sqrt{R_{1}^{2}+R_{2}^{2}}}
+Correct Answer: C
+Solution :
+                   {{R}_{{{t}_{1}}}}={{R}_{1}}(1+{{\alpha }_{1}}t) and {{R}_{{{t}_{2}}}}={{R}_{2}}(1+{{\alpha }_{2}}t) Also  {{R}_{eq.}}={{R}_{{{t}_{1}}}}+{{R}_{{{t}_{2}}}}\Rightarrow {{R}_{eq}}={{R}_{1}}+{{R}_{2}}+({{R}_{1}}{{\alpha }_{1}}+{{R}_{2}}{{\alpha }_{2}})t Þ {{R}_{eq}}=({{R}_{1}}+{{R}_{2}})\left\{ 1+\left( \frac{{{R}_{1}}{{\alpha }_{1}}+{{R}_{2}}{{\alpha }_{2}}}{{{R}_{1}}+{{R}_{2}}} \right).t \right\} So {{\alpha }_{eff}}=\frac{{{R}_{1}}{{\alpha }_{1}}+{{R}_{2}}{{\alpha }_{2}}}{{{R}_{1}}+{{R}_{2}}}
+warning Report Error
+
+
+
+question_answer
+Two cells of equal e.m.f. and of internal resistances {{r}_{1}} and {{r}_{2}}({{r}_{1}}>{{r}_{2}}) are connected in series. On connecting this combination to an external resistance R, it is observed that the potential difference across the first cell becomes zero. The value of R will be [MP PET 1985; KCET 2005; Kerala PMT 2005]
+A)            {{r}_{1}}+{{r}_{2}}       
+B)            {{r}_{1}}-{{r}_{2}}
+C)            \frac{{{r}_{1}}+{{r}_{2}}}{2}                                        
+D)            \frac{{{r}_{1}}-{{r}_{2}}}{2}
+Correct Answer: B
+Solution :
+                   Let the voltage across any one cell is V, then V=E-ir=E-{{r}_{1}}\,\left( \frac{2E}{{{r}_{1}}+{{r}_{2}}+R} \right) But V = 0 Þ E-\frac{2E{{r}_{1}}}{{{r}_{1}}+{{r}_{2}}+R}=0 Þ {{r}_{1}}+{{r}_{2}}+R=2{{r}_{1}} Þ R={{r}_{1}}-{{r}_{2}}
+warning Report Error
+
+
+
+question_answer
+When connected across the terminals of a cell, a voltmeter measures 5V and a connected ammeter measures 10 A of current. A resistance of 2 ohms is connected across the terminals of the cell. The current flowing through this resistance will be                                                         [MP PMT 1997]
+A)            2.5 A                                        
+B)            2.0 A
+C)                   5.0 A                                        
+D)            7.5 A
+Correct Answer: B
+Solution :
+                   Emf E = 5V , Internal resistance r=\frac{5}{10}=0.5\Omega Current through the resistance i=\frac{5}{(2+0.5)}=2A
+warning Report Error
+
+
+
+question_answer
+In the circuit shown here, E1 = E2 = E3 = 2 V and R1 = R2 = 4 ohms.  The current flowing between points A and B through battery E2 is                                                                   [MP PET 2001]
+A)            Zero
+B)            2 amp from A to B
+C)            2 amp from B to A
+D)            None of the above
+Correct Answer: B
+Solution :
+                   The given circuit can be redrawn {{E}_{eq}}=\frac{{{E}_{1}}{{R}_{2}}+{{E}_{2}}{{R}_{1}}}{{{R}_{1}}+{{R}_{2}}}=\frac{2\times 4+2\times 4}{4+4}=2V and {{R}_{eq}}=\frac{4}{2}=2\Omega . Current i=\frac{2+2}{2}=2A from A to B through E2
+warning Report Error
+
+
+
+question_answer
+In the circuit shown below E1 = 4.0 V, R1= 2 W, E2 = 6.0 V, R2 = 4 W and R3 = 2 W.  The current  I1 is                [MP PET 2003]
+A)            1.6 A
+B)            1.8 A
+C)            1.25 A
+D)            1.0 A
+Correct Answer: B
+Solution :
+                   Applying Kirchhoff?s law for the loops (1) and (2) as shown in figure For loop (1) -2{{i}_{1}}-2({{i}_{1}}-{{i}_{2}})+4=0 Þ 2{{i}_{1}}-{{i}_{2}}=2       ?(i) For loop (2)  -2({{i}_{1}}-{{i}_{2}})+4{{i}_{2}}-6=0 Þ -{{i}_{1}}+3{{i}_{2}}=3     ?(ii) On solving equation (i) and (ii) {{i}_{1}}=1.8A.
+warning Report Error
+
+
+
+question_answer
+A microammeter has a resistance of 100\,\Omega and full scale range of 50\,\mu A. It can be used as a voltmeter or as a higher range ammeter provided a resistance is added to it. Pick the correct range and resistance combination [SCRA 1996; AMU (Med.) 2001; Roorkee 2000]
+A)            50 V range with 10\,k\Omega resistance in series
+B)            10 V range with 200\,k\Omega resistance in series
+C)            10 mA range with 1\,\Omega resistance in parallel
+D)            10 mA range with 0.1\,\Omega resistance in parallel
+Correct Answer: B
+Solution :
+           To convert a galvanometer into an ammeter, a shunt S=\frac{{{I}_{g}}}{I-{{I}_{g}}}G is connected in parallel with it. To convert a galvanometer into a voltmeter, a resistance R=\frac{V}{{{I}_{g}}}-G is connected in series with it.
+warning Report Error
+
+
+
+question_answer
+The potential difference across 8 ohm resistance is 48 volt as shown in the figure. The value of potential difference across X and Y points will be                                   [MP PET 1996]
+A)            160 volt
+B)            128 volt
+C)            80 volt
+D)            62 volt
+Correct Answer: A
+Solution :
+                   The given circuit can be redrawn as follows Resistance between A and B =\frac{24\times 8}{32}=6\,\Omega Current between A and B = Current between X and Y =i=\frac{48}{6}=8A Resistance between X and Y =(3+10+6+1)=20\,\Omega Þ Potential difference between X and Y = 8 ´ 20 = 160 V
+warning Report Error
+
+
+
+question_answer
+Two resistances {{R}_{1}} and {{R}_{2}} are made of different materials. The temperature coefficient of the material of {{R}_{1}} is \alpha and of the material of {{R}_{2}} is -\beta . The resistance of the series combination of {{R}_{1}} and {{R}_{2}} will not change with temperature, if {{R}_{1}}/{{R}_{2}} equals                                                                         [MP PMT 1997]
+A)            \frac{\alpha }{\beta }
+B)            \frac{\alpha +\beta }{\alpha -\beta }
+C)            \frac{{{\alpha }^{2}}+{{\beta }^{2}}}{\alpha \beta }       
+D)            \frac{\beta }{\alpha }
+Correct Answer: D
+Solution :
+                   {{R}_{1}}+{{R}_{2}}={{R}_{1}}(1+\alpha t)+{{R}_{2}}(1-\beta \,t) Þ {{R}_{1}}+{{R}_{2}}={{R}_{1}}+{{R}_{2}}+{{R}_{1}}\alpha t-{{R}_{2}}\beta tÞ \frac{{{R}_{1}}}{{{R}_{2}}}=\frac{\beta }{\alpha }
+warning Report Error
+
+
+
+question_answer
+An ionization chamber with parallel conducting plates as anode and cathode has 5\times {{10}^{7}} electrons and the same number of singly-charged positive ions perc{{m}^{3}}. The electrons are moving at 0.4 m/s. The current density from anode to cathode is 4\,\mu A/{{m}^{2}}.  The velocity of positive ions moving towards cathode is                                                                      [CBSE PMT 1992]
+A)            0.4 m/s                                   
+B)            16 m/s
+C)            Zero                                         
+D)            0.1 m/s
+Correct Answer: D
+Solution :
+                   Current density of drifting electrons j = nev n=5\times {{10}^{7}}c{{m}^{-3}}=5\times {{10}^{7}}\times {{10}^{6}}{{m}^{-3}}. v=0.4m{{s}^{-1}},\,e=1.6\times {{10}^{-19}}CÞ j=3.2\times {{10}^{-6}}A{{m}^{-2}} Current density of ions = (4 ? 3.2) ´ 10?6 =0.8\times {{10}^{-6}}\frac{A}{{{m}^{2}}} This gives v for ions = 0.1 ms?1.
+warning Report Error
+
+
+
+question_answer
+  A wire of resistance 10 W is bent to form a circle. P and Q are points on the circumference of the circle dividing it into a quadrant and are connected to a Battery of 3 V and internal resistance 1 W as shown in the figure.  The currents in the two parts of the circle are                              [Roorkee 1999]
+A)            \frac{6}{23}A\,\,\text{and}\,\text{ }\frac{18}{23}A
+B)            \frac{5}{26}A\,\,\text{and}\,\frac{15}{26}A
+C)            \frac{4}{25}A\,\,\text{and}\,\text{ }\frac{12}{25}A
+D)            \frac{3}{25}A\,\,\text{and}\,\text{ }\frac{9}{25}A
+Correct Answer: A
+Solution :
+                   In the following figure   Resistance of part PNQ; {{R}_{1}}=\frac{10}{4}=2.5\Omega and Resistance of part PMQ; {{R}_{2}}=\frac{3}{4}\times 10=7.5\Omega {{R}_{eq}}=\frac{{{R}_{1}}{{R}_{2}}}{{{R}_{1}}+{{R}_{2}}}=\frac{2.5\times 7.5}{(2.5+7.5)} =\frac{15}{8}\Omega . Main Current i = \frac{3}{\frac{15}{8}+1}=\frac{24}{23}A So, i1= i\times \left( \frac{{{R}_{2}}}{{{R}_{1}}+{{R}_{2}}} \right)=\frac{24}{23}\times \left( \frac{7.5}{2.5+7.5} \right)=\frac{18}{23}A and {{i}_{2}}=i-{{i}_{1}}=\frac{24}{23}-\frac{18}{23}=\frac{6}{23}A.
+warning Report Error
+
+
+
+question_answer
+In the given circuit, it is observed that the current I is independent of the value of the resistance R6. Then the resistance values must satisfy                                    [IIT-JEE (Screening) 2001]
+A)            {{R}_{1}}{{R}_{2}}{{R}_{5}}={{R}_{3}}{{R}_{4}}{{R}_{6}}
+B)            \frac{1}{{{R}_{5}}}+\frac{1}{{{R}_{6}}}=\frac{1}{{{R}_{1}}+{{R}_{2}}}+\frac{1}{{{R}_{3}}+{{R}_{4}}}
+C)            {{R}_{1}}{{R}_{4}}={{R}_{2}}{{R}_{3}}                     
+D)            {{R}_{1}}{{R}_{3}}={{R}_{2}}{{R}_{4}}={{R}_{5}}{{R}_{6}}
+Correct Answer: C
+Solution :
+           As I is independent of {{R}_{6}}, no current flows through {{R}_{6}} this requires that the junction of {{R}_{1}} and {{R}_{2}} is at the same potential as the junction of {{R}_{3}} and {{R}_{4}}. This must satisfy the condition \frac{{{R}_{1}}}{{{R}_{2}}}=\frac{{{R}_{3}}}{{{R}_{4}}}, as in the Wheatstone bridge.
+warning Report Error
+
+
+
+question_answer
+In the given circuit, with steady current, the potential drop across the capacitor must be                               [IIT-JEE (Screening) 2001]
+A)            V
+B)            V / 2
+C)            V / 3
+D)            2V / 3
+Correct Answer: C
+Solution :
+                   Moving anticlockwise from A -\,iR-V+2V-2iR=0 or 3iR=V or i=\frac{V}{3R} {{V}_{A}}-{{V}_{B}}=iR+V-V=iR Þ Potential drop across C =\frac{V}{3}
+warning Report Error
+
+
+
+question_answer
+A wire of length L and 3 identical cells of negligible internal resistances are connected in series.  Due to current, the temperature of the wire is raised by \Delta T in a time t.  A number N of similar cells is now connected in series with a wire of the same material and cross?section but of length 2 L.  The temperature of the wire is raised by the same amount \Delta T in the same time t.  the value of N is                                                                            [IIT-JEE (Screening) 2001]
+A)            4    
+B)            6
+C)            8    
+D)            9
+Correct Answer: B
+Solution :
+                   Let R and m be the resistance and mass of the first wire, then the second wire has resistance 2R and mass 2m. Let E = emf of each cell, S = specific heat capacity of the material of the wire. For the first wire, current {{i}_{1}}=\frac{3E}{R} and i_{1}^{2}Rt=mS\Delta T For the second wire, {{i}_{2}}=\frac{NE}{2R} and i_{2}^{2}(2R)t=2mS\Delta T. Thus, {{i}_{1}}={{i}_{2}} or N=6.
+warning Report Error
+
+
+
+question_answer
+What is the equivalent resistance between the points A and B of the network                                   [AMU (Engg.) 2001]
+A)            \frac{57}{7}\Omega
+B)            8 W
+C)            6 W
+D)            \frac{57}{5}\Omega
+Correct Answer: B
+Solution :
+                   {{R}_{AB}}=8\Omega .
+warning Report Error
+
+
+
+question_answer
+The effective resistance between points P and Q of the electrical circuit shown in the figure is                                                               [IIT-JEE (Screening) 2002]
+A)            2Rr/(R+r)
+B)            8R\,(R+r)/(3R+r)
+C)            2r+4R
+D)            5R/2\,\,+\,2r
+Correct Answer: A
+Solution :
+                   In a circuit, any circuit element placed between points at the same potential can be removed, without affecting the rest of the circuit. Here, by symmetry, points A, B and C are at same potential, for any potential difference between P and Q. The circuit can therefore be reduced as shown below Effective resistance {{R}_{eq}}=\frac{2Rr}{R+r}.
+warning Report Error
+
+
+
+question_answer
+                In the circuit element given here, if the potential at point B, VB = 0, then the potentials of A and D are given as [AMU (Med.) 2002]
+A)            {{V}_{A}}=-1.5\,V,\,{{V}_{D}}=+2\,V                      
+B)            {{V}_{A}}=+1.5\,V,\,{{V}_{D}}=+2\,V
+C)            {{V}_{A}}=+1.5\,V,\,{{V}_{D}}=+0.5\,V                 
+D)            {{V}_{A}}=+1.5\,V,\,{{V}_{D}}=-0.5\,V
+Correct Answer: D
+Solution :
+                   Potential difference between A and B {{V}_{A}}-{{V}_{B}}=1\times 1.5 \Rightarrow \,\,\,{{V}_{A}}-0=1.5V\Rightarrow {{V}_{A}}=1.5V Potential difference between B and C {{V}_{B}}-{{V}_{C}}=1\times 2.5=2.5V Þ 0-{{V}_{C}}=2.5V\Rightarrow {{V}_{C}}=-2.5V Potential difference between C and D {{V}_{C}}-{{V}_{D}}=-2V\Rightarrow \,\,\,-2.5-{{V}_{D}}=-2\Rightarrow \,{{V}_{D}}=-0.5V.
+warning Report Error
+
+
+
+question_answer
+The equivalent resistance between the points P and Q in the network given here is equal to (given r=\frac{3}{2}\Omega ) [AMU (Med.) 2002]
+A)            \frac{1}{2}\,\,\Omega
+B)            1 W
+C)            \frac{3}{2}\,\,\Omega
+D)            2 W
+Correct Answer: B
+Solution :
+                   The given circuit can be simplifies as follows R'=\frac{2r}{3}=\frac{2}{3}\times \frac{3}{2}=1\Omega .
+warning Report Error
+
+
+
+question_answer
+The current in a conductor varies with time t as I=2t+3{{t}^{2}} where I is in ampere and t in seconds.  Electric charge flowing through a section of the conductor during t = 2 sec to t = 3 sec is                                                [Orissa JEE 2003]
+A)            10 C                                          
+B)            24 C
+C)            33 C                                          
+D)            44 C
+Correct Answer: B
+Solution :
+                   dQ = IdtÞ Q=\int_{t=2}^{t=3}{\,Idt}=\left[ 2\int\limits_{2}^{3}{tdt}+3\int\limits_{2}^{3}{{{t}^{2}}dt} \right]  = \left[ {{t}^{2}} \right]_{2}^{3}+\left[ {{t}^{3}} \right]_{2}^{3}= (9 ? 4) + (27 ? 8) = 5 + 19 = 24C.
+warning Report Error
+
+
+
+question_answer
+A group of N cells whose emf varies directly with the internal resistance as per the equation EN = 1.5 rN are connected as shown in the figure below.  The current I in the circuit is [KCET 2003]
+A)            0.51 amp
+B)            5.1 amp
+C)            0.15 amp
+D)            1.5 amp
+Correct Answer: D
+Solution :
+                   i=\frac{{{E}_{1}}+{{E}_{2}}+{{E}_{3}}+.....+{{E}_{n}}}{({{r}_{1}}+{{r}_{2}}+{{r}_{3}}+.......+{{r}_{n}})}   =\frac{1.5({{r}_{1}}+{{r}_{2}}+{{r}_{3}}+......+{{r}_{n}})}{({{r}_{1}}+{{r}_{2}}+{{r}_{3}}+.....+{{r}_{n}})}=1.5A.
+warning Report Error
+
+
+
+question_answer
+  In the shown arrangement of the experiment of the meter bridge if AC corresponding to null deflection of galvanometer is x, what would be its value if the radius of the wire AB is doubled [IIT-JEE (Screening) 2003]
+A)            x
+B)            x/4
+C)            4x
+D)            2x
+Correct Answer: A
+Solution :
+           Balancing length is independent of the cross sectional area of the wire.
+warning Report Error
+
+
+
+question_answer
+The resistance of a wire of iron is 10 ohms and temp. coefficient of resistivity is 5\times {{10}^{-3}}/{}^\circ C. At 20{}^\circ C it carries 30 milliamperes of current. Keeping constant potential difference between its ends, the temperature of the wire is raised to 120{}^\circ C. The current in milliamperes that flows in the wire is [MP PMT 1994]
+A)            20  
+B)            15
+C)            10  
+D)            40
+Correct Answer: A
+Solution :
+           \frac{{{R}_{1}}}{{{R}_{2}}}=\frac{(1+\alpha {{t}_{1}})}{(1+\alpha {{t}_{2}})}Þ\frac{10}{{{R}_{2}}}=\frac{(1+5\times {{10}^{-3}}\times 20)}{(1+5\times {{10}^{-3}}\times 120)}Þ{{R}_{2}}\approx 15\Omega Also \frac{{{i}_{1}}}{{{i}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}} Þ \frac{30}{{{i}_{2}}}=\frac{15}{10} Þ {{i}_{2}}=20\,mA
+warning Report Error
+
+
+
+question_answer
+Seven resistances are connected as shown in the figure.  The equivalent resistance between A and B is [MP PET 2000]
+A)            3 W
+B)            4 W
+C)            4.5 W
+D)            5 W
+Correct Answer: B
+Solution :
+                   The given circuit can be simplified as follows Now it is a balance Wheatstone bridge. So, Þ {{R}_{AB}}=\frac{8\times 8}{8+8}=\frac{64}{16}=4\Omega
+warning Report Error
+
+
+
+question_answer
+A battery of internal resistance 4W is connected to the network of resistances as shown. In order to give the maximum power to the network, the value of R (in \Omega ) should be                                              [IIT 1995]
+A)            4/9
+B)            8/9
+C)            2
+D)            18
+Correct Answer: C
+Solution :
+                   The equivalent network is Clearly, the network of resistances is a balanced Wheatstone bridge. So {{R}_{AB}} is given by \frac{1}{{{R}_{AB}}}=\frac{1}{3R}+\frac{1}{6R}=\frac{2+1}{6R}=\frac{1}{2R} Þ {{R}_{AB}}=2R For maximum power transfer 2R=4\Omega Þ R=\frac{4}{2}=2\Omega
+warning Report Error
+
+
+
+question_answer
+In the circuit shown here, the readings of the ammeter and voltmeter are                           [Kerala PMT 2002]
+A)            6 A, 60 V
+B)            0.6 A, 6 V
+C)            6/11 A, 60/11 V
+D)            11/6 A, 11/60 V
+Correct Answer: C
+Solution :
+                   The given circuit can be redrawn as follows Current i=\frac{6}{6+4+1}=\frac{6}{11}A P.D. between A and B, V=\frac{6}{11}\times 10=\frac{60}{11}V.
+warning Report Error
+
+
+
+question_answer
+Length of a hollow tube is 5m, it?s outer diameter is 10 cm and thickness of it?s wall is 5 mm. If resistivity of the material of the tube is 1.7 ´ 10?8 W´m then resistance of tube will be
+A)            5.6 ´ 10?5 W                          
+B)            2 ´ 10?5 W
+C)            4 ´ 10?5 W                              
+D)            None of these
+Correct Answer: A
+Solution :
+                   By using R=\rho .\frac{l}{A}; here A=\pi (r_{2}^{2}-r_{1}^{2}) Outer radius r2 = 5cm Inner radius r1 = 5 ? 0.5 = 4.5 cm So R=1.7\times {{10}^{-8}}\times \frac{5}{\pi \{{{(5\times {{10}^{-2}})}^{2}}-{{(4.5\times {{10}^{-2}})}^{2}}\}} =5.6\times {{10}^{-5}}\Omega
+warning Report Error
+
+
+
+question_answer
+A wire of resistor R is bent into a circular ring of radius r. Equivalent resistance between two points X and Y on its circumference, when angle XOY is a, can be given by
+A)            \frac{R\alpha }{4{{\pi }^{2}}}(2\pi -\alpha )
+B)            \frac{R}{2\pi }(2\pi -\alpha )
+C)            R (2p ? a)
+D)            \frac{4\pi }{R\alpha }(2\pi -\alpha )
+Correct Answer: A
+Solution :
+                   Here {{R}_{XWY}}=\frac{R}{2\pi r}\times (r\alpha )=\frac{R\alpha }{2\pi }    \left( \because \,\alpha =\frac{l}{r} \right) and  {{R}_{XZY}}=\frac{R}{2\pi r}\times r(2\pi -\alpha )=\frac{R}{2\pi }(2\pi -\alpha ) {{R}_{eq}}=\frac{{{R}_{XWY}}{{R}_{XZY}}}{{{R}_{XWY}}+{{R}_{XZY}}}=\frac{\frac{R\alpha }{2\pi }\times \frac{R}{2\pi }(2\pi -\alpha )}{\frac{R\alpha }{2\pi }+\frac{R(2\pi -\alpha )}{2\pi }}=\frac{R\alpha }{4{{\pi }^{2}}}(2\pi -\alpha )
+warning Report Error
+
+
+
+question_answer
+Potential difference across the terminals of the battery shown in figure is (r = internal resistance of battery)
+A)            8 V
+B)            10 V
+C)            6 V
+D)            Zero
+Correct Answer: D
+Solution :
+           Battery is short circuited so potential difference is zero.
+warning Report Error
+
+
+
+question_answer
+As the switch S is closed in the circuit shown in figure, current passed through it is           
+A)            4.5 A
+B)            6.0 A
+C)            3.0 A
+D)            Zero
+Correct Answer: A
+Solution :
+                   Let V be the potential of the junction as shown in figure. Applying junction law, we have or \frac{20-V}{2}+\frac{5-V}{4}=\frac{V-0}{2}  or  40 ? 2V + 5 ? V = 2V or  5V = 45 Þ V = 9V \ {{i}_{3}}=\frac{V}{2}=4.5A
+warning Report Error
+
+
+
+question_answer
+In the following circuit a 10 m long potentiometer wire with resistance 1.2 ohm/m, a resistance R1 and an accumulator of emf 2 V are connected in series. When the emf of thermocouple is 2.4 mV then the deflection in galvanometer is zero. The current supplied by the accumulator will be
+A)            4 ´ 10?4 A
+B)            8 ´ 10?4 A
+C)            4 ´ 10?3 A
+D)            8 ´ 10?3 A
+Correct Answer: A
+Solution :
+           E=x\,l=i\rho \,lÞ i=\frac{E}{\rho l}=\frac{E}{\rho l}=\frac{2.4\times {{10}^{-3}}}{1.2\times 5}=4\times {{10}^{-4}}A.
+warning Report Error
+
+
+
+question_answer
+  In the following circuit, bulb rated as 1.5 V, 0.45 W. If bulbs glows with full intensity then what will be the equivalent resistance between X and Y
+A)            0.45 W
+B)            1 W
+C)            3 W
+D)            5 W
+Correct Answer: B
+Solution :
+                   When bulb glows with full intensity, then voltage across it will be 1.5 V and voltage across 3 W resistance will be 4.5 V. Current through 3 W resistance Same current will flow between X and Y So Þ Þ
+warning Report Error
+
+
+
+question_answer
+Consider the circuits shown in the figure. Both the circuits are taking same current from battery but current through R in the second circuit is \frac{1}{10}th of current through R in the first circuit. If R is 11 W, the value of R1
+A)            9.9 W
+B)            11 W
+C)            8.8 W
+D)            7.7 W
+Correct Answer: A
+Solution :
+                   In figure (b) current through {{R}_{2}}=i-\frac{i}{10}=\frac{9i}{10} Potential difference across {{R}_{2}} = Potential difference across R  Þ {{R}_{2}}\times \frac{9}{10}i=R\times \frac{i}{10} i.e. {{R}_{2}}=\frac{R}{9}=\frac{11}{9}\Omega {{R}_{eq}}=\frac{{{R}_{2}}\times R}{({{R}_{2}}+R)}=\frac{\frac{11}{9}\times \frac{11}{1}}{\frac{11}{9}+\frac{11}{1}}=\frac{11}{10}\Omega Total circuit resistance =\frac{11}{10}+{{R}_{1}}=R=11Þ {{R}_{1}}=9.9\Omega
+warning Report Error
+
+
+
+question_answer
+In order to quadruple the resistance of a uniform wire, a part of its length was uniformly stretched till the final length of the entire wire was 1.5 times the original length, the part of the wire was fraction equal to
+A)            1 / 8
+B)            1 / 6
+C)            1 / 10
+D)            1 / 4
+Correct Answer: A
+Solution :
+                   Let l be the original length of wire and x be its length stretched uniformly such that final length is 1.5 l Then 4R=\rho \frac{(l-x)}{A}+\rho \frac{(0.5l+x)}{A'}where A'=\frac{x}{(0.5l+x)}A \ 4\rho \frac{l}{A}=\rho \frac{l-x}{A}+\rho \frac{{{(0.5l+x)}^{2}}}{xA} or 4l=l-x+\frac{1}{4}\frac{{{l}^{2}}}{x}+\frac{{{x}^{2}}}{x}+\frac{lx}{x} or \frac{x}{l}=\frac{1}{8}
+warning Report Error
+
+
+
+question_answer
+In the circuit shown in figure reading of voltmeter is V1 when only S1 is closed, reading of voltmeter is V2 when only S2 is closed and reading of voltmeter is V3 when both S1 and S2 are closed. Then
+A)            V3 > V2 > V1
+B)            V2 > V1 > V3
+C)            V3 > V1 > V2
+D)            V1 > V2 > V3
+Correct Answer: B
+Solution :
+                   In series : Potential difference µ R When only S1 is closed {{V}_{1}}=\frac{3}{4}E=0.75E When only S2 is closed {{V}_{2}}=\frac{6}{7}E=0.86E and when both S1 and S2 are closed combined resistance of 6R and 3R is 2R \     {{V}_{3}}=\left( \frac{2}{3} \right)E=0.67E  Þ {{V}_{2}}>{{V}_{1}}>{{V}_{3}}
+warning Report Error
+
+
+
+question_answer
+  Current through wire XY of circuit shown is
+A)            1 A
+B)            4 A
+C)            2 A
+D)            3 A
+Correct Answer: C
+Solution :
+-\,{{i}_{1}}+0\times {{i}_{xy}}+3{{i}_{2}}=0i.e. {{i}_{1}}=3{{i}_{2}}  ......(i) Also -2({{I}_{1}}-{{I}_{xy}})+4({{I}_{2}}+{{I}_{xy}})=0 i.e. 2{{I}_{1}}-4{{I}_{2}}=6{{I}_{xy}}                                      ....(ii) Also {{V}_{AB}}-1\times {{i}_{1}}-2({{i}_{1}}-{{i}_{xy}})=0Þ 50={{i}_{1}}+2({{i}_{1}}-{{i}_{xy}}) =3{{I}_{1}}-2{{I}_{xy}}                               .... (iii) Solving (i), (ii) and (iii),  {{i}_{xy}}=2A
+warning Report Error
+
+
+
+question_answer
+12 cells each having same emf are connected in series with some cells wrongly connected. The arrangement is connected in series with an ammeter and two cells which are in series. Current is 3 A when cells and battery aid each other and is 2 A when cells and battery oppose each other. The number of cells wrongly connected is
+A)            4    
+B)            1
+C)            3    
+D)            2
+Correct Answer: B
+Solution :
+                   Let n be the number of wrongly connected cells. Number of cells helping one another =(12-n) Total e.m.f. of such cells =(12-n)E Total e.m.f. of cells opposing = nE Resultant e.m.f. of battery =(12-n)E-nE=(12-2n)E Total resistance of cells = 12r (Q resistance remains same irrespective of connections of cells) With additional cells  Total e.m.f. of cells when additional cells help battery = (12 ? 2n) E + 2E Total resistance = 12r + 2r = 14r \ \frac{(12-2n)E+2E}{14r}=3     ......(i)  Similarly when additional cells oppose the battery      \frac{(12-2n)E-2E}{14r}=2       ......(ii) Solving (i) and (ii), n = 1
+warning Report Error
+
+
+
+question_answer
+Following figure shows cross-sections through three long conductors of the same length and material, with square cross-section of edge lengths as shown. Conductor B will fit snugly within conductor A, and conductor C will fit snugly within conductor B. Relationship between their end to end resistance is
+A)            RA = RB = RC
+B)            RA > RB > RC
+C)            RA < RB < R
+D)            Information is not sufficient
+Correct Answer: A
+Solution :
+                   All the conductors have equal lengths. Area of cross-section of A is \{{{(\sqrt{3}\,a)}^{2}}-{{(\sqrt{2}\,a)}^{2}}\}={{a}^{2}} Similarly area of cross-section of B = Area of cross-section of C = a2 Hence according to formula R=\rho \frac{l}{A}; resistances of all the conductors are equal  i.e. RA = RB = RC
+warning Report Error
+
+
+
+question_answer
+In the following star circuit diagram (figure), the equivalent resistance between the points A and H will be
+A)            1.944 r
+B)            0.973 r
+C)            0.486 r
+D)            0.243 r
+Correct Answer: B
+Solution :
+                   Resistance of CD arm = 2r cos 72o = 0.62r Resistance of CBFC branch \frac{1}{R}=\frac{1}{2r}+\frac{1}{0.62r}=\frac{1}{r}\left( \frac{2.62}{2\times 0.62} \right) \frac{1}{R}=\frac{2.62}{1.24r}        \R=\frac{1.24r}{2.62} Equivalent R'=2R+r=2\times \frac{1.24r}{2.62}+r =r\,\left( \frac{2.48}{2.62}+1 \right)=1.946r Because the star circuit is symmetrical about the line AH \ Equivalent resistance between A and H \frac{1}{{{R}_{eq}}}=\frac{1}{R'}+\frac{1}{R'}Þ {{R}_{eq}}=\frac{R'}{2}=\frac{1.946}{2}r=0.973r
+warning Report Error
+
+
+
+question_answer
+In the adjoining circuit diagram each resistance is of 10 W. The current in the arm AD will be
+A)           
+B)           
+C)           
+D)           
+Correct Answer: A
+Solution :
+Applying Kirchoff's law in mesh ABCDA         Þ .......(i) and in mesh BEFCB        Þ                        ......(ii) From equation (i) and (ii)  Þ
+warning Report Error
+
+
+
+question_answer
+In the circuit of adjoining figure the current through 12 W resister will be
+A)            1 A
+B)            \frac{1}{5}A
+C)            \frac{2}{5}A
+D)            0 A
+Correct Answer: D
+Solution :
+                   Let the current in 12 W resistance is i Applying loop theorem in closed mesh AEFCA 12i = ? E + E = 0    \ i = 0
+warning Report Error
+
+
+
+question_answer
+  The reading of the ideal voltmeter in the adjoining diagram will be
+A)            4 V
+B)            8 V
+C)            12 V
+D)            14 V
+Correct Answer: B
+Solution :
+           Current flowing in the circuit i=\frac{E}{R}=\frac{10-4}{20+10}=\frac{1}{5}A P.D. across AC =\frac{1}{5}\times 20=4V P.D. across AN = 4 + 4 = 8V
+warning Report Error
+
+
+
+question_answer
+The resistance of the series combination of two resistance is S. When they are joined in parallel the total resistance is P. If S = nP, then the minimum possible value of n is  [AIEEE 2004]
+A)            4    
+B)            3
+C)            2    
+D)            1
+Correct Answer: A
+Solution :
+           If two resistances are {{R}_{1}} and {{R}_{2}} then                    S={{R}_{1}}+{{R}_{2}} and P=\frac{{{R}_{1}}{{R}_{2}}}{({{R}_{1}}+{{R}_{2}})} From given condition S = nP i.e.  ({{R}_{1}}+{{R}_{2}})=n\,\left( \frac{{{R}_{1}}{{R}_{2}}}{{{R}_{1}}+{{R}_{2}}} \right) Þ{{({{R}_{1}}+{{R}_{2}})}^{2}}=n\,\,{{R}_{1}}{{R}_{2}}Þ{{({{R}_{1}}-{{R}_{2}})}^{2}}+4{{R}_{1}}{{R}_{2}}=n{{R}_{1}}{{R}_{2}} So n=4+\frac{{{({{R}_{1}}-{{R}_{2}})}^{2}}}{{{R}_{1}}{{R}_{2}}}. Hence minimum value of n is 4.
+warning Report Error
+
+
+
+question_answer
+A moving coil galvanometer has 150 equal divisions. Its current sensitivity is 10 divisions per milliampere and voltage sensitivity is 2 divisions per millivolt. In order that each division reads 1 volt, the resistance in ohms needed to be connected in series with the coil will be               [AIEEE 2005]
+A)            99995                                      
+B)            9995
+C)            {{10}^{3}}                       
+D)            {{10}^{5}}
+Correct Answer: B
+Solution :
+                   Voltage sensitivity =\frac{\text{Current sensitivity}}{\text{Resistance of galvanometer}\,\text{G}} Þ G=\frac{10}{2}=5\,\Omega . Here {{i}_{g}}= Full scale deflection current =\frac{150}{10}=15\,mA. V = Voltage to be measured = 150 ´ 1 = 150 V. Hence R=\frac{V}{{{i}_{g}}}-G=\frac{150}{15\times {{10}^{-3}}}-5=9995\,\Omega .
+warning Report Error
+
+
+

@@ -1,0 +1,2067 @@
+question_answer
+One kilowatt hour is equal to [NCERT 1974; MP PMT 2002]
+A)                                                    
+B)           
+C)                   
+D)           
+Correct Answer: A
+Solution :
+           1 kWh = 1000 W ´ 3600 sec = 36 ´ 105 W-sec (or J)
+warning Report Error
+
+
+
+question_answer
+If {{R}_{1}} and {{R}_{2}} are respectively the filament resistances of a 200 watt bulb and 100 watt bulb designed to operate on the same voltage, then [NCERT 1980; CPMT 1991, 97]
+A)            {{R}_{1}} is two times {{R}_{2}}                         
+B)            {{R}_{2}} is two times {{R}_{1}}
+C)            {{R}_{2}} is four times {{R}_{1}}                         
+D)            {{R}_{1}} is four times {{R}_{2}}
+Correct Answer: B
+Solution :
+           P\propto \frac{1}{R}\Rightarrow \frac{{{P}_{1}}}{{{P}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}} \Rightarrow \frac{200}{100}=\frac{{{R}_{2}}}{{{R}_{1}}}\Rightarrow {{R}_{2}}=2{{R}_{1}}
+warning Report Error
+
+
+
+question_answer
+Two electric bulbs, one of 200 volt 40 watt and the other 200 volt 100 watt are connected in a house wiring circuit                     [NCERT 1971; CBSE PMT 2000]
+A)            They have equal currents through them
+B)            The resistance of the filaments in both the bulbs is same
+C)            The resistance of the filament in 40 watt bulb is more than the resistance in 100 watt bulb
+D)            The resistance of the filament in 100 watt bulb is more than the resistance in 40 watt bulb
+Correct Answer: C
+Solution :
+                                and
+warning Report Error
+
+
+
+question_answer
+The two bulbs as in the above question are connected in series to a 200 volt line. Then                                  [NCERT 1971, 78]
+A)            The potential drop across the two bulbs is the same
+B)            The potential drop across the 40 watt bulb is greater than the potential drop across the 100 watt bulb
+C)            The potential drop across the 100 W bulb is greater than the potential drop across the 40 W bulb
+D)            The potential drop across both the bulb is 200 volt
+Correct Answer: B
+Solution :
+           When two bulbs are connected in series, the current will be same in both the bulbs. As a result potential drop will be more in the bulb of higher resistance i.e., bulb of lower wattage.
+warning Report Error
+
+
+
+question_answer
+Forty electric bulbs are connected in series across a 220 V supply. After one bulb is fused, the remaining 39 are connected again in series across the same supply. The illumination will be [NCERT 1972; Haryana CEE 1996; DPMT 2001]
+A)            More with 40 bulbs than with 39
+B)            More with 39 bulbs than with 40
+C)            Equal in both the cases
+D)            In the ratio of
+Correct Answer: B
+Solution :
+           When 1 bulb fuses, the total resistance of the circuit decreases hence the current increases. Since
+, therefore illumination increases.
+warning Report Error
+
+
+
+question_answer
+The material of fuse wire should have  [BHU 1999; MH CET 2001; CBSE PMT 2003]
+A)            A high specific resistance and high melting point
+B)            A low specific resistance and low melting point
+C)            A high specific resistance and low melting point
+D)            A low specific resistance and a high melting point
+Correct Answer: C
+Solution :
+warning Report Error
+
+
+
+question_answer
+Two electric bulbs whose resistances are in the ratio of 1 : 2 are connected in parallel to a constant voltage source. The powers dissipated in them have the ratio [NCERT 1977; MP PMT 1994, 2000]
+A)            1 : 2                                          
+B)            1 : 1
+C)            2 : 1                                          
+D)            1 : 4
+Correct Answer: C
+Solution :
+           We know that
+warning Report Error
+
+
+
+question_answer
+A heater coil is cut into two parts of equal length and one of them is used in the heater. The ratio of the heat produced by this half coil to that by the original coil is [NCERT 1972; AIEEE 2005; CBSE PMT 2005]
+A)            2 : 1                                          
+B)            1 : 2
+C)            1 : 4                                          
+D)            4 : 1
+Correct Answer: A
+Solution :
+           and
+             warning Report Error
+
+
+
+question_answer
+  Resistance of one carbon filament and one tungsten lamp are measured individually when the lamp are lit and compared with their respective resistances when cold. Which one of the following statements will be true [NCERT 972]
+A)            Resistance of the carbon filament lamp will increase but that of the tungsten will diminish when hot
+B)            Resistance of the tungsten filament lamp will increase but that of carbon will diminish when hot
+C)            Resistances of both the lamps will increase when hot
+D)            Resistances of both the lamps will decrease when hot
+Correct Answer: B
+Solution :
+           Rconductor µ Temperature and Rsemiconductor µ
+warning Report Error
+
+
+
+question_answer
+The mechanism of the heat produced in a conductor when an electric current flows through it, can be explained on the basis of
+A)            Viscosity                                
+B)            Friction
+C)            Free electron theory        
+D)            Gauss's theorem
+Correct Answer: C
+Solution :
+warning Report Error
+
+
+
+question_answer
+Two electric bulbs whose resistances are in the ratio of 1 : 2 are connected in series. The powers dissipated in them have the ratio                                                                [NCERT 1977]
+A)            1 : 2                                          
+B)            2 : 1
+C)            1 : 1                                          
+D)            1 : 4
+Correct Answer: A
+Solution :
+           In series, current is same in both the bulbs, hence
+  warning Report Error
+
+
+
+question_answer
+You are given a resistance wire of length 50 cm and a battery of negligible resistance. In which of the following cases is largest amount of heat generated
+A)            When the wire is connected to the battery directly
+B)            When the wire is divided into two parts and both the parts connected to the battery in parallel
+C)            When the wire is divided into four parts and all the four connected to the battery in parallel
+D)            When only half the wire is connected to the battery
+Correct Answer: C
+Solution :
+           In this case, or andwill be minimum, when divided four parts are joints in parallel to the battery.
+warning Report Error
+
+
+
+question_answer
+What is immaterial for an electric fuse wire [MNR 1984; MP PMT 2002; CPMT 1996, 2003]
+A)            Its specific resistance
+B)            Its radius
+C)            Its length
+D)            Current flowing through it
+Correct Answer: C
+Solution :
+           Length is immaterial for an electric fuse wire.
+warning Report Error
+
+
+
+question_answer
+The electric bulbs have tungsten filaments of same length. If one of them gives 60 watt and other 100 watt, then [NCERT 1979]
+A)            100 watt bulb has thicker filament
+B)            60 watt bulb has thicker filament
+C)            Both filaments are of same thickness
+D)            It is possible to get different wattage unless the lengths are different
+Correct Answer: A
+Solution :
+                   and
+           So
+warning Report Error
+
+
+
+question_answer
+Three equal resistors connected in series across a source of e.m.f. together dissipate 10 watt. If the same resistors are connected in parallel across the same e.m.f., then the power dissipated will be [CBSE PMT 1998; KCET (Engg.) 1999; MP PMT 2003]
+A)            10 watt                                   
+B)            30 watt
+C)            10/3 watt                              
+D)            90 watt
+Correct Answer: D
+Solution :
+                   In series
+Þ
+Þ
+In parallel
+= 3 ´ 30 = 90 W
+warning Report Error
+
+
+
+question_answer
+How much energy in kilowatt hour is consumed in operating ten 50 watt bulbs for 10 hours per day in a month (30 days).       [NCERT 1978, 80; CPMT 1991]
+A)            1500                                         
+B)            5,000
+C)            15  
+D)            150
+Correct Answer: D
+Solution :
+                   Energy consumed in
+           Þ For 30 days,
+warning Report Error
+
+
+
+question_answer
+(1) The product of a volt and a coulomb is a joule.            (2) The product of a volt and an ampere is a joule/second.            (3) The product of volt and watt is horse power.            (4) Watt-hour can be measured in terms of electron volt.            State if                                           [NCERT 1978; MP PMT 2003]
+A)            All four are correct
+B)            (1), (2) and (4) are correct
+C)            (1) and (3) are correct
+D)            (3) and (4) are correct
+Correct Answer: B
+Solution :
+           also
+warning Report Error
+
+
+
+question_answer
+A 25 W, 220 V bulb and a 100 W, 220 V bulb are connected in parallel across a 440 V line  [CBSE PMT 2001]
+A)            Only 100 watt bulb will fuse
+B)            Only 25 watt bulb will fuse
+C)            Both bulbs will fuse
+D)            None of the bulbs will fuse
+Correct Answer: C
+Solution :
+           Because given voltage is very high,
+warning Report Error
+
+
+
+question_answer
+Two electric lamps of 40 watt each are connected in parallel. The power consumed by the combination will be [CPMT 1984]
+A)            20 watt                                   
+B)            60 watt
+C)            80 watt                                   
+D)            100 watt
+Correct Answer: C
+Solution :
+           warning Report Error
+
+
+
+question_answer
+Two heating coils, one of fine wire and the other of thick wire of the same material and of the same length are connected in series and in parallel. Which of the following statement is correct
+A)            In series fine wire liberates more energy while in parallel thick wire will liberate more energy
+B)            In series fine wire liberates less energy while in parallel thick wire will liberate more energy
+C)            Both will liberate equally
+D)            In series the thick wire will liberate more while in parallel it will liberate less energy
+Correct Answer: A
+Solution :
+                   In series,
+is same), i.e. in series Fine wire (high R) liberates more energy. In parallel,
+is same) i.e. thick wire (less R) liberates more energy.
+warning Report Error
+
+
+
+question_answer
+An electric bulb is rated 220 volt and 100 watt. Power consumed by it when operated on 110 volt is [CPMT 1986; MP PMT 1986, 94; AFMC 2000]
+A)            50 watt                                   
+B)            75 watt
+C)            90 watt                                   
+D)            25 watt
+Correct Answer: D
+Solution :
+                   Resistance of the bulb = \frac{{{V}^{2}}}{{{P}_{Ratate}}}=\frac{220\times 220}{100}=484\Omega When connected with 110 V, the power consumed {{P}_{Consumed}}=\frac{{{V}^{2}}}{R}=\frac{110\times 110}{484}=25W
+warning Report Error
+
+
+
+question_answer
+A 25 watt, 220 volt bulb and a 100 watt, 220 volt bulb are connected in series across a 220 volt lines. Which electric bulb will glow more brightly                 [MP PET 1999; MP PMT 1999]
+A)            25 watt bulb                         
+B)            100 watt bulb
+C)            First 25 watt and then 100 watt
+D)            Both with same brightness
+Correct Answer: A
+Solution :
+           The resistance of 25 W bulb is greater than 100 W bulb. So for the same current, heat produced will be more in 25 W bulb. So it will glow more brightly.
+warning Report Error
+
+
+
+question_answer
+A resistor dissipates the power P when connected to a certain generator. If the resistor is put in series with , the power dissipated by      [CPMT 1985; MNR 1998]
+A)            Decreases
+B)            Increases
+C)            Remains the same             
+D)            Any of the above depending upon the relative values of and
+Correct Answer: A
+Solution :
+           Equivalent resistance in the second case Now, we know that Since in the second case the resistance is higher than that in the first case (R1). Therefore power dissipation in the second case will be decreased.
+warning Report Error
+
+
+
+question_answer
+An electric fan and a heater are marked as 100 watt, 220 volt and 1000 watt, 220 volt respectively. The resistance of the heater is                                                                    [CPMT 1990]
+A)            Zero
+B)            Greater than that of the fan
+C)            Less than that of the fan
+D)            Equal to that of the fan
+Correct Answer: C
+Solution :
+                   For constant voltage, we know that            So higher the power, lower will be the resistance.
+warning Report Error
+
+
+
+question_answer
+According to Joule's law, if the potential difference across a conductor having a material of specific resistance remains constant, then the heat produced in the conductor is directly proportional to                                     [MP PMT 1986]
+A)                                             
+B)           
+C)             
+D)           
+Correct Answer: D
+Solution :
+           but Þ . Since is constant as per given conditions So
+warning Report Error
+
+
+
+question_answer
+Two heater wires of equal length are first connected in series and then in parallel. The ratio of heat produced in the two cases is [MNR 1987; UPSEAT 1999; MP PMT 1996, 2000, 01;  AIIMS 2000; MP PET 1999, 2002; BHU 2004; Pb PET 2004]
+A)            2 : 1                                          
+B)            1 : 2
+C)            4 : 1                                          
+D)            1 : 4
+Correct Answer: D
+Solution :
+                   Power consumed means heat produced. For constant potential difference (Since and
+warning Report Error
+
+
+
+question_answer
+Two bulbs of equal wattage, one having carbon filament and the other having a tungsten filament are connected in series to the mains, then
+A)            Both bulbs glow equally
+B)            Carbon filament bulb glows more
+C)            Tungsten filament bulbs glows more
+D)            Carbon filament bulb glows less
+Correct Answer: C
+Solution :
+                   Resistance of carbon filament decreases with temperature while that of tungsten increases with temperature In series i.e. tungsten bulb will glow more brightly
+warning Report Error
+
+
+
+question_answer
+Two identical heaters rated 220 volt, 1000 watt are placed in series with each other across 220 volt lines. If resistance do not change with temperature, then the combined power is
+A)            1000 watt                              
+B)            2000 watt
+C)            500 watt                                
+D)            4000 watt
+Correct Answer: C
+Solution :
+           Power of the combination {{P}_{s}}=\frac{P}{n}=\frac{1000}{2}=500\,W
+warning Report Error
+
+
+
+question_answer
+A 25 watt, 220 volt bulb and a 100 watt, 220 volt bulb are connected in parallel across a 220 volt line. Which bulb will glow more brightly
+A)            25 watt bulb
+B)            100 watt bulb
+C)            Both will have same brightness
+D)            First 25 watt then 100 watt
+Correct Answer: B
+Solution :
+           For parallel combination {{P}_{Consumed}}\,\propto \text{B}rightness\propto {{P}_{Rated}}
+warning Report Error
+
+
+
+question_answer
+If two bulbs of wattage 25 and 100 respectively each rated at 220 volt are connected in series with the supply of 440 volt, then which bulbs will fuse                                [MNR 1988]
+A)            100 watt bulb                      
+B)            25 watt bulb
+C)            None of them                     
+D)            Both of them
+Correct Answer: B
+Solution :
+                   Resistance of 25 W bulb Its safe current Resistance of 100 W bulb Its safe current When connected in series to 440 V supply, then the current Thus current is greater for 25 W bulb, so it will fuse.
+warning Report Error
+
+
+
+question_answer
+If  current in an electric bulb changes by 1%, then the power will change by                                         [AFMC 1996]
+A)            1% 
+B)            2%
+C)            4% 
+D)           
+Correct Answer: B
+Solution :
+                     Þ    (R ® Constant) Þ % change in power % change in current                                     =
+warning Report Error
+
+
+
+question_answer
+Two identical batteries, each of e.m.f. 2 volt and internal resistance 1.0 ohm are available to produce heat in an external resistance
+ohm by passing a current through it. The maximum Joulean power that can be developed across R using these batteries is             [CBSE PMT 1990; BHU 1997]
+A)            1.28 watt                               
+B)            2.0 watt
+C)           
+          D)            3.2 watt
+Correct Answer: B
+Solution :
+           warning Report Error
+
+
+
+question_answer
+A constant voltage is applied between the two ends of a metallic wire. If both the length and the radius of the wire are doubled, the rate of heat developed in the wire [MP PMT 1996]
+A)            Will be doubled                  
+B)            Will be halved
+C)            Will remain the same       
+D)            Will be quadrupled
+Correct Answer: A
+Solution :
+                   (If V = constant) Þ Þ
+warning Report Error
+
+
+
+question_answer
+The heating coils rating at 220 volt and producing 50 cal/sec heat are available with the resistances   and . The heater of maximum power will be of  [MP PMT 1985]
+A)                           
+B)           
+C)                           
+D)           
+Correct Answer: D
+Solution :
+           Þ
+warning Report Error
+
+
+
+question_answer
+Which of the following statement is false
+A)            Heat produced in a conductor is proportional to its resistance
+B)            Heat produced in a conductor is proportional to the square of the current
+C)            Heat produced in a conductor is proportional to charge
+D)            Heat produced in a conductor is proportional to the time for which current is passed
+Correct Answer: C
+Solution :
+           and . Hence
+warning Report Error
+
+
+
+question_answer
+On an electric heater 220 volt and 1100 watt are marked. On using it for 4 hours, the energy consumed in kWh will be
+A)            2    
+B)            4.4
+C)            6    
+D)            8
+Correct Answer: B
+Solution :
+           warning Report Error
+
+
+
+question_answer
+An electric heater kept in vacuum is heated continuously by passing electric current. Its temperature [MP PET 1993]
+A)            Will go on rising with time
+B)            Will stop after sometime as it will loose heat to the surroundings by conduction
+C)            Will rise for sometime and there after will start falling
+D)            Will become constant after sometime because of loss of heat due to radiation
+Correct Answer: D
+Solution :
+           After some time, thermal equilibrium will reach.
+warning Report Error
+
+
+
+question_answer
+Heat produced in a wire of resistance R due to current flowing at constant potential difference is proportional to [MP PET 1993]
+A)            \frac{1}{{{R}^{2}}}      
+B)            \frac{1}{R}
+C)            R
+D)            {{R}^{2}}
+Correct Answer: B
+Solution :
+           At constant p.d., heat produced =\frac{{{V}^{2}}}{R}\,i.e.\,H\propto \frac{1}{R}
+warning Report Error
+
+
+
+question_answer
+The power rating of an electric motor which draws a current of 3.75 amperes when operated at 200 V is about
+A)            1 H.P.                                      
+B)            500 W
+C)            54 W                                        
+D)            750 H.P.
+Correct Answer: A
+Solution :
+           Power =3.75\times 200\,W=750\,W\approx 1\,H.P.
+warning Report Error
+
+
+
+question_answer
+An electric bulb of 100 watt is connected to a supply of electricity of 220 V. Resistance of the filament is [EAMCET 1981, 82; MP PMT 1993, 97]
+A)                           
+B)           
+C)                      
+D)           
+Correct Answer: A
+Solution :
+           Þ
+warning Report Error
+
+
+
+question_answer
+A cable of resistance
+carries electric power from a generator producing 250 kW at 10000 volt. The current in the cable is
+A)            25 A                                         
+B)            250 A
+C)            100 A                                       
+D)            1000 A
+Correct Answer: A
+Solution :
+           Since
+Þ
+warning Report Error
+
+
+
+question_answer
+In the above question, the power lost in the cable during transmission is
+A)            12.5 kW                                  
+B)            6.25 kW
+C)            25 kW                                      
+D)            3.15 kW
+Correct Answer: B
+Solution :
+           Power lost in cable =10\times {{(25)}^{2}}=6250\,W=6.25\,\,kW
+warning Report Error
+
+
+
+question_answer
+The heat generated through 2 ohm and 8 ohm resistances separately, when a condenser of 200 capacity charged to 200 V is discharged one by one, will be [MP PET 1993]
+A)            4 J and 16 J respectively  
+B)            16 J and 4 J respectively
+C)            4 J and 8 J respectively
+D)            4 J and 4 J respectively
+Correct Answer: D
+Solution :
+                   Heat generated in both the cases will be same because the capacitor has the same energy initially            F
+warning Report Error
+
+
+
+question_answer
+Two bulbs are in parallel and they together consume 48 W from a battery of 6 V. The resistance of each bulb is
+A)            0.67\,\Omega              
+B)            3.0\,\Omega
+C)            4.0\,\Omega                 
+D)            1.5\,\Omega
+Correct Answer: D
+Solution :
+                   The bulbs are connected in parallel, hence each bulb consumes \frac{48}{2}=24\,W. Therefore \frac{{{V}^{2}}}{R}=24\, Þ R=\frac{6\times 6}{24}=1.5\,\Omega
+warning Report Error
+
+
+
+question_answer
+The heat developed in an electric wire of resistance R by a current I for a time t is             [MP PMT 1993; MP PET 2005]
+A)           
+I
+2
+Rt
+4.2
+cal
+   B)           
+I
+2
+t
+4.2R
+cal
+C)           
+I
+2
+R
+4.2t
+cal
+                                            D)           
+Rt
+4.2
+I
+2
+cal
+Correct Answer: A
+Solution :
+warning Report Error
+
+
+
+question_answer
+Two bulbs, one of 50 watt and another of 25 watt are connected in series to the mains. The ratio of the currents through them is                                                           [JIPMER 1997]
+A)            2 : 1
+B)            1 : 2
+C)            1 : 1
+D)            Without voltage, cannot be calculated
+Correct Answer: C
+Solution :
+           The bulbs are in series, hence they will have the same current through them.
+warning Report Error
+
+
+
+question_answer
+The brightness of a bulb will be reduced, if a resistance is connected in
+A)            Series with it
+B)            Parallel with it
+C)            Series or parallel with it
+D)            Brightness of the bulb cannot be reduced
+Correct Answer: A
+Solution :
+           When resistance is connected in series, brightness of bulb decreases because voltage across the bulb decreases.
+warning Report Error
+
+
+
+question_answer
+A 100 watt bulb working on 200 volt and a 200 watt bulb working on 100 volt have
+A)            Resistances in the ratio of 4 : 1
+B)            Maximum current ratings in the ratio of
+C)            Resistances in the ratio of 2 : 1
+D)            Maximum current ratings in the ratio of 1 : 2
+Correct Answer: B
+Solution :
+                   Þ and Maximum current rating So andÞ .
+warning Report Error
+
+
+
+question_answer
+There are two electric bulbs of 40 W and 100 W. Which one will be brighter when first connected in series and then in parallel,                                                      [MP PET 1993]
+A)            40 W in series and 100 W in parallel
+B)            100 W in series and 40 W in parallel
+C)            40 W both in series and parallel will be uniform
+D)            100 W both in series and parallel will be uniform
+Correct Answer: A
+Solution :
+           . Resistance of 40 W bulb is times than 100 W. In series, and in parallel, . So 40 W in series and 100 W in parallel will glow brighter.
+warning Report Error
+
+
+
+question_answer
+Two resistances {{R}_{1}} and {{R}_{2}} when connected in series and parallel with 120 V line, power consumed will be 25 W and 100 W respectively. Then the ratio of power consumed by {{R}_{1}} to that consumed by {{R}_{2}} will be                       [EAMCET 1983]
+A)            1 : 1                                          
+B)            1 : 2
+C)            2 : 1                                          
+D)            1 : 4
+Correct Answer: A
+Solution :
+                   P=\frac{{{V}^{2}}}{R}Þ \frac{{{P}_{P}}}{{{P}_{S}}}=\frac{{{R}_{S}}}{{{R}_{P}}}=\frac{({{R}_{1}}+{{R}_{2}})}{{{R}_{1}}{{R}_{2}}/({{R}_{1}}+{{R}_{2}})}=\frac{{{({{R}_{1}}+{{R}_{2}})}^{2}}}{{{R}_{1}}\,{{R}_{2}}} Þ \frac{100}{25}=\frac{{{({{R}_{1}}+{{R}_{2}})}^{2}}}{{{R}_{1}}{{R}_{2}}} Þ \frac{{{R}_{1}}}{{{R}_{2}}}=\frac{1}{1}
+warning Report Error
+
+
+
+question_answer
+A 220 volt and 800 watt electric kettle and three 220 volt and 100 watt bulbs are connected in parallel. On connecting this combination with 220 volt electric supply, the total current will be                                    [MP PMT 1975]
+A)            0.15 ampere                         
+B)            5.0 ampere
+C)            5.5 ampere                           
+D)            6.9 ampere
+Correct Answer: B
+Solution :
+                   Total power            Also Þ Þ
+warning Report Error
+
+
+
+question_answer
+You are given three bulbs of 25, 40 and 60 watt. Which of them has lowest resistance     [NCERT 1982]
+A)            25 watt bulb                         
+B)            40 watt bulb
+C)            60 watt bulb                         
+D)            Information is insufficient
+Correct Answer: C
+Solution :
+           Because
+warning Report Error
+
+
+
+question_answer
+The value of internal resistance of an ideal cell is  [EAMCET 1989]
+A)            Zero                                         
+B)            0.5\,\Omega
+C)            1\,\Omega                    
+D)            Infinity
+Correct Answer: A
+Solution :
+           An ideal cell has zero resistance.
+warning Report Error
+
+
+
+question_answer
+Electric power is transmitted over long distances through conducting wires at high voltage because [MP PET 1994]
+A)            High voltage travels faster
+B)            Power loss is large
+C)            Power loss is less
+D)            Generator produced electrical energy at a very high voltage
+Correct Answer: C
+Solution :
+           Power loss in transmission Þ
+warning Report Error
+
+
+
+question_answer
+A coil develops heat of 800 cal/sec. When 20 volts is applied across its ends. The resistance of the coil is (1 cal = 4.2 joule)                                                          [MP PET 1994]
+A)                            
+B)           
+C)                         
+D)           
+Correct Answer: C
+Solution :
+                   or             Þ Þ
+warning Report Error
+
+
+
+question_answer
+Resistances
+R
+1
+and
+R
+2
+are joined in parallel and a current is passed so that the amount of heat liberated is
+H
+1
+and
+H
+2
+respectively. The ratio
+H
+1
+H
+2
+has the value [MP PMT 1994]
+A)           
+R
+2
+R
+1
+                                            B)           
+R
+1
+R
+2
+C)           
+R
+2
+1
+R
+2
+2
+                                        D)           
+R
+2
+2
+R
+2
+1
+Correct Answer: A
+Solution :
+           Heat produced
+H=
+V
+2
+t
+4.2R
+=H∝
+1
+R
+Hence
+H
+1
+H
+2
+=
+R
+2
+R
+1
+warning Report Error
+
+
+
+question_answer
+The internal resistance of a primary cell is 4 ohm. It generates a current of 0.2 amp in an external resistance of 21 ohm. The rate at which chemical energy is consumed in providing the current is                                            [MP PMT 1994]
+A)           
+                          B)           
+C)           
+                                D)           
+Correct Answer: D
+Solution :
+                   . Here total
+           Þ Rate of energy consumed
+warning Report Error
+
+
+
+question_answer
+A heating coil is labelled 100 W, 220 V. The coil is cut in half and the two pieces are joined in parallel to the same source. The energy now liberated per second is       [CBSE PMT 1995]
+A)            200 J                                        
+B)            400 J
+C)            25 J
+D)            50 J
+Correct Answer: B
+Solution :
+           When the heating coil is cut into two equal parts and these parts are joined in parallel, the resistance of coil is reduced to one fourth, so power consumed will become 4 times i.e. 400 Js?1.
+warning Report Error
+
+
+
+question_answer
+Which of the following is not a correct statement [MP PET 1995]
+A)            Resistivity of electrolytes decreases on increasing temperature
+B)            Resistance of mercury falls on decreasing its temperature
+C)            When joined in series a 40 W bulb glows more than a 60 W bulb
+D)            Resistance of 40 W bulb is less than the resistance of 60 W bulb
+Correct Answer: D
+Solution :
+           The resistance of 40 W bulb will be more and 60 W bulb will be less.
+warning Report Error
+
+
+
+question_answer
+Three light bulbs of 40 W, 60 W and 100 W are connected in series with 220 V source. Which one of the bulbs will glow brightest [MP PMT 1995; UPSEAT 2002; BCECE 2005]
+A)            40 W
+B)            60 W
+C)            100 W                                      
+D)            All with the same brightness
+Correct Answer: A
+Solution :
+           In series
+warning Report Error
+
+
+
+question_answer
+The energy consumed in 1 kilowatt electric heater in 30 seconds will be
+A)            6\times {{10}^{2}}\,J 
+B)            4.99\times {{10}^{7}}\,J
+C)            9.8\times {{10}^{6}}\,J     
+D)            3\times {{10}^{4}}\,J
+Correct Answer: D
+Solution :
+           E = P × t =1000\,W\times 30\,\,sec=3\times {{10}^{4}}\,J
+warning Report Error
+
+
+
+question_answer
+Two bulbs of 500 watt and 200 watt are manufactured to operate on 220 volt line. The ratio of heat produced in 500 W and 200 W, in two cases, when firstly they are joined in parallel and secondly in series, will be [MP PET 1996; DPMT 1999]
+A)            \frac{5}{2},\,\frac{2}{5}    
+B)            \frac{5}{2},\,\frac{5}{2}
+C)            \frac{2}{5},\,\frac{5}{2}    
+D)            \frac{2}{5},\,\frac{2}{5}
+Correct Answer: A
+Solution :
+           Resistance {{R}_{1}} of  500 W bulb =\frac{{{(220)}^{2}}}{500} Resistance {{R}_{2}} of  200 W bulb =\frac{{{(220)}^{2}}}{200} When joined in parallel, the potential difference across both the bulbs will be same. Ratio of heat produced =\frac{{{V}^{2}}/{{R}_{1}}}{{{V}^{2}}/{{R}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}}=\frac{5}{2} When joined in series, the same current will flow through both the bulbs. Ratio of heat produced =\frac{{{i}^{2}}{{R}_{1}}}{{{i}^{2}}{{R}_{2}}}=\frac{{{R}_{1}}}{{{R}_{2}}}=\frac{2}{5}
+warning Report Error
+
+
+
+question_answer
+A 60 watt bulb carries a current of 0.5 amp. The total charge passing through it in 1 hour is             [MP PMT 1996]
+A)            3600 coulomb                      
+B)            3000 coulomb
+C)            2400 coulomb                      
+D)            1800 coulomb
+Correct Answer: D
+Solution :
+           Charge q=it=0.5\,A\times 3600\,\sec =1800\,\,culoumb
+warning Report Error
+
+
+
+question_answer
+An electric heater of resistance 6 ohm is run for 10 minutes on a 120 volt line. The energy liberated in this period of time is                                                         [MP PMT 1996]
+A)            7.2\times {{10}^{3}}\,J     
+B)            14.4\times {{10}^{5}}\,J
+C)            43.2\times {{10}^{4}}\,J   
+D)            28.8\times {{10}^{4}}J
+Correct Answer: B
+Solution :
+           H={{i}^{2}}Rt=\frac{{{V}^{2}}t}{R}=\frac{120\times 120\times (10\times 60)}{6}=14.4\times {{10}^{5}}joule
+warning Report Error
+
+
+
+question_answer
+Two bulbs are working in parallel order. Bulb A is brighter than bulb B. If {{R}_{A}} and {{R}_{B}} are their resistance respectively then                                [MP PMT 2003]
+A)            {{R}_{A}}>{{R}_{B}}    
+B)            {{R}_{A}}<{{R}_{B}}
+C)            {{R}_{A}}={{R}_{B}}    
+D)            None of these
+Correct Answer: B
+Solution :
+                   In parallel {{P}_{consumed}}\propto \text{Brightness}\propto \frac{1}{R} {{P}_{A}}>{{P}_{B}} (given)     \therefore \,\,\,{{R}_{A}}\,<{{R}_{B}}
+warning Report Error
+
+
+
+question_answer
+Two conductors made of the same material are connected across a common potential difference. Conductor A has twice the diameter and twice the length of conductor B. The power delivered to the two conductors and respectively is such that equals to
+A)            0.5 
+B)            1.0
+C)            1.5 
+D)            2.0
+Correct Answer: D
+Solution :
+           andÞÞÞ
+warning Report Error
+
+
+
+question_answer
+ A heating coil can heat the water of a vessel from to in 30 minutes. Two such heating coils are put in series and then used to heat the same amount of water through the same temperature range. The time taken now will be (neglecting thermal capacity of the coils) [MP PMT 1997]
+A)            60 minutes                            
+B)            30 minutes
+C)            15 minutes                            
+D)            7.5 minutes
+Correct Answer: A
+Solution :
+           warning Report Error
+
+
+
+question_answer
+If 2.2 kilowatt power is transmitted through a 10 ohm line at 22000 volt, the power loss in the form of heat will be [MP PMT/PET 1998]
+A)            0.1 watt                                 
+B)            1 watt
+C)            10 watt                                   
+D)            100 watt
+Correct Answer: A
+Solution :
+                   For power transmission power loss in line {{P}_{L}}={{i}^{2}}R If power of electricity is P and it is transmitted at voltage V, then P=Vi Þ m=6.56\,\,g/s\,            {{P}_{L}}={{\left( \frac{P}{V} \right)}^{2}}R=\frac{{{P}^{2}}R}{{{V}^{2}}} =\frac{2.2\times {{10}^{3}}\times 2.2\times {{10}^{3}}\times 10}{22000\times 22000}=0.1W
+warning Report Error
+
+
+
+question_answer
+Two resistors having equal resistances are joined in series and a current is passed through the combination. Neglect any variation in resistance as the temperature changes. In a given time interval                                 [MP PMT 1999]
+A)            Equal amounts of thermal energy must be produced in the resistors
+B)            Unequal amounts of thermal energy may be produced
+C)            The temperature must rise equally in the resistors
+D)            The temperature must rise unequally in the resistors
+Correct Answer: A
+Solution :
+                   P={{i}^{2}}R            (i and R are same)            So P will be same for given resistors.
+warning Report Error
+
+
+
+question_answer
+A 5{}^\circ C rise in temperature is observed in a conductor by passing a current. When the current is doubled the rise in temperature will be approximately                                            [CBSE PMT 1998]
+A)            16{}^\circ C                    
+B)            10{}^\circ C
+C)            20{}^\circ C                    
+D)            12{}^\circ C
+Correct Answer: C
+Solution :
+           Since H\propto {{i}^{2}}, so on doubling the current, the heat produced and hence the rise in temperature becomes four times.
+warning Report Error
+
+
+
+question_answer
+Watt-hour meter measures      [KCET 1994]
+A)            Electric energy                    
+B)            Current
+C)            Voltage                                  
+D)            Power
+Correct Answer: A
+Solution :
+           Watt-hour meter measures electric energy.
+warning Report Error
+
+
+
+question_answer
+An electric lamp is marked 60 W, 230 V. The cost of 1 kilowatt hour of power is Rs. 1.25. The cost of using this lamp for 8 hours is                                                                            [KCET 1994]
+A)            Rs. 1.20                                   
+B)            Rs. 4.00
+C)            Rs. 0.25                                   
+D)            Rs. 0.60
+Correct Answer: D
+Solution :
+                   Total energy consumed =\frac{60\times 8}{1000}=0.48\,\,kWH            So cost =0.48\times 1.25=0.6\,\,Rs.
+warning Report Error
+
+
+
+question_answer
+4 bulbs marked 40 W, 250 V are connected in series with 250 V mains. The total power is               [EAMCET (Engg.) 1995]
+A)            10 W                                        
+B)            40 W
+C)            320 W                                      
+D)            160 W
+Correct Answer: A
+Solution :
+           {{P}_{S}}=\frac{P}{n}=\frac{40}{4}=10\,\,W.
+warning Report Error
+
+
+
+question_answer
+ Pick out the wrong statement                                 [AMU 1995]
+A)            In a simple battery circuit, the point of lowest potential is the negative terminal of the battery
+B)            The resistance of an incandescent lamp is greater when the lamp is switched off
+C)            An ordinary 100 W lamp has less resistance than a 60 W lamp
+D)            At constant voltage, the heat developed in a uniform wire varies inversely as the length of the wire used
+Correct Answer: B
+Solution :
+           As temperature increases resistance of filament also increases.
+warning Report Error
+
+
+
+question_answer
+Two resistors of 6\,\Omega and 9\Omega are connected in series to a 120 volt source. The power consumed by the 6\,\Omega resistor is     [SCRA 1994]
+A)            384 W                                      
+B)            576 W
+C)            1500 W                                   
+D)            1200 W
+Correct Answer: A
+Solution :
+                   Current through the combination i=\frac{120}{(6+9)}=8\,A                    So, power consumed by 6 W resistance            P={{(8)}^{2}}\times 6=384\,\,W
+warning Report Error
+
+
+
+question_answer
+Electric room radiator which operates at 225 volts has resistance of 50 ohms. Power of the radiator is approximately                                                                      [SCRA 1994]
+A)            100 W                                      
+B)            450 W
+C)            750 W                                      
+D)            1000 W
+Correct Answer: D
+Solution :
+           P=\frac{{{V}^{2}}}{{{R}_{{}}}}=\frac{{{(225)}^{2}}}{50}=1012.5\approx 1000\,\,W
+warning Report Error
+
+
+
+question_answer
+If a power of 100 W is being supplied across a potential difference of 200 V, current flowing is     [AFMC 1993]
+A)            2 A
+B)            0.5 A
+C)            1 A
+D)            20 A
+Correct Answer: B
+Solution :
+           P=Vi Þ  i=\frac{P}{V}=\frac{100}{200}=0.5\,\,A
+warning Report Error
+
+
+
+question_answer
+A current of 2 A passing through conductor produces 80 J of heat in 10 seconds. The resistance of the conductor is [CBSE PMT 1993]
+A)            0.5\,\Omega                 
+B)            2\,\Omega
+C)            4\,\Omega                    
+D)            20\,\Omega
+Correct Answer: B
+Solution :
+           H={{i}^{2}}Rt Þ R=\frac{H}{{{i}^{2}}t}=\frac{80}{4\times 10}=2\,\,\Omega
+warning Report Error
+
+
+
+question_answer
+A 4\mu F conductor is charged to 400 volts and then its plates are joined through a resistance of 1\,k\Omega . The heat produced in the resistance is                                                                   [CBSE PMT 1994]
+A)            0.16 J                                       
+B)            1.28 J
+C)            0.64 J                                       
+D)            0.32 J
+Correct Answer: D
+Solution :
+                   Heat produced = Energy stored in capacitor            =\frac{1}{2}C{{V}^{2}}=\frac{1}{2}\times 4\times {{10}^{-6}}\times {{(400)}^{2}}=0.32\,\,J
+warning Report Error
+
+
+
+question_answer
+A 10 ohm electric heater operates on a 110 V line. Calculate the rate at which it develops heat in watts   [AFMC 1997]
+A)            1310 W                                   
+B)            670 W
+C)            810 W                                      
+D)            1210 W
+Correct Answer: D
+Solution :
+           P=\frac{{{V}^{2}}}{R}=\frac{{{(110)}^{2}}}{10}=\frac{12100}{10}=1210\,\,W
+warning Report Error
+
+
+
+question_answer
+A (100 W, 200 V) bulb is connected to a 160 V power supply. The power consumption would be [CBSE PMT 1997; JIPMER 2000]
+A)            64 W                                        
+B)            80 W
+C)            100 W                                      
+D)            125 W
+Correct Answer: A
+Solution :
+           {{P}_{consumed}}={{\left( \frac{{{V}_{A}}}{{{V}_{R}}} \right)}^{2}}\times {{P}_{R}}=\frac{{{(160)}^{2}}}{{{(200)}^{2}}}\times 100=64\,\,W
+warning Report Error
+
+
+
+question_answer
+A battery of e.m.f. 10 V and internal resistance 0.5 ohm is connected across a variable resistance R. The value of R for which the power delivered in it is maximum is given by [BHU 1998; JIPMER 2001, 02; CBSE PMT 2001]
+A)            2.0 ohm                                  
+B)            0.25 ohm
+C)            1.0 ohm                                  
+D)            0.5 ohm
+Correct Answer: D
+Solution :
+           For maximum power r = R
+warning Report Error
+
+
+
+question_answer
+A piece of fuse wire melts when a current of 15 ampere flows through it. With this current, if it dissipates 22.5 W, the resistance of fuse wire will be                                   [MNR 1998]
+A)            Zero                                         
+B)            10\,\Omega
+C)            1\,\Omega                    
+D)            0.10\,\Omega
+Correct Answer: D
+Solution :
+           P={{i}^{2}}R Þ 22.5={{(15)}^{2}}\times RÞ R=0.10\,\,\Omega
+warning Report Error
+
+
+
+question_answer
+Two wires 'A' and 'B' of the same material have their lengths in the ratio 1 : 2 and radii in the ratio 2 : 1. The two wires are connected in parallel across a battery. The ratio of the heat produced in ?A? to the heat produced in ?B? for the same time is                                                                     [MNR 1998]
+A) 1:2                                     
+B) 2:1
+C) 1:8                                     
+D)  8:1
+Correct Answer: D
+Solution :
+{{R}_{1}}=\rho \frac{{{l}_{1}}}{{{A}_{1}}} and {{R}_{2}}=\rho \frac{{{l}_{2}}}{{{A}_{2}}}Þ \,\frac{{{R}_{1}}}{{{R}_{2}}}=\frac{{{l}_{1}}}{{{l}_{2}}}.\frac{{{A}_{2}}}{{{A}_{1}}}=\frac{{{l}_{1}}}{{{l}_{2}}}{{\left( \frac{{{r}_{2}}}{{{r}_{1}}} \right)}^{2}}                    Given \frac{{{l}_{1}}}{{{l}_{2}}}=\frac{1}{2} and \frac{{{r}_{1}}}{{{r}_{2}}}=\frac{2}{1} or \frac{{{r}_{2}}}{{{r}_{1}}}=\frac{1}{2}Þ \frac{{{R}_{1}}}{{{R}_{2}}}=\frac{1}{8}            \therefore Ratio of heats \frac{{{H}_{1}}}{{{H}_{2}}}=\frac{{{V}^{2}}/{{R}_{1}}}{{{V}^{2}}/{{R}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}}=\frac{8}{1}
+warning Report Error
+
+
+
+question_answer
+A heater draws a current of 2A when connected to a 250V source. The rate of energy dissipation is          [JIPMER 1999]
+A)            500 W                                      
+B)            1000 W
+C)            250 W                                      
+D)            125 W
+Correct Answer: A
+Solution :
+           P=Vi=250\times 2=500\,W
+warning Report Error
+
+
+
+question_answer
+A bulb rated at (100W ? 200V) is used on a 100V line. The current in the bulb is                                   [JIPMER 1999]
+A)            \frac{1}{4}amp            
+B)            4 amp
+C)            \frac{1}{2}amp            
+D)            2 amp
+Correct Answer: A
+Solution :
+                   P=\frac{{{V}^{2}}}{R}\Rightarrow 100=\frac{{{(200)}^{2}}}{R} Þ R=\frac{4\times {{10}^{4}}}{{{10}^{2}}}=400\,\Omega            Now, i=\frac{V}{R}=\frac{100}{400}=\frac{1}{4}amp
+warning Report Error
+
+
+
+question_answer
+A steel wire has a resistance twice that of an aluminium wire. Both of them are connected with a constant voltage supply. More heat will be dissipated in            [Roorkee 1999]
+A)            Steel wire when both are connected in series
+B)            Steel wire when both are connected in parallel
+C)            Aluminium wire when both are connected in series
+D)            Aluminium wire when both are connected in parallel
+Correct Answer: D
+Solution :
+ {{R}_{steel}}=2{{R}_{Al}}. In series H\propto R (i  is Same) So, H will be more in steel wire . In parallel H\propto \frac{1}{R} (V is Same), so H will be more in aluminium wire.
+warning Report Error
+
+
+
+question_answer
+A current i passes through a wire of length l, radius of cross-section r and resistivity r. The rate of heat generation is [AMU (Med.) 1999]
+A)            \frac{{{i}^{2}}l\rho }{\pi {{r}^{2}}}                            
+B)            {{i}^{2}}{{\left( \frac{l\rho }{\pi {{r}^{2}}} \right)}^{2}}
+C)            {{i}^{2}}l\,\rho \,/\,r  
+D)            i\,l\,\rho \,/\,r
+Correct Answer: A
+Solution :
+           H={{i}^{2}}Rt Þ \frac{H}{t}={{i}^{2}}R=\frac{{{i}^{2}}\rho l}{\pi \,{{r}^{2}}}
+warning Report Error
+
+
+
+question_answer
+Which of the following is not equal to watt       [DPMT 1999]
+A)            {{(Amp)}^{\,2}}\times ohm                                       
+B)            Amp / Volt
+C)            Amp × Volt                           
+D)            Joule / sec
+Correct Answer: B
+Solution :
+warning Report Error
+
+
+
+question_answer
+Two wires with resistances R and 2R are connected in parallel, the ratio of heat generated in 2R and R is [DCE 1999, 2000]
+A)            1 : 2                                          
+B)            2 : 1
+C)            1 : 4                                          
+D)            4 : 1
+Correct Answer: A
+Solution :
+           H=\frac{{{V}^{2}}}{R}.\,t Þ \frac{{{H}_{1}}}{{{H}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}}=\frac{R}{2R}=\frac{1}{2}
+warning Report Error
+
+
+
+question_answer
+If a high power heater is connected to electric mains, then the bulbs in the house become dim, because there is a [BHU 1999; Pb. PMT 2000]
+A)            Current drop                        
+B)            Potential drop
+C)            No current drop                 
+D)            No potential drop
+Correct Answer: B
+Solution :
+warning Report Error
+
+
+
+question_answer
+If three bulbs 60W, 100W and 200W are connected in parallel, then                                         [BHU 2000]
+A)            200 W bulb will glow more
+B)            60 W bulb will glow more
+C)            100 W bulb will glow more
+D)            All the bulbs will glow equally
+Correct Answer: A
+Solution :
+           In parallel {{P}_{Consumed}}\propto {{P}_{Rated}}
+warning Report Error
+
+
+
+question_answer
+An expression for rate of heat generated, if a current of I ampere flows through a resistance of R W, is [Pb. PMT 2000]
+A)            {{I}^{2}}Rt                      
+B)            {{I}^{2}}R
+C)            {{V}^{2}}R                      
+D)            I\ R
+Correct Answer: B
+Solution :
+warning Report Error
+
+
+
+question_answer
+ On giving 220V to a resistor the power dissipated is 40W then value of resistance is         [RPMT 2000]
+A)            1210 W                                    
+B)            2000 W
+C)            1000 W                                    
+D)            None of these
+Correct Answer: A
+Solution :
+           P=\frac{{{V}^{2}}}{R}\Rightarrow R=\frac{{{V}^{2}}}{P}=\frac{{{(220)}^{2}}}{40}=1210\,\Omega
+warning Report Error
+
+
+
+question_answer
+A 60 watt bulb operates on 220V supply. The current flowing through the bulb is                                              [MP PMT 2000]
+A)            11/3 amp                               
+B)            3/11 amp
+C)            3 amp                                     
+D)            6 amp
+Correct Answer: B
+Solution :
+           P=Vi\Rightarrow i=\frac{P}{V}=\frac{60}{220}=\frac{3}{11}amp
+warning Report Error
+
+
+
+question_answer
+If two bulbs of wattage 25 and 30, each rated at 220 volts, are connected in series with a 440 volt supply, which bulb will fuse [MP PET 2000]
+A)            25 W bulb                              
+B)            30 W bulb
+C)            Neither of them                 
+D)            Both of them
+Correct Answer: A
+Solution :
+  In series,  {{P}_{Consumed}}\propto \frac{1}{{{P}_{Rated}}}\propto {{V}_{Applied}} i.e. more voltage appears on smaller wattage bulb, so 25 W bulb will fuse
+warning Report Error
+
+
+
+question_answer
+Two electric bulbs (60W and 100W respectively) are connected in series. The current passing through them is [AMU (Med.) 2000]
+A)            More in 100W bulb            
+B)            More in 60W bulb
+C)            Same in both                       
+D)            None of these
+Correct Answer: C
+Solution :
+           Because in series current is same.
+warning Report Error
+
+
+
+question_answer
+In the circuit shown below, the power developed in the 6W resistor is 6 watt. The power in watts developed in the 4W resistor is                                                                [AMU (Med.) 2000]
+A)            16
+B)            9
+C)            6
+D)            4
+Correct Answer: B
+Solution :
+           P=\frac{{{V}^{2}}}{R} Þ \frac{{{P}_{1}}}{{{P}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}}Þ \frac{6}{{{P}_{2}}}=\frac{4}{6}=\frac{2}{3} Þ {{P}_{2}}=9\,W
+warning Report Error
+
+
+
+question_answer
+ Two wires A and B of same material and mass have their lengths in the ratio 1 : 2. On connecting them to the same source, the rate of heat dissipation in B is found to be 5W. The rate of heat dissipation in A is [AMU (Engg.) 2000]
+A)            10W                                         
+B)            5W
+C)            20W                                         
+D)            None of these
+Correct Answer: C
+Solution :
+                   \frac{H}{t}=P=\frac{{{V}^{2}}}{R}\Rightarrow P\propto \frac{1}{R} also R\propto \frac{l}{A}\propto \frac{{{l}^{2}}\rho }{A.l\rho }                    Þ R\propto \frac{{{l}^{2}}}{m} Þ R\propto {{l}^{2}} (for same mass)            So \frac{{{P}_{A}}}{{{P}_{B}}}=\frac{l_{B}^{2}}{l_{A}^{2}}=\frac{4}{1}\Rightarrow {{P}_{A}}=20\,W
+warning Report Error
+
+
+
+question_answer
+ If two electric bulbs have 40W and 60W rating at 220V, then the ratio of their resistances will be [BHU 1999; KCET 2001]
+A)            3 : 2                                          
+B)            2 : 3
+C)            3 : 4                                          
+D)            4 : 3
+Correct Answer: A
+Solution :
+           P=\frac{{{V}^{2}}}{R}\Rightarrow \frac{{{R}_{1}}}{{{R}_{2}}}=\frac{{{P}_{2}}}{{{P}_{1}}}=\frac{60}{40}=\frac{3}{2}
+warning Report Error
+
+
+
+question_answer
+ An electric bulb is designed to draw power P0 at voltage V0. If the voltage is V it draws a power P. Then [KCET 2001]
+A)            P={{\left( \frac{{{V}_{0}}}{V} \right)}^{2}}{{P}_{0}}       
+B)            P={{\left( \frac{V}{{{V}_{0}}} \right)}^{2}}{{P}_{0}}
+C)            P=\left( \frac{V}{{{V}_{0}}} \right)\,{{P}_{0}}     
+D)            P=\left( \frac{{{V}_{0}}}{V} \right)\,{{P}_{0}}
+Correct Answer: B
+Solution :
+           P\propto {{V}^{2}}Þ \frac{P}{{{P}_{0}}}={{\left( \frac{V}{{{V}_{0}}} \right)}^{2}}\Rightarrow P={{\left( \frac{V}{{{V}_{0}}} \right)}^{2}}{{P}_{0}}
+warning Report Error
+
+
+
+question_answer
+Three bulbs of 40W, 60W and 100W are arranged in series with 220V. Which bulb has minimum resistance [AFMC 2001]
+A)            40W                                         
+B)            60W
+C)            100W                                       
+D)            Equal in all bulbs
+Correct Answer: C
+Solution :
+                   P=\frac{{{V}^{2}}}{R}\Rightarrow R\propto \frac{1}{P} So resistance of the 100W bulb will be minimum
+warning Report Error
+
+
+
+question_answer
+An electric kettle has two heating coils. When one coil is used, water in the kettle boils in 5 minutes, while when second coil is used, same water boils in 10 minutes. If the two coils, connected in parallel are used simultaneously, the same water will boil in time                                                [MP PET 2001]
+A)            3 min 20 sec                          
+B)            5 min
+C)            7 min 30 sec                          
+D)            2 min 30 sec
+Correct Answer: A
+Solution :
+                   In parallel  \frac{1}{{{t}_{p}}}=\frac{1}{{{t}_{1}}}+\frac{1}{{{t}_{2}}} Þ {{t}_{p}}=\frac{{{t}_{1}}{{t}_{2}}}{{{t}_{1}}+{{t}_{2}}}                    =\frac{5\times 10}{5+10}=\frac{50}{15}=3.33\,\min =3\,min.\,20\,sec
+warning Report Error
+
+
+
+question_answer
+An external resistance R is connected to a battery of e.m.f. V and internal resistance r. The joule heat produced in resistor R is maximum when R is equal to                                              [MP PET 2001]
+A)             r    
+B)            \frac{r}{2}
+C)            2r   
+D)            Infinitely large
+Correct Answer: A
+Solution :
+           For maximum joule heat produced in resistor external resistance = Internal resistance.
+warning Report Error
+
+
+
+question_answer
+The amount of heat produced in a resistor when a current is passed through it can be found using [Kerala PET 2001]
+A)            Faraday?s Law                      
+B)            Kirchhoff?s Law
+C)            Laplace?s Law                       
+D)            Joule?s Law
+Correct Answer: D
+Solution :
+warning Report Error
+
+
+
+question_answer
+Two wires have resistance of 2W and 4W connected to same voltage, ratio of heat dissipated at resistance is [UPSEAT 2001]
+A)            1 : 2                                          
+B)            4 : 3
+C)            2 : 1                                          
+D)            5 : 2
+Correct Answer: C
+Solution :
+           H=\frac{{{V}^{2}}}{R}t Þ\frac{{{H}_{1}}}{{{H}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}}=\frac{4}{2}=\frac{2}{1}
+warning Report Error
+
+
+
+question_answer
+Two electric bulbs rated {{P}_{1}} watt V volts and {{P}_{2}} watt V volts are connected in parallel and V volts are applied to it. The total power will be [MP PMT 2001; MP PET 2002]
+A)            {{P}_{1}}+{{P}_{2}}watt   
+B)            \sqrt{{{P}_{1}}{{P}_{2}}}watt
+C)            \frac{{{P}_{1}}{{P}_{2}}}{{{P}_{1}}+{{P}_{2}}}watt         
+D)            \frac{{{P}_{1}}+{{P}_{2}}}{{{P}_{1}}{{P}_{2}}}watt
+Correct Answer: A
+Solution :
+                   If resistances of  bulbs are {{R}_{1}} and {{R}_{2}} respectively then in parallel \frac{1}{{{R}_{P}}}=\frac{1}{{{R}_{1}}}+\frac{1}{{{R}_{2}}}Þ \frac{1}{\left( \frac{{{V}^{2}}}{{{P}_{p}}} \right)}=\frac{1}{\left( \frac{{{V}^{2}}}{{{P}_{1}}} \right)}+\frac{1}{\left( \frac{{{V}^{2}}}{{{P}_{2}}} \right)} Þ {{P}_{P}}={{P}_{1}}+{{P}_{2}}
+warning Report Error
+
+
+
+question_answer
+n identical bulbs, each designed to draw a power p from a certain voltage supply, are joined in series across that supply. The total power which they will draw is               [KCET 2002]
+A)            p/{{n}^{2}}                    
+B)            p/n
+C)            p                                        
+D)            np
+Correct Answer: B
+Solution :
+warning Report Error
+
+
+
+question_answer
+A wire when connected to 220V mains supply has power dissipation {{P}_{1}}. Now the wire is cut into two equal pieces which are connected in parallel to the same supply. Power dissipation in this case is {{P}_{2}}. Then {{P}_{2}}:{{P}_{1}} is              [AIEEE 2002]
+A)            1    
+B)            4
+C)            2    
+D)            3
+Correct Answer: B
+Solution :
+                   When wire is cut into two equal parts then power dissipated by each part is 2{{P}_{1}} So their parallel combination will dissipate power {{P}_{2}}=2{{P}_{1}}+2{{P}_{1}}=4{{P}_{1}}            Which gives \frac{{{P}_{2}}}{{{P}_{1}}}=4
+warning Report Error
+
+
+
+question_answer
+An electric bulb marked 40 W and 200 V, is used in a circuit of supply voltage 100 V. Now its power is [AIIMS 2002]
+A)            100W                                       
+B)            40W
+C)            20W                                         
+D)            10W
+Correct Answer: D
+Solution :
+                   P=\frac{{{V}^{2}}}{R} \Rightarrow \frac{{{P}_{2}}}{{{P}_{1}}}=\frac{V_{2}^{2}}{V_{1}^{2}} (\because R is constant)            \Rightarrow \frac{{{P}_{2}}}{{{P}_{1}}}={{\left( \frac{100}{200} \right)}^{2}}=\frac{1}{4}\Rightarrow {{P}_{2}}=\frac{{{P}_{1}}}{4}=\frac{40}{4}=10\,W
+warning Report Error
+
+
+
+question_answer
+Electric bulb 50 W-100 V glowing at full power are to be used in parallel with battery 120 V, 10 W. Maximum number of bulbs that can be connected so that they glow in full power is                                    [CPMT 2002]
+A)            2    
+B)            8
+C)            4    
+D)            6
+Correct Answer: C
+Solution :
+                   When each bulb is glowing at full power, Current from each bulb =i'=\frac{50}{100}=\frac{1}{2}A So main current i=\frac{n}{2}A            Also E=V+ir Þ 120=100+\left( \frac{n}{2} \right)\times 10\Rightarrow n=4
+warning Report Error
+
+
+
+question_answer
+A bulb has specification of one kilowatt and 250 volts, the resistance of bulb is                                  [MP PMT 2002]
+A)            125 W                                      
+B)            62.5 W
+C)            0.25 W                                     
+D)            625 W
+Correct Answer: B
+Solution :
+           R=\frac{{{V}^{2}}}{P}=\frac{{{(250)}^{2}}}{{{10}^{3}}}=62.5\,\Omega
+warning Report Error
+
+
+
+question_answer
+If a 30 V, 90 W bulb is to be worked on a 120 V line, a resistance of how many ohms should be connected in series with the bulb [MP PMT 2002; KCET 2003]
+A)            10 ohm                                   
+B)            20 ohm
+C)            30 ohm                                   
+D)            40 ohm
+Correct Answer: C
+Solution :
+                   Suppose resistance R is corrected in series with bulb. Current through the bulb i=\frac{90}{30}=3\,A Hence for resistance V=i\,RÞ 90=3\times R\Rightarrow R=30\,\Omega
+warning Report Error
+
+
+
+question_answer
+A fuse wire with radius 1 mm blows at 1.5 amp. The radius of the fuse wire of the same material to blow at 3A will be [KCET 2003]
+A)            {{4}^{1/3}}mm             
+B)            {{3}^{1/4}}mm
+C)            {{2}^{1/2}}mm             
+D)            {{3}^{1/2}}mm
+Correct Answer: A
+Solution :
+                   i\propto {{r}^{3/2}}\Rightarrow \frac{{{r}_{2}}}{{{r}_{1}}}={{\left( \frac{{{i}_{2}}}{{{i}_{1}}} \right)}^{3/2}}={{\left( \frac{3}{1.5} \right)}^{2/3}}={{(4)}^{1/3}} \Rightarrow {{r}_{2}}={{(4)}^{1/3}}\times {{r}_{1}}={{4}^{1/3}} (Q r1 = 1 mm)
+warning Report Error
+
+
+
+question_answer
+Three electric bulbs of rating 60W each are joined in series and then connected to electric mains. The power consumed by these three bulbs will be [MP PET 2003; CBSE PMT 2004]
+A)            180 W                                      
+B)            60 W
+C)            20 W                                        
+D)            \frac{20}{3}W
+Correct Answer: C
+Solution :
+            In series {P}'=\frac{P}{n}=\frac{60}{3}=20\,watts
+warning Report Error
+
+
+
+question_answer
+An electric bulb is rated 60W, 220V. The resistance of its filament is                                          [MP PET 2003]
+A)            708 W                                      
+B)            870 W
+C)            807 W                                      
+D)            780 W
+Correct Answer: C
+Solution :
+           R=\frac{{{V}^{2}}}{P}=\frac{{{(220)}^{2}}}{60}=807\,\Omega
+warning Report Error
+
+
+
+question_answer
+A 220 volt, 1000 W bulb is connected across a 110 volt mains supply. The power consumed will be             [AIEEE 2003]
+A)            1000 W                                   
+B)            750 W
+C)            500 W                                      
+D)            250 W
+Correct Answer: D
+Solution :
+           \frac{{{P}_{1}}}{{{P}_{2}}}={{\left( \frac{{{V}_{1}}}{{{V}_{2}}} \right)}^{2}}\Rightarrow \frac{1000}{{{P}_{2}}}={{\left( \frac{220}{110} \right)}^{2}}=4Þ {{P}_{2}}=250\,W
+warning Report Error
+
+
+
+question_answer
+Two bulbs of 100 W and 200 W working at 220 volt are joined in series with 220 volt supply. Total power consumed will be approximately.                                 [Pb. PET 2003; BHU 2005]
+A)            65 watt                                     
+B)            33 watt
+C)            300 watt                                   
+D)            100 watt
+Correct Answer: A
+Solution :
+           {{P}_{S}}=\frac{{{P}_{1}}{{P}_{2}}}{{{P}_{1}}+{{P}_{2}}}=\frac{100\times 200}{100+200}=\frac{200}{3}\approx 65\,watt
+warning Report Error
+
+
+
+question_answer
+How many calories of heat will be produced approximately in a 210 watt electric bulb in 5 minutes           [Pb. PET 2004]
+A)            80000 cal                                 
+B)            63000 cal
+C)            1050 cal                                   
+D)            15000 cal
+Correct Answer: D
+Solution :
+           H=\frac{{{V}^{2}}t}{R\times J}\,Calories=\frac{P\,t}{J}=\frac{210\times 5\times 60}{4.2}=15000\,cal
+warning Report Error
+
+
+
+question_answer
+A\,\,{{5}^{o}}C rise in the temperature is observed in a conductor by passing some current. When the current is doubled, then rise in temperature will be equal to [BHU 2004]
+A)            {{5}^{o}}C                      
+B)            {{10}^{o}}C
+C)            {{20}^{o}}C                    
+D)            {{40}^{o}}C
+Correct Answer: C
+Solution :
+                   Using conservation of energy Supplied electric energy = absorbed heat energy Þ {{i}^{2}}Rt=mST Þ T\propto {{i}^{2}}              (T - change in temperature) i.e. when i is doubled T will be four times i.e. 5\times 4={{20}^{o}}C
+warning Report Error
+
+
+
+question_answer
+If a 2 kW boiler is used everyday for 1 hour, then electrical energy consumed by boiler in thirty days is [BHU 2004]
+A)            15 unit                                      
+B)            60 unit
+C)            120 unit                                   
+D)            240 unit
+Correct Answer: B
+Solution :
+           Energy =P\times t = 2 ´ 1 ´ 30 = 60 kWH = 60 unit
+warning Report Error
+
+
+
+question_answer
+What will happen when a 40 watt, 220 volt lamp and 100 watt, 220 volt lamp are connected in series across 40 volt supply                                                         [BHU 2004]
+A)            100 watt lamp will fuse          
+B)            40 watt lamp will fuse
+C)            Both lamps will fuse               
+D)            Neither lamp will fuse
+Correct Answer: D
+Solution :
+                   Bulb (I) : Rated current {{I}_{1}}=\frac{P}{V}=\frac{40}{220}=\frac{2}{11}amp. Resistance {{R}_{1}}=\frac{{{V}^{2}}}{P}=\frac{{{(220)}^{2}}}{40}=1210\,\Omega Bulb (II) : Rated current {{I}_{2}}=\frac{100}{220}=\frac{5}{11}amp Resistance {{R}_{2}}=\frac{{{(220)}^{2}}}{100}=484\,\Omega When both are connected in series across 40 V supply Total current through supply I=\frac{40}{{{P}_{1}}+{{P}_{2}}}=\frac{40}{1210+484}=\frac{40}{1254}=0.03A This current is less than the rated current of each bulb. So neither bulb will fuse. Short Trick : Since VApplied < VRated, neither bulb will fuse.
+warning Report Error
+
+
+
+question_answer
+What is the ratio of heat generated in R and 2R  [DCE 2003]
+A)            2 : 1
+B)            1 : 2
+C)            4 : 1
+D)            1 : 4
+Correct Answer: A
+Solution :
+                   Both R and 2R in parallel ( V ? constant) So using P=\frac{{{V}^{2}}}{R} Þ \frac{{{P}_{1}}}{{{P}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}} Þ \frac{{{H}_{1}}}{{{H}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}}=\frac{2}{1}
+warning Report Error
+
+
+
+question_answer
+In an electric heater 4 amp current passes for 1 minute at potential difference of 250 volt, the power of heater and energy consumed will be respectively                 [DPMT 2003]
+A)            1 kW, 60 kJ                             
+B)            0.5 kW, 30 kJ
+C)            10 kW, 600 kJ                         
+D)            None of these
+Correct Answer: A
+Solution :
+                   Power P=Vi\,t=250\times 4=1000\,W=1kW Energy = P ´ t = 1 kW ´ 60 sec = 60 kJ
+warning Report Error
+
+
+
+question_answer
+Some electric bulbs are connected in series across a 220 V supply in a room. If one bulb is fused then remaining bulbs are connected again in series across the same supply. The illumination in the room will                  [J & K CET 2004]
+A)            Increase                                    
+B)            Decrease
+C)            Remains the same                   
+D)            Not continuous
+Correct Answer: A
+Solution :
+                   P=\frac{{{V}^{2}}}{R}  ÞÞ P\propto \frac{1}{R}     (V - constant) \ When one bulb will fuse out resistance of the series combination will be reduced. Hence from {{P}_{Consumed}}\propto \frac{1}{R} illumination will increase.
+warning Report Error
+
+
+
+question_answer
+The resistor of resistance 'R' is connected to 25 V supply and heat produced in it is 25 J/sec. The value of R is [Orissa PMT 2004]
+A)            225\Omega                         
+B)            1\Omega
+C)            25\Omega                           
+D)            50\Omega
+Correct Answer: C
+Solution :
+           P=\frac{{{V}^{2}}}{R} Þ R=\frac{{{V}^{2}}}{P}=\frac{25\times 25}{25}=25\,\Omega
+warning Report Error
+
+
+
+question_answer
+Three bulbs of 40 W, 60 W, 100 W are arranged in series with 220 volt supply which bulb has minimum resistance [Pb. PET 2000]
+A)            100 W                                      
+B)            40 W
+C)            60 W                                         
+D)            Equal in all bulbs
+Correct Answer: A
+Solution :
+                   {{P}_{Rated}}=\frac{V_{Rated}^{2}}{R} Þ R\propto \frac{1}{{{P}_{Rated}}}    (V - constant) So bulb of high power will have less resistance.
+warning Report Error
+
+
+
+question_answer
+If two electric bulbs have 40 W and 60 W rating at 220 V, then the ratio of their resistances will be             [Pb. PET 2001]
+A)            9 : 4                                          
+B)            4 : 3
+C)            3 : 8                                          
+D)            3 : 2
+Correct Answer: D
+Solution :
+           {{P}_{Rated}}\propto \frac{1}{R} Þ \frac{{{R}_{1}}}{{{R}_{2}}}=\frac{{{P}_{2}}}{{{P}_{1}}}=\frac{60}{40}=\frac{3}{2}
+warning Report Error
+
+
+
+question_answer
+A 10 V storage battery of negligible internal resistance is connected across a 50\,\Omega resistor. How much heat energy is produced in the resistor in 1 hour                                         [Pb. PET 2001]
+A)            7200 J                                      
+B)            6200 J
+C)            5200 J                                      
+D)            4200 J
+Correct Answer: A
+Solution :
+           Energy =\frac{{{V}^{2}}}{R}\times t=\frac{10\times 10}{50}\times 3600=7200\,J
+warning Report Error
+
+
+
+question_answer
+A hot electric iron has a resistance of 80\,\Omega and is used on a 200 V source. The electrical energy spent, if it is used for two hours, will be                                 [Pb. PET 2002]
+A)            8000 Wh                                  
+B)            2000 Wh
+C)            1000 Wh                                  
+D)            800 Wh
+Correct Answer: C
+Solution :
+           Energy \frac{{{V}^{2}}}{R}t=\frac{200\times 200\times 2}{80}=1000\,Wh
+warning Report Error
+
+
+
+question_answer
+The heat produced by a 100 watt heater in 2 minute will be equal to                                       [BCECE 2004]
+A)            12\times {{10}^{3}}\,J   
+B)            10\times {{10}^{3}}\,J
+C)            6\times {{10}^{3}}\,J     
+D)            3\times {{10}^{3}}\,J
+Correct Answer: A
+Solution :
+           Energy =P\times t=100\times 2\times 60=12000\,J=12\times {{10}^{3}}J
+warning Report Error
+
+
+
+question_answer
+If two wires having resistance R and 2R. Both joined in series and in parallel then ratio of heat generated in this situation, applying the same voltage,                   [BCECE 2004]
+A)            2 : 1                                          
+B)            1 : 2
+C)            2 : 9                                          
+D)            9 : 2
+Correct Answer: C
+Solution :
+                   Heat H=\frac{{{V}^{2}}t}{R} Þ H\propto \frac{1}{R}           (If V, t constant) Þ \frac{{{H}_{S}}}{{{H}_{P}}}=\frac{{{R}_{P}}}{{{R}_{S}}}=\frac{\left( \frac{R\times 2R}{3R} \right)}{(R+2R)}=\frac{2}{9}
+warning Report Error
+
+
+
+question_answer
+Two electric bulbs A and B are rated as 60 W and 100 W. They are connected in parallel to the same source. Then,  [KCET 2004]
+A)            Both draw the same current
+B)            A draws more current than B
+C)            B draws more current than A
+D)            Current drawn are in the ratio of their resistances
+Correct Answer: C
+Solution :
+           i\propto \frac{1}{R} and P\propto \frac{1}{R} Þ i\propto P i.e. in parallel bulb of higher power will draw more current.
+warning Report Error
+
+
+
+question_answer
+Three identical resistances A, B and C are connected as shown in the given figure. The heat produced will be maximum                                                                      [MP PMT 2004]
+A)            In B                                          
+B)            In B and C
+C)            In A
+D)            Same for A, B and C
+Correct Answer: C
+Solution :
+                   Resistance of A is greater than the resistance of combination of B and C, hence voltage drop across A will be greater than that across B or C. Also H=\frac{{{V}^{2}}t}{R} Þ H\propto {{V}^{2}} so {{H}_{A}}>({{H}_{B}}={{H}_{C}})        (R = constant)
+warning Report Error
+
+
+
+question_answer
+If 2.2kW power is transmitted through a 100\Omega line at 22,000V, the power loss in the form of heat will be [MP PET 2004]
+A)            0.1 W                                        
+B)            1 W
+C)            10 W                                         
+D)            100 W
+Correct Answer: B
+Solution :
+                   P=Vi Þ i=\frac{2.2\times {{10}^{3}}}{22000}=\frac{1}{10}A Now loss of power ={{i}^{2}}R={{\left( \frac{1}{10} \right)}^{2}}\times 100 = 1 W
+warning Report Error
+
+
+
+question_answer
+A heater coil connected to a supply of a 220 V is dissipating some power {{P}_{1}}. The coil is cut into half and the two halves are connected in parallel. The heater now dissipates a power {{P}_{2}}. The ratio of power {{P}_{1}}\,\,:\,\,{{P}_{2}} is         [AFMC 2004]
+A)            2 : 1                                          
+B)            1 : 2
+C)            1 : 4                                          
+D)            4 : 1
+Correct Answer: C
+Solution :
+                   P=\frac{{{V}^{2}}}{R}. If resistance of heater coil is R, then resistance of parallel combination of two halves will be \frac{R}{4} So  \frac{{{P}_{1}}}{{{P}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}}=\frac{R/4}{R}=\frac{1}{4}
+warning Report Error
+
+
+
+question_answer
+An electric lamp is marked 60 W, 230 V. The cost of a 1 kWh of energy is Rs. 1.25. The cost of using this lamp 8 hrs a day for 30 day is                                                         [Kerala (Med.) 2002]
+A)            Rs. 10                                       
+B)            Rs. 16
+C)            Rs. 18                                       
+D)            Rs. 20
+Correct Answer: C
+Solution :
+                   Total kWh consumed =\frac{60\times 8\times 30}{1000}=14.4 Hence cost =14.4\times 1.25=18\,Rs
+warning Report Error
+
+
+
+question_answer
+An electric iron draws 5 amp, a TV set draws 3 amp and refrigerator draws 2 amp from a 220 volt main line. The three appliances are connected in parallel. If all the three are operating at the same time, the fuse used may be of [ISM Dhanbad 1994]
+A)            20 amp                                     
+B)            5 amp
+C)            15 amp                                     
+D)            10 amp
+Correct Answer: C
+Solution :
+           Current capacity of a fuse wire should be slightly greater then the total rated load current.
+warning Report Error
+
+
+
+question_answer
+Match the List I with the List II from the combination shown. In the left side (List I) there are four different conditions and in the right side (List II), there are ratios of heat produced  in each resistance for each condition : [ISM Dhanbad 1994]
+  List I List II
+(I) Two wires of same resistance are connected in series and same current is passed through them (A)    1 : 2
+(II) Two wires of resistance R and 2R ohm are connected in series and same P.D. is applied across them (B)     4 : 1
+(III) Two wires of same resistance are connected in parallel and same  current is flowing through them (C)    1 : 1
+(IV) Two wires of resistances in the ratio 1 : 2 are connected in parallel and same P.D. is applied across them (D)    2 : 1
+  A) I-B;\ II-A;\ III-C;\ IV-D
+B) I-C;\ II-D;\ III-C;\ IV-D
+C) I-B;\ II-D;\ III-A;\ IV-C
+D) I-A;\ II-B;\ III-D;\ IV-C
+Correct Answer:
+warning Report Error
+
+
+
+question_answer
+The electric current passing through a metallic wire produces heat because of                                    [BHU 1994]
+A)            Collisions of conduction electrons with each other
+B)            Collisions of the atoms of the metal with each other
+C)            The energy released in the ionization of the atoms of the metal
+D)            Collisions of the conduction electrons with the atoms of the metallic wires
+Correct Answer: D
+Solution :
+           Colliding electrons lose their kinetic energy as heat.
+warning Report Error
+
+
+
+question_answer
+The maximum current that flows through a fuse wire before it blows out varies with its radius as              [SCRA 1998]
+A)            {{r}^{3/2}}                      
+B)            r
+C)            {{r}^{2/3}}                      
+D)            {{r}^{1/2}}
+Correct Answer: A
+Solution :
+           It is called safe current and is proportional to {{r}^{3/2}}.
+warning Report Error
+
+
+
+question_answer
+What is immaterial for an electric fuse wire    [UPSEAT 1999]
+A)            Specific resistance of the wire
+B)            Radius of the wire
+C)            Length of the wire             
+D)            Current flowing through the wire
+Correct Answer: C
+Solution :
+warning Report Error
+
+
+
+question_answer
+The current flowing through a lamp marked as 50 W and 250 V is                                               [MH CET (Med.) 2001]
+A)            5 amp                                     
+B)            2.5 amp
+C)            2 amp                                     
+D)            0.2 amp
+Correct Answer: D
+Solution :
+           i=\frac{P}{V}=\frac{50}{250}=0.2\,amp.
+warning Report Error
+
+
+
+question_answer
+Find the power of the circuit                                     [AIEEE 2002]
+A)            1.5 W                                       
+B)            2 W
+C)            1 W                                          
+D)            None of these
+Correct Answer: C
+Solution :
+                   In steady state the branch containing capacitors, can be neglected. So reduced circuit is as follows  Power P=\frac{{{V}^{2}}}{R}=\frac{{{(2)}^{2}}}{4}=1\,W.
+warning Report Error
+
+
+
+question_answer
+If in the circuit, power dissipation is 150 W, then R is [AIEEE 2002]
+A)            2 W
+B)            6 W
+C)            5 W
+D)            4 W
+Correct Answer: B
+Solution :
+                   P=\frac{{{V}^{2}}}{{{R}_{eq}}}\Rightarrow 150=\frac{{{(15)}^{2}}}{[2R/(R+2)]}=\frac{225\times (R+2)}{2R} Þ R=\frac{450}{75}=6\Omega .
+warning Report Error
+
+
+
+question_answer
+Two resistors whose value are in ratio 2 : 1 are connected in parallel with one cell.  Then ratio of power dissipated is [RPMT 2000]
+A)            2 : 1                                          
+B)            4 : 1
+C)            1 : 2                                          
+D)            1 : 1
+Correct Answer: C
+Solution :
+           P=\frac{{{V}^{2}}}{R}\Rightarrow \frac{{{P}_{1}}}{{{P}_{2}}}=\frac{{{R}_{2}}}{{{R}_{1}}}=\frac{1}{2}.
+warning Report Error
+
+
+
+question_answer
+A heater coil is cut into two equal parts and only one part is now used in the heater. The heat generated will now be [AIEEE 2005]
+A)            One fourth                           
+B)            Halved
+C)            Doubled                                 
+D)            Four times
+Correct Answer: C
+Solution :
+                   H=\frac{{{V}^{2}}t}{R} Þ \frac{{{H}_{Half}}}{{{H}_{Full}}}=\left( \frac{{{R}_{Full}}}{{{R}_{Half}}} \right)=\frac{R}{R/2}=2 Þ {{H}_{Half}}=2\times {{H}_{Full}}.
+warning Report Error
+
+
+
+question_answer
+The resistance of hot tungsten filament is about 10 times the cold resistance. What will be the resistance of 100 W and 200 V lamp when not in use                                      [AIEEE 2005]
+A)            400\,\Omega                
+B)            200\,\Omega
+C)            40\text{ }\Omega       
+D)            20\,\Omega
+Correct Answer: C
+Solution :
+                   It is given {{R}_{Hot}}=10\,{{R}_{Cold}} also resistance at rated temperature R=\frac{{{V}^{2}}}{P}=\frac{200\times 200}{100}=400\,\Omega . So resistance when lamp not in use. {{R}_{Cold}}=\text{ }\frac{{{R}_{Hot}}}{10}=\frac{400}{10}=40\,\Omega
+warning Report Error
+
+
+
+question_answer
+A 5.0 amp current is setup in an external circuit by a 6.0 volt storage battery for 6.0 minutes. The chemical energy of the battery is reduced by                                            [KCET 2005]
+A)            1.08 ´ 104 J                            
+B)            1.08 ´ 10-4 volt
+C)            1.8 ´ 104 J                              
+D)            1.8 ´ 104 volt
+Correct Answer: A
+Solution :
+                   The chemical energy reduced in battery =VIt=6\times 5\times 6\times 60\,J=10800\,J=1.08\times {{10}^{4}}J
+warning Report Error
+
+
+
+question_answer
+A railway compartment is lit up by thirteen lamps each taking 2.1 amp at 15 volts. The heat generated per second in each lamp will be                                                     [J & K CET 2005]
+A)            4.35\,cal                          
+B)            5.73\,\,cal
+C)            7.5\,\,cal                         
+D)            2.5\,cal
+Correct Answer: C
+Solution :
+                   The heat generated = IVt =2.1\times 15\times 1=31.5J                    =31.5/4.2\,\,cal=7.5cal.        [\because 1\,cal=4.2J]
+warning Report Error
+
+
+
+question_answer
+Two bulbs X and Y having same voltage rating and of power 40 watt and 60 watt respectively are connected in series across a potential difference of 300 volt, then [Orissa JEE 2005]
+A)            X will glow brighter
+B)            Resistance of Y is greater than X
+C)            Heat produced in Y will be greater than X
+D)            Voltage drop in X will be greater than Y
+Correct Answer: A
+Solution :
+           Resistance\propto \frac{1}{\text{power}}. Thus, 40 W bulb has a high resistance. Because of which there will be more potential drop across 40 W bulb. Thus 40 W bulb will glow brighter.
+warning Report Error
+
+
+
+question_answer
+3 identical bulbs are connected in series and these together dissipate a power P. If now the bulbs are connected in parallel, then the power dissipated will be        [DPMT 2005]
+A)            \frac{P}{3}                     
+B)            3P
+C)            9P  
+D)            \frac{P}{9}
+Correct Answer: C
+Solution :
+           When bulbs are connected in series, P=\frac{{{V}^{2}}}{{{R}'}}=\frac{{{V}^{2}}}{3R} When bulbs are connected in parallel, {P}'=\frac{{{V}^{2}}}{{{R}''}}=\frac{{{V}^{2}}\times 3}{R}=3\times 3P=9P.
+warning Report Error
+
+
+
+question_answer
+A coil takes 15 min to boil a certain amount of water, another coil takes 20 min for the same process. Time taken to boil the same amount of water when both coil are connected in series                                  [DCE 2005]
+A)            5 min                                       
+B)            8.6 min
+C)            35 min                                     
+D)            30 min
+Correct Answer: C
+Solution :
+           Time {{t}_{S}}={{t}_{1}}+{{t}_{2}}=35\,\,\min .
+warning Report Error
+
+
+
