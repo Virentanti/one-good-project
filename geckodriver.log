@@ -4079,3 +4079,31 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1625738114296	Marionette	INFO	Listening on port 56225
 1625738115475	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.studyadda.com/question-bank/heating-effect-of-current_q1/1157/83942, line 2547: TypeError: $(...).pinterest_grid is not a function
+1625826930616	geckodriver	INFO	Listening on 127.0.0.1:62017
+1625826938566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileQ0HTZG"
+1625826950921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileQ0HTZG\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625826982552	Marionette	INFO	Listening on port 62026
+1625826983220	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q1/1162/84237, line 2551: TypeError: $(...).pinterest_grid is not a function
+1625826996091	Marionette	INFO	Stopped listening on port 62026
+[Parent 7356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625827002016	geckodriver	INFO	Listening on 127.0.0.1:62182
+1625827009097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileGnpxpn"
+1625827010464	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileGnpxpn\\search.json.mozlz4", (void 0)))
+1625827017877	Marionette	INFO	Listening on port 62207
+1625827019053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q1/1162/84238, line 2552: TypeError: $(...).pinterest_grid is not a function
+1625827025756	Marionette	INFO	Stopped listening on port 62207
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1625827029536	geckodriver	INFO	Listening on 127.0.0.1:62285
+1625827036904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileplNpsZ"
+1625827038993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileplNpsZ\\search.json.mozlz4", (void 0)))
+1625827045357	Marionette	INFO	Listening on port 62293
+1625827046637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/assertion-and-reason_q1/1162/84239, line 2552: TypeError: $(...).pinterest_grid is not a function
