@@ -1,0 +1,201 @@
+question_answer
+One kilowatt hour is equal to [NCERT 1974; MP PMT 2002]
+A)            36\times {{10}^{5}}\,joules                                        
+B)            36\times {{10}^{3}}\,joules
+C)            {{10}^{3}}\,joules       
+D)            {{10}^{5}}\,joules
+Correct Answer: A
+Solution :
+           1 kWh = 1000 W ´ 3600 sec = 36 ´ 105 W-sec (or J)
+warning Report Error
+
+
+
+question_answer
+If
+and
+are respectively the filament resistances of a 200 watt bulb and 100 watt bulb designed to operate on the same voltage, then [NCERT 1980; CPMT 1991, 97]
+A)           
+is two times
+                          B)           
+is two times
+C)           
+is four times
+                          D)           
+is four times
+Correct Answer: B
+Solution :
+           warning Report Error
+
+
+
+question_answer
+Two electric bulbs, one of 200 volt 40 watt and the other 200 volt 100 watt are connected in a house wiring circuit                     [NCERT 1971; CBSE PMT 2000]
+A)            They have equal currents through them
+B)            The resistance of the filaments in both the bulbs is same
+C)            The resistance of the filament in 40 watt bulb is more than the resistance in 100 watt bulb
+D)            The resistance of the filament in 100 watt bulb is more than the resistance in 40 watt bulb
+Correct Answer: C
+Solution :
+                                and
+warning Report Error
+
+
+
+question_answer
+The two bulbs as in the above question are connected in series to a 200 volt line. Then                                  [NCERT 1971, 78]
+A)            The potential drop across the two bulbs is the same
+B)            The potential drop across the 40 watt bulb is greater than the potential drop across the 100 watt bulb
+C)            The potential drop across the 100 W bulb is greater than the potential drop across the 40 W bulb
+D)            The potential drop across both the bulb is 200 volt
+Correct Answer: B
+Solution :
+           When two bulbs are connected in series, the current will be same in both the bulbs. As a result potential drop will be more in the bulb of higher resistance i.e., bulb of lower wattage.
+warning Report Error
+
+
+
+question_answer
+Forty electric bulbs are connected in series across a 220 V supply. After one bulb is fused, the remaining 39 are connected again in series across the same supply. The illumination will be [NCERT 1972; Haryana CEE 1996; DPMT 2001]
+A)            More with 40 bulbs than with 39
+B)            More with 39 bulbs than with 40
+C)            Equal in both the cases
+D)            In the ratio of
+Correct Answer: B
+Solution :
+           When 1 bulb fuses, the total resistance of the circuit decreases hence the current increases. Since
+, therefore illumination increases.
+warning Report Error
+
+
+
+question_answer
+The material of fuse wire should have  [BHU 1999; MH CET 2001; CBSE PMT 2003]
+A)            A high specific resistance and high melting point
+B)            A low specific resistance and low melting point
+C)            A high specific resistance and low melting point
+D)            A low specific resistance and a high melting point
+Correct Answer: C
+Solution :
+warning Report Error
+
+
+
+question_answer
+Two electric bulbs whose resistances are in the ratio of 1 : 2 are connected in parallel to a constant voltage source. The powers dissipated in them have the ratio [NCERT 1977; MP PMT 1994, 2000]
+A)            1 : 2                                          
+B)            1 : 1
+C)            2 : 1                                          
+D)            1 : 4
+Correct Answer: C
+Solution :
+           We know that
+warning Report Error
+
+
+
+question_answer
+A heater coil is cut into two parts of equal length and one of them is used in the heater. The ratio of the heat produced by this half coil to that by the original coil is [NCERT 1972; AIEEE 2005; CBSE PMT 2005]
+A)            2 : 1                                          
+B)            1 : 2
+C)            1 : 4                                          
+D)            4 : 1
+Correct Answer: A
+Solution :
+           P=\frac{{{V}^{2}}}{R}\Rightarrow P\propto \frac{1}{R}andR\propto l             \therefore P\propto \frac{1}{l}\Rightarrow \frac{{{P}_{1}}}{{{P}_{2}}}=\frac{{{l}_{1}}}{{{l}_{2}}}=\frac{2}{1}
+warning Report Error
+
+
+
+question_answer
+  Resistance of one carbon filament and one tungsten lamp are measured individually when the lamp are lit and compared with their respective resistances when cold. Which one of the following statements will be true [NCERT 972]
+A)            Resistance of the carbon filament lamp will increase but that of the tungsten will diminish when hot
+B)            Resistance of the tungsten filament lamp will increase but that of carbon will diminish when hot
+C)            Resistances of both the lamps will increase when hot
+D)            Resistances of both the lamps will decrease when hot
+Correct Answer: B
+Solution :
+           Rconductor µ Temperature and Rsemiconductor µ
+1
+Temperature
+warning Report Error
+
+
+
+question_answer
+The mechanism of the heat produced in a conductor when an electric current flows through it, can be explained on the basis of
+A)            Viscosity                                
+B)            Friction
+C)            Free electron theory        
+D)            Gauss's theorem
+Correct Answer: C
+Solution :
+warning Report Error
+
+
+
+question_answer
+Two electric bulbs whose resistances are in the ratio of 1 : 2 are connected in series. The powers dissipated in them have the ratio                                                                [NCERT 1977]
+A)            1 : 2                                          
+B)            2 : 1
+C)            1 : 1                                          
+D)            1 : 4
+Correct Answer: A
+Solution :
+           In series, current is same in both the bulbs, hence  
+warning Report Error
+
+
+
+question_answer
+You are given a resistance wire of length 50 cm and a battery of negligible resistance. In which of the following cases is largest amount of heat generated
+A)            When the wire is connected to the battery directly
+B)            When the wire is divided into two parts and both the parts connected to the battery in parallel
+C)            When the wire is divided into four parts and all the four connected to the battery in parallel
+D)            When only half the wire is connected to the battery
+Correct Answer: C
+Solution :
+           In this case, or andwill be minimum, when divided four parts are joints in parallel to the battery.
+warning Report Error
+
+
+
+question_answer
+What is immaterial for an electric fuse wire [MNR 1984; MP PMT 2002; CPMT 1996, 2003]
+A)            Its specific resistance
+B)            Its radius
+C)            Its length
+D)            Current flowing through it
+Correct Answer: C
+Solution :
+           Length is immaterial for an electric fuse wire.
+warning Report Error
+
+
+
+question_answer
+The electric bulbs have tungsten filaments of same length. If one of them gives 60 watt and other 100 watt, then [NCERT 1979]
+A)            100 watt bulb has thicker filament
+B)            60 watt bulb has thicker filament
+C)            Both filaments are of same thickness
+D)            It is possible to get different wattage unless the lengths are different
+Correct Answer: A
+Solution :
+                   and            So
+warning Report Error
+
+
+
+question_answer
+Three equal resistors connected in series across a source of e.m.f. together dissipate 10 watt. If the same resistors are connected in parallel across the same e.m.f., then the power dissipated will be [CBSE PMT 1998; KCET (Engg.) 1999; MP PMT 2003]
+A)            10 watt                                   
+B)            30 watt
+C)            10/3 watt                              
+D)            90 watt
+Correct Answer: D
+Solution :
+                   In series Þ Þ In parallel = 3 ´ 30 = 90 W
+warning Report Error
+
+
+
