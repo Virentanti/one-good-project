@@ -16,8 +16,8 @@ print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 
 
 data=str(input("Which Values do Question have: "))  #Getting available data from the user
-lst= data.upper().split(',')    #converting available data to list
-print(lst)
+data=data.upper().split(',')    #converting available data to list
+print(data)
 want=str(input("What Do Question want: "))  #getting what user wants
 want=want.upper()   #making sure the data is in uppercase
 print(want)
@@ -25,9 +25,25 @@ print(want)
 k=9*(10**9)
 e0=8.85*(10**(-12))
 e=1.6*(10**(-19))
+constants={'k':k,'e0':e0,'e':e}
 
 #----->function to compare lists
 def compare(a,b):
+    a.sort()
+    b.sort()
+    if a in b:
+        return True
+    else:
+        return False
+
+
+def com(lst):
+    if len(lst)==2:
+        return True
+    else:
+        return False
+
+def co2(a,b):
     a.sort()
     b.sort()
     for i in range(len(a)):
@@ -37,107 +53,92 @@ def compare(a,b):
     else:
         return True
 
+def volt2var(lst):
+    val=1
+    for i in lst:
+        temp=float(input(f'enter value of {i}:'))
+        val*=temp
+    return val
+
+
+def volt3var(lst):
+    if co2(lst,['P','E','q']):
+        P=float(input('P='))
+        E=float(input('E='))
+        q=float(input('q='))
+        return P*E/q
+    elif co2(lst,['P','I']):
+        P=float(input(f'Enter value of P:'))
+        I=float(input(f'Enter value of I:'))
+        val=P/I
+        return val
+    else:
+        val=1
+        for i in lst:
+            temp=float(input(f'Enter value of {i}:'))
+            val*=temp
+        return val*constants['k']
+
+def capacitance(lst):
+    if co2(lst,['q','V']):
+        q=float(input('q='))
+        V=float(input('V='))
+        Cap=q/V
+
+    if co2(lst,['U','V']):
+        U=float(input('U='))
+        V=float(input('V='))
+        Cap=2*U/(V**2)
+
+    if co2(lst,['q','U']):
+        q=float(input('q='))
+        U=float(input('U='))
+        Cap=q**2/2*U
+
+    if co2(lst,['n','V']):
+        n=float(input('n='))
+        V=float(input('V='))
+        Cap=n*e/V
+
+    if co2(lst,['A','d']):
+        A=float(input('A='))
+        d=float(input('d='))
+        Cap=e0*A/d
+
+    if co2(lst,['q','r1r2']):
+        q=float(input('q='))
+        r1=float(input('r1(inner)='))
+        r2=float(input('r2(outer)='))
+        Cap=(4*(3.14)*e0*r1*r2)/r1 - r2
+
+    if co2(lst,['L','r1r2']):
+        L=float(input('L='))
+        r1=float(input('r1(inner)='))
+        r2=float(input('r2(outer)='))
+        Cap=(2*(3.14)*e0*L)/(math.log(r2/r1))
+
+    return Cap
 
 try:
     if want=='V'or want=='emf':
         V=[['I','R'],['P','I'],['P','R'],['q','C'],['P','E','q'],['q','r']]
-        for i in range(0,len(V)):
 
-            if compare(lst,V[i]):
-                print ("We can find Voltage from Given Information")
-                Vnew=[]
-                Vnew.append(V[i])
-                if Vnew ==[['I','R']]:
-                    I=float(input('I='))
-                    R=float(input('R='))
-                    Volt=I*R
-                    print('Voltage(I*R) is ',Volt,'V')
-                if Vnew ==[['I','P']]:
-                    I=float(input('I='))
-                    P=float(input('P='))
-                    Volt=P/I
-                    print('Voltage(P/I) is ',Volt,'V')
-                if Vnew ==[['P','R']]:
-                    R=float(input('R='))
-                    P=float(input('P='))
-                    Volt=P*R
-                    print('Voltage(P*R) is ',Volt,'V')
-                if Vnew ==[['I','R']]:
-                    I=float(input('I='))
-                    R=float(input('R='))
-                    Volt=I*R
-                    print('Voltage(I*R) is ',Volt,'V')
-                if Vnew ==[['P','E','q']]:
-                    P=float(input('P='))
-                    E=float(input('E='))
-                    q=float(input('q='))
-                    Volt=P*E/q
-                    print('Voltage is(P*E/q) ',Volt,'V')
-                if Vnew ==[['q','r']]:
-                    q=float(input('q='))
-                    r=float(input('r='))
-                    Volt=(k)*q/r
-                    print('Voltage is(k*q/r) ',Volt,'V')
+        if compare(data,V):
+            if com(data)==True:
+                print(f'Voltage is {volt2var(data)}V')
             else:
-                if lst != V[i]:
-                    print('We cannot find Voltage from Given Information')
-                break
+                print(f'Voltage is {volt3var(data)}V')
+        else:
+            print('We cannot find Voltage from Given Information')
+
     elif want=='C':
         C=[['q','V'],['A','d'],['U','V'],['U','q'],['n','V'],['r1r2'],['r1r2','L']]
-        for i in range(0,len(C)):
 
-            if compare(lst,C[i]):
-
-                print(lst,"\n", C[i])
-                print ("We can find Capacitance from Given Information")
-                Cnew=[]
-                Cnew.append(C[i])
-                if Cnew ==[['q','V']]:
-                    q=float(input('q='))
-                    V=float(input('V='))
-                    Cap=q/V
-                    print('Capacitance is() ',Cap,'F')
-                if Cnew ==[['U','V']]:
-                    U=float(input('U='))
-                    V=float(input('V='))
-                    Cap=2*U/(V**2)
-                    print('Capacitance is() ',Cap,'F')
-                if Cnew ==[['q','U']]:
-                    q=float(input('q='))
-                    U=float(input('U='))
-                    Cap=q**2/2*U
-                    print('Capacitance is() ',Cap,'F')
-                if Cnew ==[['n','V']]:
-                    n=float(input('n='))
-                    V=float(input('V='))
-                    Cap=n*e/V
-                    print('Capacitance is() ',Cap,'F')
-                if Cnew ==[['A','d']]:
-                    A=float(input('A='))
-                    d=float(input('d='))
-                    Cap=e0*A/d
-                    print('Capacitance is() ',Cap,'F')
-                if Cnew ==[['q','r1r2']]:
-                    q=float(input('q='))
-                    r1=float(input('r1(inner)='))
-                    r2=float(input('r2(outer)='))
-                    Cap=(4*(3.14)*e0*r1*r2)/r1 - r2
-                    print('Capacitance is() ',Cap,'F')
-                if Cnew ==[['L','r1r2']]:
-                    L=float(input('L='))
-                    r1=float(input('r1(inner)='))
-                    r2=float(input('r2(outer)='))
-                    Cap=(2*(3.14)*e0*L)/(math.log(r2/r1))
-                    print('Capacitance is() ',Cap,'F')
-                break
-        else:
-            print('We cannot find Capacitance from Given Information')
-        
+        if compare(data,C):
+            print(f'Capacitance is{capacitance(data)}*10**(-6)F')
 
 except:
     print('invalid datatype provided')
-
-
 
 
 
