@@ -35,3 +35,17 @@ def capacitance(lst):
         return eval(C_formula[key],temp)
 
 print(capacitance(['v','q']))
+
+V={0:['I','R'],1:['P','I'],2:['P','R'],3:['q','C'],4:['P','E','q'],5:['q','r']}
+V_formula={0:'I*R',1:'P*I',2:'P*R',3:'q*C',4:'P*E*q',5:'q*r'}
+
+def Voltage(lst):
+    key=get_key(lst)
+    if key!=-1:
+        temp={}
+        for i in V[key]:
+            a=float(input(f'enter value of {i}:'))
+            temp[i]=a
+        return eval(V_formula[key],temp)
+    else:
+        return -1

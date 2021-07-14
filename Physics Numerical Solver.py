@@ -1,4 +1,4 @@
-import math
+from math import log
 
 print('*-------------------------------THE BASIC PHYSICS NUMERICAL SOLVER--------------------------------*')
 print("Chapter 1. Electric Charges and Fields")
@@ -14,131 +14,65 @@ print('*Shape=shape, Angle=x')
 print('#Note: All value must be in Standard Unit')
 print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 
-
 data=str(input("Which Values do Question have: "))  #Getting available data from the user
 data=data.upper().split(',')    #converting available data to list
 print(data)
-want=str(input("What Do Question want: "))  #getting what user wants
-want=want.upper()   #making sure the data is in uppercase
+want=str(input("What Do Question want: ")).upper()  #getting what user wants
+#want=want.upper()   #making sure the data is in uppercase
 print(want)
-#----->DEFINED CONSTANTS
-k=9*(10**9)
-e0=8.85*(10**(-12))
-e=1.6*(10**(-19))
-constants={'k':k,'e0':e0,'e':e}
 
-#----->function to compare lists
+#----->formula list<-----#
+V={0:['I','R'],1:['P','I'],2:['P','R'],3:['q','C'],4:['P','E','q'],5:['q','r']}
+V_formula={0:'I*R',1:'P*I',2:'P*R',3:'q*C',4:'P*E*q',5:'q*r'}
+C={0:['q','V'],1:['A','d'],2:['U','V'],3:['U','q'],4:['n','V'],5:['q','r1','r2'],6:['r1','r2','L']}
+C_formula={0:'q/V',1:'e0*A/d',2:'2*U/(V**2)',3:'q**2/2*U',4:'n*e/V',5:'(4*(3.14)*e0*r1*r2)/(r1 - r2)',6:'(2*(3.14)*e0*L)/(log(r2/r1))'}
+
 def compare(a,b):
-    a.sort()
-    b.sort()
+    x=[]
+    y=[]
     for i in range(len(a)):
-        if a[i].upper()!=b[i].upper():
-            return False
-            break
-    else:
-        return True
-
-
-def com(lst):
-    if len(lst)==2:
+        x.append(a[i].upper())
+        y.append(b[i].upper())
+    x.sort()
+    y.sort()
+    if x==y:
         return True
     else:
         return False
 
-def co2(a,b):
-    a.sort()
-    b.sort()
-    for i in range(len(a)):
-        if a[i].upper()!=b[i].upper():
-            return False
-            break
+def get_key(val,a):
+    for key, value in a.items():
+        if compare(val,value):
+            return key
     else:
-        return True
-
-def volt2var(lst):
-    val=1
-    for i in lst:
-        temp=float(input(f'enter value of {i}:'))
-        val*=temp
-    return val
-
-
-def volt3var(lst):
-    if co2(lst,['P','E','q']):
-        P=float(input('P='))
-        E=float(input('E='))
-        q=float(input('q='))
-        return P*E/q
-    elif co2(lst,['P','I']):
-        P=float(input(f'Enter value of P:'))
-        I=float(input(f'Enter value of I:'))
-        val=P/I
-        return val
-    else:
-        val=1
-        for i in lst:
-            temp=float(input(f'Enter value of {i}:'))
-            val*=temp
-        return val*constants['k']
+        return -1
 
 def capacitance(lst):
-    if co2(lst,['q','V']):
-        q=float(input('q='))
-        V=float(input('V='))
-        Cap=q/V
+    key=get_key(lst,C)
+    if key!=-1:
+        temp={'k':9*(10**9),'e0':8.85*(10**(-12)),'e':1.6*(10**(-19)),'log':log}
+        for i in C[key]:
+            a=float(input(f'enter value of {i}:'))
+            temp[i]=a
+        return eval(C_formula[key],temp)
 
-    if co2(lst,['U','V']):
-        U=float(input('U='))
-        V=float(input('V='))
-        Cap=2*U/(V**2)
-
-    if co2(lst,['q','U']):
-        q=float(input('q='))
-        U=float(input('U='))
-        Cap=q**2/2*U
-
-    if co2(lst,['n','V']):
-        n=float(input('n='))
-        V=float(input('V='))
-        Cap=n*e/V
-
-    if co2(lst,['A','d']):
-        A=float(input('A='))
-        d=float(input('d='))
-        Cap=e0*A/d
-
-    if co2(lst,['q','r1r2']):
-        q=float(input('q='))
-        r1=float(input('r1(inner)='))
-        r2=float(input('r2(outer)='))
-        Cap=(4*(3.14)*e0*r1*r2)/r1 - r2
-
-    if co2(lst,['L','r1r2']):
-        L=float(input('L='))
-        r1=float(input('r1(inner)='))
-        r2=float(input('r2(outer)='))
-        Cap=(2*(3.14)*e0*L)/(math.log(r2/r1))
-
-    return Cap
+def Voltage(lst):
+    key=get_key(lst,V)
+    if key!=-1:
+        temp={'k':9*(10**9),'e0':8.85*(10**(-12)),'e':1.6*(10**(-19)),'log':log}
+        for i in V[key]:
+            a=float(input(f'enter value of {i}:'))
+            temp[i]=a
+        return eval(V_formula[key],temp)
+    else:
+        return -1
 
 try:
     if want=='V'or want=='emf':
-        V=[['I','R'],['P','I'],['P','R'],['q','C'],['P','E','q'],['q','r']]
-
-        if compare(data,V):
-            if com(data)==True:
-                print(f'Voltage is {volt2var(data)}V')
-            else:
-                print(f'Voltage is {volt3var(data)}V')
-        else:
-            print('We cannot find Voltage from Given Information')
+        print(Voltage(data))
 
     elif want=='C':
-        C=[['q','V'],['A','d'],['U','V'],['U','q'],['n','V'],['r1r2'],['r1r2','L']]
-
-        if compare(data,C):
-            print(f'Capacitance is{capacitance(data)}*10**(-6)F')
-
+        print(capacitance(data))
 except:
     print('invalid datatype provided')
 
