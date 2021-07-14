@@ -31,10 +31,12 @@ constants={'k':k,'e0':e0,'e':e}
 def compare(a,b):
     a.sort()
     b.sort()
-    if a in b:
-        return True
+    for i in range(len(a)):
+        if a[i].upper()!=b[i].upper():
+            return False
+            break
     else:
-        return False
+        return True
 
 
 def com(lst):
