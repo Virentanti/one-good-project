@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>673</width>
-    <height>458</height>
+    <width>677</width>
+    <height>467</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -650,7 +650,7 @@ QPushButton:hover{background-color:rgb(255, 96, 92);}</string>
                           <property name="currentText">
                            <string>select input value</string>
                           </property>
-                          <property name="placeholderText">
+                          <property name="placeholderText" stdset="0">
                            <string/>
                           </property>
                          </widget>
@@ -881,6 +881,12 @@ QPushButton:hover{border: 2px solid rgb(33, 0, 114); border-radius: 10px; color:
                          </property>
                          <item>
                           <widget class="QLabel" name="browse_label">
+                           <property name="font">
+                            <font>
+                             <family>Uni Sans Demo Heavy CAPS</family>
+                             <pointsize>10</pointsize>
+                            </font>
+                           </property>
                            <property name="styleSheet">
                             <string notr="true">border-radius:10px; border: 2px solid rgb(33, 0, 114);color:rgba(255, 255, 255,90);background-color:rgba(33, 0, 114,80)</string>
                            </property>
@@ -905,6 +911,14 @@ QPushButton:hover{border: 2px solid rgb(33, 0, 114); border-radius: 10px; color:
                              <width>100</width>
                              <height>16777215</height>
                             </size>
+                           </property>
+                           <property name="font">
+                            <font>
+                             <family>Uni Sans Demo Heavy CAPS</family>
+                             <pointsize>10</pointsize>
+                             <weight>75</weight>
+                             <bold>true</bold>
+                            </font>
                            </property>
                            <property name="styleSheet">
                             <string notr="true">QPushButton{border: 2px solid rgb(255, 255, 255); border-radius: 10px; color:rgb(255, 255, 255);}
@@ -942,6 +956,12 @@ QPushButton:hover{border: 2px solid rgb(33, 0, 114); border-radius: 10px; color:
                              <width>300</width>
                              <height>29</height>
                             </size>
+                           </property>
+                           <property name="font">
+                            <font>
+                             <family>Uni Sans Demo Heavy CAPS</family>
+                             <pointsize>10</pointsize>
+                            </font>
                            </property>
                            <property name="styleSheet">
                             <string notr="true">QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 1px 1px 35px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/down_arrow.png); width: 10px; height: 10px; }</string>
@@ -994,6 +1014,12 @@ QPushButton:hover{border: 2px solid rgb(33, 0, 114); border-radius: 10px; color:
                              <width>200</width>
                              <height>29</height>
                             </size>
+                           </property>
+                           <property name="font">
+                            <font>
+                             <family>Uni Sans Demo Heavy CAPS</family>
+                             <pointsize>10</pointsize>
+                            </font>
                            </property>
                            <property name="styleSheet">
                             <string notr="true">QPushButton{border: 2px solid rgb(255, 255, 255); border-radius: 10px; color:rgb(255, 255, 255);}
