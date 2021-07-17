@@ -61,14 +61,18 @@ def capacitance(lst):
             resc_lis.append(a)
             temp[i]=a
         resc_lis.append(eval(C_formula[key],temp))
+    else:
+        resc_lis.append(-1)
     return resc_lis
         
-
+fres_lis=[]
 for i in range(10000):
     x= V[random.randint(0,5)]
-    file.write(str(Voltage(x)))
+    fres_lis.append(str(Voltage(x)))
     y= C[random.randint(0,6)]
-    file.write(str(capacitance(y)))
+    fres_lis.append(str(capacitance(y)))
+
+file.write("\n".join(fres_lis))
 
 
 

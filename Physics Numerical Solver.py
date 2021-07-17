@@ -8,7 +8,7 @@ print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 print('For:-')
 print('Volt=V, Current=I, Resistance=R, Charge=q, Radius=r, Electric Field=E, Power=P, Capacitance=C, Force=F')
 print('Area=A, Distance=d, Drift velocity=Vd, Dielectric constant=K, Work done=W, Electric flux=Ef, Length=L')
-print("Charge density=p, Induced charge=q', Polarisation=P', Volume=V, Two Charges=q1q2, Two Radius=r1r2")
+print("Charge density=p, Induced charge=q', Polarisation=P', Volume=V, Two Charges=q1q2, Two Radius=outer_radiusinner_radius")
 print('Electromotive force=emf, Stored energy=u, No. of Electron=n ,Potential difference=U ')
 print('*Shape=shape, Angle=x')
 print('#Note: All value must be in Standard Unit')
@@ -24,8 +24,8 @@ print(want)
 #----->formula list<-----#
 V={0:['I','R'],1:['P','I'],2:['P','R'],3:['q','C'],4:['P','E','q'],5:['q','r']}
 V_formula={0:'I*R',1:'P*I',2:'P*R',3:'q*C',4:'P*E*q',5:'q*r'}
-C={0:['q','V'],1:['A','d'],2:['U','V'],3:['U','q'],4:['n','V'],5:['q','r1','r2'],6:['r1','r2','L']}
-C_formula={0:'q/V',1:'ep*A/d',2:'2*U/(V**2)',3:'q**2/2*U',4:'n*e/V',5:'(4*(3.14)*ep*r1*r2)/(r1 - r2)',6:'(2*(3.14)*ep*L)/(log(r2/r1))'}
+C={0:['q','V'],1:['A','d'],2:['U','V'],3:['U','q'],4:['n','V'],5:['q','outer_radius','inner_radius'],6:['outer_radius','inner_radius','L']}
+C_formula={0:'q/V',1:'ep*A/d',2:'2*U/(V**2)',3:'q**2/2*U',4:'n*e/V',5:'(4*(3.14)*ep*outer_radius*inner_radius)/(outer_radius - inner_radius)',6:'(2*(3.14)*ep*L)/(log(outer_radius/inner_radius))'}
 
 def compare(a,b):
     x=[]
