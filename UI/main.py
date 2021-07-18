@@ -1,11 +1,3 @@
-################################################################################
-##
-## BY: WANDERSON M.PIMENTA
-## PROJECT MADE WITH: Qt Designer and PySide2
-## V: 1.0.0
-##
-################################################################################
-
 import sys
 import platform
 from PySide2 import QtCore, QtGui, QtWidgets
@@ -27,7 +19,7 @@ class MainWindow(QMainWindow):
 
         ## TOGGLE/BURGUER MENU
         ########################################################################
-        self.ui.menu_btn.clicked.connect(lambda: UIFunctions.toggleMenu(self, 250, True))
+        self.ui.menu_btn.clicked.connect(lambda: UIFunctions.toggleMenu(self, 150, True))
 
         # PAGE 1
         self.ui.home_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.home))

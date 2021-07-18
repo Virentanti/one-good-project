@@ -14,6 +14,7 @@ from PySide2.QtGui import (QBrush, QColor, QConicalGradient, QCursor, QFont,
     QFontDatabase, QIcon, QLinearGradient, QPalette, QPainter, QPixmap,
     QRadialGradient)
 from PySide2.QtWidgets import *
+from os import getcwd
 
 
 class Ui_MainWindow(object):
@@ -33,7 +34,7 @@ class Ui_MainWindow(object):
         self.central_frame.setFrameShadow(QFrame.Raised)
         self.horizontalLayout_2 = QHBoxLayout(self.central_frame)
         self.horizontalLayout_2.setObjectName(u"horizontalLayout_2")
-        self.horizontalLayout_2.setContentsMargins(-1, 5, 0, -1)
+        self.horizontalLayout_2.setContentsMargins(0,0,0,0)#(1, 5, 0, -1)
         self.sidebar_frame = QFrame(self.central_frame)
         self.sidebar_frame.setObjectName(u"sidebar_frame")
         sizePolicy = QSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
@@ -44,10 +45,11 @@ class Ui_MainWindow(object):
         self.sidebar_frame.setMaximumSize(QSize(50, 16777215))
         self.sidebar_frame.setFrameShape(QFrame.NoFrame)
         self.sidebar_frame.setFrameShadow(QFrame.Raised)
+        self.sidebar_frame.setStyleSheet(u"background-color:rgb(10,0,36)")
         self.verticalLayout_2 = QVBoxLayout(self.sidebar_frame)
         self.verticalLayout_2.setSpacing(10)
         self.verticalLayout_2.setObjectName(u"verticalLayout_2")
-        self.verticalLayout_2.setContentsMargins(0, 0, 0, 0)
+        self.verticalLayout_2.setContentsMargins(10, 10, 10, 0)
         self.menu_Layout = QHBoxLayout()
         self.menu_Layout.setSpacing(30)
         self.menu_Layout.setObjectName(u"menu_Layout")
@@ -60,8 +62,8 @@ class Ui_MainWindow(object):
         self.menu_btn.setSizePolicy(sizePolicy1)
         self.menu_btn.setMinimumSize(QSize(30, 30))
         self.menu_btn.setMaximumSize(QSize(30, 30))
-        self.menu_btn.setStyleSheet(u"QPushButton{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/menu.png);}\n"
-"QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/menu(hover).png);}")
+        self.menu_btn.setStyleSheet(u"QPushButton{border-image:url(C:/Users/viren/Desktop/Development/one-good-project/images/menu.png);}\n"
+"QPushButton:hover{border-image:url(C:/Users/viren/Desktop/Development/one-good-project/images/menu(hover).png);}")
 
         self.menu_Layout.addWidget(self.menu_btn)
 
@@ -75,7 +77,13 @@ class Ui_MainWindow(object):
         self.menu_label.setMinimumSize(QSize(30, 30))
         self.menu_label.setMaximumSize(QSize(16777215, 30))
         self.menu_label.setStyleSheet(u"color: rgb(255, 255, 255);")
-        self.menu_label.setAlignment(Qt.AlignCenter)
+        font = QFont()
+        font.setFamily(u"Uni Sans Demo Heavy CAPS")
+        font.setPointSize(12)
+        font.setBold(False)
+        font.setWeight(50)
+        self.menu_label.setFont(font)
+        #self.menu_label.setAlignment(Qt.AlignCenter)
 
         self.menu_Layout.addWidget(self.menu_label)
 
@@ -89,8 +97,8 @@ class Ui_MainWindow(object):
         self.home_btn.setObjectName(u"home_btn")
         self.home_btn.setMinimumSize(QSize(30, 30))
         self.home_btn.setMaximumSize(QSize(30, 30))
-        self.home_btn.setStyleSheet(u"QPushButton{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/home.png);}\n"
-"QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/home(hover).png);}")
+        self.home_btn.setStyleSheet(u"QPushButton{border-image:url(C:/Users/viren/Desktop/Development/one-good-project/images/home.png);}\n"
+"QPushButton:hover{border-image:url(C:/Users/viren/Desktop/Development/one-good-project/images/home(hover).png);}")
 
         self.home_Layout.addWidget(self.home_btn)
 
@@ -100,6 +108,12 @@ class Ui_MainWindow(object):
         self.home_label.setSizePolicy(sizePolicy2)
         self.home_label.setMinimumSize(QSize(30, 30))
         self.home_label.setMaximumSize(QSize(16777215, 30))
+        font = QFont()
+        font.setFamily(u"Uni Sans Demo Heavy CAPS")
+        font.setPointSize(12)
+        font.setBold(False)
+        font.setWeight(50)
+        self.home_label.setFont(font)
         self.home_label.setStyleSheet(u"color: rgb(255, 255, 255);")
 
         self.home_Layout.addWidget(self.home_label)
@@ -118,8 +132,8 @@ class Ui_MainWindow(object):
         self.generate_btn.setObjectName(u"generate_btn")
         self.generate_btn.setMinimumSize(QSize(30, 30))
         self.generate_btn.setMaximumSize(QSize(30, 30))
-        self.generate_btn.setStyleSheet(u"QPushButton{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/generate.png);}\n"
-"QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/generate(hover).png);}")
+        self.generate_btn.setStyleSheet(u"QPushButton{border-image:url(C:/Users/viren/Desktop/Development/one-good-project/images/generate.png);}\n"
+"QPushButton:hover{border-image:url(C:/Users/viren/Desktop/Development/one-good-project/images/generate(hover).png);}")
 
         self.generate_Layout.addWidget(self.generate_btn)
 
@@ -129,6 +143,12 @@ class Ui_MainWindow(object):
         self.generate_label.setSizePolicy(sizePolicy2)
         self.generate_label.setMinimumSize(QSize(30, 30))
         self.generate_label.setMaximumSize(QSize(16777215, 30))
+        font = QFont()
+        font.setFamily(u"Uni Sans Demo Heavy CAPS")
+        font.setPointSize(12)
+        font.setBold(False)
+        font.setWeight(50)
+        self.generate_label.setFont(font)
         self.generate_label.setStyleSheet(u"color: rgb(255, 255, 255);")
 
         self.generate_Layout.addWidget(self.generate_label)
@@ -270,7 +290,7 @@ class Ui_MainWindow(object):
         font1.setFamily(u"Uni Sans Demo")
         font1.setPointSize(10)
         self.chapter_combobox.setFont(font1)
-        self.chapter_combobox.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 10px 1px 90px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/down_arrow.png); width: 10px; height: 10px; }")
+        self.chapter_combobox.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 10px 1px 90px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url(C:/Users/viren/Desktop/Development/one-good-project/images/down_arrow.png); width: 10px; height: 10px; }")
         self.chapter_combobox.setEditable(True)
 
         self.verticalLayout_3.addWidget(self.chapter_combobox)
@@ -285,7 +305,7 @@ class Ui_MainWindow(object):
         font2.setFamily(u"MS Sans Serif")
         font2.setPointSize(10)
         self.input_value_combobpx.setFont(font2)
-        self.input_value_combobpx.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 0px 1px 80px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/down_arrow.png); width: 10px; height: 10px; }")
+        self.input_value_combobpx.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 0px 1px 80px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url(C:/Users/viren/Desktop/Development/one-good-project/images/down_arrow.png); width: 10px; height: 10px; }")
         self.input_value_combobpx.setEditable(True)
 
         self.verticalLayout_3.addWidget(self.input_value_combobpx)
@@ -416,7 +436,7 @@ class Ui_MainWindow(object):
         self.generate_chater_comboBox.setObjectName(u"generate_chater_comboBox")
         self.generate_chater_comboBox.setMinimumSize(QSize(300, 29))
         self.generate_chater_comboBox.setFont(font3)
-        self.generate_chater_comboBox.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 1px 1px 35px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/down_arrow.png); width: 10px; height: 10px; }")
+        self.generate_chater_comboBox.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 1px 1px 35px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url(C:/Users/viren/Desktop/Development/one-good-project/images/down_arrow.png); width: 10px; height: 10px; }")
         self.generate_chater_comboBox.setEditable(True)
 
         self.generate_chapter_Layout.addWidget(self.generate_chater_comboBox)
