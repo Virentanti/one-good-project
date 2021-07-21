@@ -7,6 +7,7 @@ from PySide2.QtWidgets import *
 
 # GUI FILE
 from ui_main import Ui_MainWindow
+from ui_login import Ui_Login
 
 # IMPORT FUNCTIONS
 from ui_functions import *

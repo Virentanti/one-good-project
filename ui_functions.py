@@ -61,6 +61,7 @@ class UIFunctions(MainWindow):
 
     def browse(self):
         fname=QFileDialog.getExistingDirectory(self, 'Select Directory')
+        self.ui.browse_label.setText(fname)
         print(fname)
         #self.fname.setText(fname[0])
 
