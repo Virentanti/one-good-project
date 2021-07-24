@@ -27,7 +27,7 @@ def scrape(url,x,stp):
                 txt=driver.find_element_by_xpath("/html/body/div[3]/div/div/section/div[1]/div[1]/div").text
             #print(txt)
             text=text + txt+ '\n\n\n'
-            driver.close()
+            driver.quit()
             file.write(txt+'\n\n\n\n')
             bar.next()
         except:
