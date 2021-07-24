@@ -32,4 +32,6 @@ def scrape(url,x,stp):
             bar.next()
         except:
             bar.next()
+    
     bar.finish()
+
