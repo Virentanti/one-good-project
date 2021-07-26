@@ -58,6 +58,7 @@ class UIFunctions(MainWindow):
         self.setWindowFlags(QtCore.Qt.FramelessWindowHint)
         self.setAttribute(QtCore.Qt.WA_TranslucentBackground)
 
+    def window_state(self):
         self.ui.restore_btn.clicked.connect(lambda: UIFunctions.maximize_restore(self))
         self.ui.minimize_btn.clicked.connect(lambda: self.showMinimized())
         self.ui.close_btn.clicked.connect(lambda: self.close())

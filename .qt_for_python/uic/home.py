@@ -499,7 +499,7 @@ class Ui_MainWindow(object):
         self.close_btn.setText("")
         self.chapter_combobox.setCurrentText(QCoreApplication.translate("MainWindow", u"select chapter", None))
         self.input_value_combobpx.setCurrentText(QCoreApplication.translate("MainWindow", u"select input value", None))
-        self.input_value_combobpx.setPlaceholderText("")
+        self.input_value_combobpx.setProperty("placeholderText", "")
         self.values_line_edit.setText("")
         self.values_line_edit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"ENTER VALUES", None))
         self.calculate_btn.setText(QCoreApplication.translate("MainWindow", u"calculate", None))

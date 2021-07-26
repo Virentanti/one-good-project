@@ -7,7 +7,7 @@ from PySide2.QtWidgets import *
 
 # GUI FILE
 from ui_main import Ui_MainWindow
-from ui_login import Ui_Login
+from ui_login import Ui_login
 
 # IMPORT FUNCTIONS
 from ui_functions import *
@@ -19,6 +19,7 @@ class MainWindow(QMainWindow):
         self.ui.setupUi(self)
 
         UIFunctions.frameless(self)
+        UIFunctions.window_state(self)
 
 
         def move_window(event):
