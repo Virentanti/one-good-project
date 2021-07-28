@@ -18,6 +18,9 @@ class MainWindow(QMainWindow):
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
 
+        # self.login= Ui_login()
+        # self.login.setupUi(self)
+
         UIFunctions.frameless(self)
         UIFunctions.window_state(self)
 
@@ -29,7 +32,6 @@ class MainWindow(QMainWindow):
                 event.accept()
 
         self.ui.titlebar_frame.mouseMoveEvent = move_window
-
         ## TOGGLE/BURGUER MENU
         ########################################################################
         self.ui.menu_btn.clicked.connect(lambda: UIFunctions.toggleMenu(self, 170, True))
@@ -42,7 +44,7 @@ class MainWindow(QMainWindow):
 
         self.ui.browse_btn.clicked.connect(lambda: UIFunctions.browse(self))
 
-
+        #self.login.enter_btn.clicked.connect(lambda: UIFunctions.connection(self))
 
         ## SHOW ==> MAIN WINDOW
         ########################################################################
