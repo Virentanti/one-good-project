@@ -10,3 +10,10 @@ type=list(dat.keys())
 #os.mkdir(path)
 for j in type:
     ssw(dat[j][0],j,dat[j][1])
+    
+    
+    
+# https://www.studyadda.com/question-bank/assertion-and-reason_q1/1162/84237
+# https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1
+# https://www.studyadda.com/question-bank/numerical-value-type-questions-current-electricity_q1/5841/432012
+# https://www.studyadda.com/question-bank/chemical-effect-of-current_q2/1158/84082
