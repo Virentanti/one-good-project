@@ -1,4 +1,4 @@
-import os
+#import os
 from screenshot import ssw
 
 chapter_lst=['Physics Electrostatics & Capacitance','Current Electricity, Charging & Discharging Of Capacitors']
@@ -11,8 +11,7 @@ type=list(dat.keys())
 for j in type:
     ssw(dat[j][0],j,dat[j][1])
     
-    
-    
+
 # https://www.studyadda.com/question-bank/assertion-and-reason_q1/1162/84237
 # https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1
 # https://www.studyadda.com/question-bank/numerical-value-type-questions-current-electricity_q1/5841/432012

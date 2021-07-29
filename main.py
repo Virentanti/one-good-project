@@ -15,11 +15,10 @@ from ui_functions import *
 class MainWindow(QMainWindow):
     def __init__(self):
         QMainWindow.__init__(self)
+
+
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
-
-        # self.login= Ui_login()
-        # self.login.setupUi(self)
 
         UIFunctions.frameless(self)
         UIFunctions.window_state(self)
@@ -44,7 +43,6 @@ class MainWindow(QMainWindow):
 
         self.ui.browse_btn.clicked.connect(lambda: UIFunctions.browse(self))
 
-        #self.login.enter_btn.clicked.connect(lambda: UIFunctions.connection(self))
 
         ## SHOW ==> MAIN WINDOW
         ########################################################################

@@ -71,21 +71,21 @@ class UIFunctions(MainWindow):
         print(fname)
         #self.fname.setText(fname[0])
 
-    def connection(self):
-        #get text from textedit
-        usrname=self.login.username.text()
-        passwd=self.login.password.text()
-        #connect to database
-        try:
-            self.conn=msql.connect(host="localhost",user=usrname,passwd=passwd,auth_plugin='mysql_native_password')
-            if self.conn.is_connected():
-                print("connected")
-                self.close()
-                # self.ui = Ui_MainWindow()
-                # self.ui.setupUi(self)
-                # self.show()
-                return True
-        except msql.Error as e:
-                self.login.label.setText("Invalid username or password")
-                print(e)
-                return False
+    # def connection(self):
+    #     #get text from textedit
+    #     usrname=self.login.username.text()
+    #     passwd=self.login.password.text()
+    #     #connect to database
+    #     try:
+    #         self.conn=msql.connect(host="localhost",user=usrname,passwd=passwd,auth_plugin='mysql_native_password')
+    #         if self.conn.is_connected():
+    #             print("connected")
+    #             self.close()
+    #             self.ui = Ui_MainWindow()
+    #             self.ui.setupUi(self)
+    #             self.show()
+    #             return True
+    #     except msql.Error as e:
+    #             self.login.label.setText("Invalid username or password")
+    #             print(e)
+    #             return False
