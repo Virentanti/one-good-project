@@ -9,7 +9,7 @@ def ssw(url,x,stp):
     rep=int(url[-5:])
     url=url[:-5]
     bar = Bar('Scraping...', max=stp, suffix="%(percent).1f%% - %(eta)ds")
-    for i in range(rep,rep+stp):
+    for i in range(rep,rep+25):
         try:
             option=Options()
             option.headless=True
