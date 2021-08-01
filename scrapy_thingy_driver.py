@@ -16,3 +16,13 @@ for j in type:
 # https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1
 # https://www.studyadda.com/question-bank/numerical-value-type-questions-current-electricity_q1/5841/432012
 # https://www.studyadda.com/question-bank/chemical-effect-of-current_q2/1158/84082
+
+
+
+
+dat_phull={" Mathematical Tools, Units & Dimensions Question Bank Self Evaluation Test":["https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436043",100],
+           "Mathematical Tools, Units & Dimensions Question Bank Numerical Value type Questions - Physical World, Units & Measurement":["https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431770",15],
+           "Mathematical Tools, Units & Dimensions Question Bank Numerical Value Type Questions - Practical Physics":["https://www.studyadda.com/question-bank/numerical-value-type-questions-practical-physics_q1/5731/430241",15],
+           "Mathematical Tools, Units & Dimensions Question Bank Numerical Value Type Questions - Unit and Dimension":["https://www.studyadda.com/question-bank/numerical-value-type-questions-unit-and-dimension_q1/5689/429661",7],
+           "Mathematical Tools, Units & Dimensions Question Bank Mock Test - Units Dimenstions and Measurment":["https://www.studyadda.com/question-bank/mock-test-units-dimenstions-and-measurment_q1/5203/420015",25]}
+           
