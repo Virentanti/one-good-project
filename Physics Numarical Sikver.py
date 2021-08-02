@@ -1,26 +1,5 @@
 from math import log
 
-print('*-------------------------------THE BASIC PHYSICS NUMERICAL SOLVER--------------------------------*')
-print("Chapter 1. Electric Charges and Fields")
-print("Chapter 2. Electrostatic Potential And Capacitance")
-print("Chapter 3. Current Electricity")
-print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
-print('For:-')
-print('Volt=V, Current=I, Resistance=R, Charge=q, Radius=r, Electric Field=E, Power=P, Capacitance=C, Force=F')
-print('Area=A, Distance=d, Drift velocity=Vd, Dielectric constant=K, Work done=W, Electric flux=Ef, Length=L')
-print("Charge density=p, Induced charge=q', Polarisation=P', Volume=V, Two Charges=q1q2, Two Radius=outer_radiusinner_radius")
-print('Electromotive force=emf, Stored energy=u, No. of Electron=n ,Potential difference=U ')
-print('*Shape=shape, Angle=x')
-print('#Note: All value must be in Standard Unit')
-print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
-
-data=str(input("Which Values do Question have: "))  #Getting available data from the user
-data=data.upper().split(',')    #converting available data to list
-print(data)
-want=str(input("What Do Question want: ")).upper()  #getting what user wants
-#want=want.upper()   #making sure the data is in uppercase
-print(want)
-
 #----->formula list<-----#
 V={0:['I','R'],1:['P','I'],2:['P','R'],3:['q','C'],4:['P','E','q'],5:['q','r']}
 V_formula={0:'I*R',1:'P*I',2:'P*R',3:'q*C',4:'P*E*q',5:'q*r'}
@@ -28,11 +7,8 @@ C={0:['q','V'],1:['A','d'],2:['U','V'],3:['U','q'],4:['n','V'],5:['q','outer_rad
 C_formula={0:'q/V',1:'ep*A/d',2:'2*U/(V**2)',3:'q**2/2*U',4:'n*e/V',5:'(4*(3.14)*ep*outer_radius*inner_radius)/(outer_radius - inner_radius)',6:'(2*(3.14)*ep*L)/(log(outer_radius/inner_radius))'}
 
 def compare(a,b):
-    x=[]
-    y=[]
-    for i in range(len(a)):
-        x.append(a[i].upper())
-        y.append(b[i].upper())
+    x=[i.upper() for i in a]
+    y=[i.upper() for i in b]
     x.sort()
     y.sort()
     if x==y:
@@ -47,37 +23,33 @@ def get_key(val,a):
     else:
         return -1
 
-def capacitance(lst):
+def capacitance(lst,val):
     key=get_key(lst,C)
     if key!=-1:
         temp={'k':9*(10**9),'ep':8.85*(10**(-12)),'e':1.6*(10**(-19)),'log':log}
-        for i in C[key]:
-            a=float(input(f'enter value of {i}:'))
-            temp[i]=a
+        if len(val)==len(C[key]):
+            for i in range(len(C[key])):
+                temp[C[key][i]]=val[i]
         return eval(C_formula[key],temp)
 
-def Voltage(lst):
+
+def Voltage(lst,val):
     key=get_key(lst,V)
     if key!=-1:
         temp={'k':9*(10**9),'ep':8.85*(10**(-12)),'e':1.6*(10**(-19)),'log':log}
-        for i in V[key]:
-            a=float(input(f'enter value of {i}:'))
-            temp[i]=a
-        return eval(V_formula[key],temp)
-    else:
-        return -1
+        if len(val)==len(V[key]):
+            for i in range(len(V[key])):
+                temp[V[key][i]]=val[i]
+            return eval(V_formula[key],temp)
 
-try:
-    if want=='V'or want=='emf':
-        print(Voltage(data))
+#test
+it=['Q','v']
+val=[4.2,2]
+print(capacitance(it,val))
 
-    elif want=='C':
-        print(capacitance(data))
-except:
-    print('invalid datatype provided')
-
-
-
+it=['i','r']
+val=[4.2,2]
+print(Voltage(it,val))
 
 
 
