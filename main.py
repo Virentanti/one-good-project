@@ -15,6 +15,8 @@ from ui_functions import *
 class MainWindow(QMainWindow):
     def __init__(self):
         QMainWindow.__init__(self)
+
+
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
 
@@ -29,7 +31,6 @@ class MainWindow(QMainWindow):
                 event.accept()
 
         self.ui.titlebar_frame.mouseMoveEvent = move_window
-
         ## TOGGLE/BURGUER MENU
         ########################################################################
         self.ui.menu_btn.clicked.connect(lambda: UIFunctions.toggleMenu(self, 170, True))
@@ -41,7 +42,6 @@ class MainWindow(QMainWindow):
         self.ui.generate_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.generate))
 
         self.ui.browse_btn.clicked.connect(lambda: UIFunctions.browse(self))
-
 
 
         ## SHOW ==> MAIN WINDOW

@@ -1,5 +1,6 @@
 ## ==> GUI FILE
 from main import *
+import mysql.connector as msql
 
 GLOBAL_STATE=0
 
@@ -69,4 +70,3 @@ class UIFunctions(MainWindow):
         self.ui.browse_label.setText(fname)
         print(fname)
         #self.fname.setText(fname[0])
-
