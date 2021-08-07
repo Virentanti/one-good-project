@@ -22845,3 +22845,243 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1628326794098	Marionette	INFO	Listening on port 54047
 1628326795212	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/elasticity/9, line 2736: TypeError: $(...).pinterest_grid is not a function
+1628329131131	geckodriver	INFO	Listening on 127.0.0.1:60509
+1628329134183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileFr5fdM"
+*** You are running in headless mode.
+1628329134734	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileFr5fdM\\search.json.mozlz4", (void 0)))
+1628329138169	Marionette	INFO	Listening on port 60517
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628329139588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75677, line 2546: TypeError: $(...).pinterest_grid is not a function
+1628329145413	Marionette	INFO	Stopped listening on port 60517
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628329147101	geckodriver	INFO	Listening on 127.0.0.1:60593
+1628329150154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWvtuj0"
+*** You are running in headless mode.
+1628329150639	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWvtuj0\\search.json.mozlz4", (void 0)))
+1628329153931	Marionette	INFO	Listening on port 60602
+1628329154381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75678, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329160220	Marionette	INFO	Stopped listening on port 60602
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofileWvtuj0\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628329161825	geckodriver	INFO	Listening on 127.0.0.1:60673
+1628329164903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilep8WL3t"
+*** You are running in headless mode.
+1628329165499	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilep8WL3t\\search.json.mozlz4", (void 0)))
+1628329168935	Marionette	INFO	Listening on port 60681
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628329169802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75679, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329175380	Marionette	INFO	Stopped listening on port 60681
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628329177006	geckodriver	INFO	Listening on 127.0.0.1:60759
+1628329180044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilehxDSfm"
+*** You are running in headless mode.
+1628329180798	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilehxDSfm\\search.json.mozlz4", (void 0)))
+1628329184640	Marionette	INFO	Listening on port 60771
+1628329185563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75680, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329191432	Marionette	INFO	Stopped listening on port 60771
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628329192887	geckodriver	INFO	Listening on 127.0.0.1:60850
+1628329195925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileEPoLYy"
+*** You are running in headless mode.
+1628329196426	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileEPoLYy\\search.json.mozlz4", (void 0)))
+1628329201205	Marionette	INFO	Listening on port 60858
+1628329201938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75681, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329209673	Marionette	INFO	Stopped listening on port 60858
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1628329212132	geckodriver	INFO	Listening on 127.0.0.1:60934
+1628329215180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileJy14iK"
+*** You are running in headless mode.
+1628329215938	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileJy14iK\\search.json.mozlz4", (void 0)))
+1628329220632	Marionette	INFO	Listening on port 60942
+1628329221677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75682, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329227646	Marionette	INFO	Stopped listening on port 60942
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628329229770	geckodriver	INFO	Listening on 127.0.0.1:61017
+1628329232832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileMtLWgO"
+*** You are running in headless mode.
+1628329233352	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileMtLWgO\\search.json.mozlz4", (void 0)))
+1628329236521	Marionette	INFO	Listening on port 61025
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628329237009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75683, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329243211	Marionette	INFO	Stopped listening on port 61025
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628329245011	geckodriver	INFO	Listening on 127.0.0.1:61096
+1628329248073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileGjdqMU"
+*** You are running in headless mode.
+1628329248597	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileGjdqMU\\search.json.mozlz4", (void 0)))
+1628329251671	Marionette	INFO	Listening on port 61104
+1628329252463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75684, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329258420	Marionette	INFO	Stopped listening on port 61104
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628329259817	geckodriver	INFO	Listening on 127.0.0.1:61177
+1628329262868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile7gze7H"
+*** You are running in headless mode.
+1628329263489	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile7gze7H\\search.json.mozlz4", (void 0)))
+1628329266798	Marionette	INFO	Listening on port 61185
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628329267248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75685, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329273119	Marionette	INFO	Stopped listening on port 61185
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628329275765	geckodriver	INFO	Listening on 127.0.0.1:61261
+1628329278801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileYJvRjK"
+*** You are running in headless mode.
+1628329279270	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileYJvRjK\\search.json.mozlz4", (void 0)))
+1628329282997	Marionette	INFO	Listening on port 61270
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628329284253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75686, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329289573	Marionette	INFO	Stopped listening on port 61270
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628329291335	geckodriver	INFO	Listening on 127.0.0.1:61346
+1628329294424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileH8OI3a"
+*** You are running in headless mode.
+1628329294944	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileH8OI3a\\search.json.mozlz4", (void 0)))
+1628329298437	Marionette	INFO	Listening on port 61354
+1628329299289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75687, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329305123	Marionette	INFO	Stopped listening on port 61354
+1628329306987	geckodriver	INFO	Listening on 127.0.0.1:55329
+1628329309997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileNCawRc"
+*** You are running in headless mode.
+1628329310593	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileNCawRc\\search.json.mozlz4", (void 0)))
+1628329314309	Marionette	INFO	Listening on port 55337
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628329315746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75688, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329321372	Marionette	INFO	Stopped listening on port 55337
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628329323774	geckodriver	INFO	Listening on 127.0.0.1:55412
+1628329326836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile8Ze34Q"
+*** You are running in headless mode.
+1628329327315	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile8Ze34Q\\search.json.mozlz4", (void 0)))
+1628329330916	Marionette	INFO	Listening on port 55422
+1628329331747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75689, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329337817	Marionette	INFO	Stopped listening on port 55422
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628329339479	geckodriver	INFO	Listening on 127.0.0.1:55496
+1628329342545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileHDakbV"
+*** You are running in headless mode.
+1628329343050	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileHDakbV\\search.json.mozlz4", (void 0)))
+1628329346303	Marionette	INFO	Listening on port 55504
+1628329346808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75690, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628329352623	Marionette	INFO	Stopped listening on port 55504
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628329354315	geckodriver	INFO	Listening on 127.0.0.1:55579
+1628329357380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileE7JZuW"
+*** You are running in headless mode.
+1628329357863	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileE7JZuW\\search.json.mozlz4", (void 0)))
+1628329361006	Marionette	INFO	Listening on port 55588
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628329361777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75691, line 2547: TypeError: $(...).pinterest_grid is not a function

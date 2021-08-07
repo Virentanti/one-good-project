@@ -148,7 +148,7 @@ dat={'Different Measuring Instruments_2':['https://www.studyadda.com/question-ba
 type=list(dat.keys())
 #os.mkdir(path)
 for j in type:
-    ssw(dat[j][0],j,dat[j][1])
+    ssw(dat_phull[j][0],j,dat_phull[j][1])
     
 
 
