@@ -22709,3 +22709,139 @@ JavaScript error: https://www.studyadda.com/question-bank/different-measuring-in
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1628323298647	geckodriver	INFO	Listening on 127.0.0.1:57902
+1628323301732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileIENRjJ"
+1628323304454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileIENRjJ\\search.json.mozlz4", (void 0)))
+1628323319795	Marionette	INFO	Listening on port 57912
+1628323321272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/work-energy-power-collision-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%95%E0%A4%A4/6, line 2958: TypeError: $(...).pinterest_grid is not a function
+1628323652129	geckodriver	INFO	Listening on 127.0.0.1:58086
+1628323655170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileew1CUm"
+1628323655854	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileew1CUm\\search.json.mozlz4", (void 0)))
+1628323660138	Marionette	INFO	Listening on port 58094
+1628323661182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/work-energy-power-collision-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%95%E0%A4%A4/6, line 2958: TypeError: $(...).pinterest_grid is not a function
+1628323706063	geckodriver	INFO	Listening on 127.0.0.1:58182
+1628323709108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWNZztS"
+1628323709710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWNZztS\\search.json.mozlz4", (void 0)))
+1628323714014	Marionette	INFO	Listening on port 58196
+1628323715888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/work-energy-power-collision-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%95%E0%A4%A4/6, line 2958: TypeError: $(...).pinterest_grid is not a function
+1628323802954	geckodriver	INFO	Listening on 127.0.0.1:58294
+1628323806037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileoi1jKC"
+*** You are running in headless mode.
+1628323806518	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileoi1jKC\\search.json.mozlz4", (void 0)))
+1628323810233	Marionette	INFO	Listening on port 58303
+1628323811795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/work-energy-power-collision-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%95%E0%A4%A4/6, line 2958: TypeError: $(...).pinterest_grid is not a function
+1628323878653	geckodriver	INFO	Listening on 127.0.0.1:58393
+1628323881727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileCJM8ic"
+*** You are running in headless mode.
+1628323882298	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileCJM8ic\\search.json.mozlz4", (void 0)))
+1628323885651	Marionette	INFO	Listening on port 58401
+1628323886693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/work-energy-power-collision-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%95%E0%A4%A4/6, line 2958: TypeError: $(...).pinterest_grid is not a function
+1628323983497	geckodriver	INFO	Listening on 127.0.0.1:58512
+1628323986577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileZzwdnG"
+*** You are running in headless mode.
+1628323987133	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileZzwdnG\\search.json.mozlz4", (void 0)))
+1628323990454	Marionette	INFO	Listening on port 58520
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628323991479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/work-energy-power-collision-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%95%E0%A4%A4/6, line 2958: TypeError: $(...).pinterest_grid is not a function
+1628324003744	geckodriver	INFO	Listening on 127.0.0.1:58611
+1628324006844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilefAsWdh"
+*** You are running in headless mode.
+1628324007339	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilefAsWdh\\search.json.mozlz4", (void 0)))
+1628324010707	Marionette	INFO	Listening on port 58619
+1628324011253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/work-energy-power-collision-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%95%E0%A4%A4/6, line 2958: TypeError: $(...).pinterest_grid is not a function
+1628324036652	geckodriver	INFO	Listening on 127.0.0.1:58713
+1628324039716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileCTOVuT"
+*** You are running in headless mode.
+1628324040203	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileCTOVuT\\search.json.mozlz4", (void 0)))
+1628324043230	Marionette	INFO	Listening on port 58721
+1628324044821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/work-energy-power-collision-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A4%9C-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%95%E0%A4%A4/6, line 2958: TypeError: $(...).pinterest_grid is not a function
+1628324170657	geckodriver	INFO	Listening on 127.0.0.1:58839
+1628324173728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile5TB5Ej"
+*** You are running in headless mode.
+1628324174198	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile5TB5Ej\\search.json.mozlz4", (void 0)))
+1628324177704	Marionette	INFO	Listening on port 58848
+1628324177924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/thermometry-calorimetry-thermal-expansion/11, line 2847: TypeError: $(...).pinterest_grid is not a function
+1628324202886	geckodriver	INFO	Listening on 127.0.0.1:58933
+1628324205966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile11VMaQ"
+*** You are running in headless mode.
+1628324206527	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile11VMaQ\\search.json.mozlz4", (void 0)))
+1628324209685	Marionette	INFO	Listening on port 58941
+1628324210177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/thermometry-calorimetry-thermal-expansion/11, line 2847: TypeError: $(...).pinterest_grid is not a function
+1628324238747	geckodriver	INFO	Listening on 127.0.0.1:59031
+1628324241828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileXKCD1t"
+*** You are running in headless mode.
+1628324242346	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileXKCD1t\\search.json.mozlz4", (void 0)))
+1628324245900	Marionette	INFO	Listening on port 59039
+1628324246741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/thermometry-calorimetry-thermal-expansion/11, line 2847: TypeError: $(...).pinterest_grid is not a function
+1628325026651	geckodriver	INFO	Listening on 127.0.0.1:59298
+1628325029714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWg06VS"
+*** You are running in headless mode.
+1628325030209	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWg06VS\\search.json.mozlz4", (void 0)))
+1628325034016	Marionette	INFO	Listening on port 59306
+1628325034535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/physics/thermometry-calorimetry-thermal-expansion/topic-test-thermometry-thermal-expansion-and-calorimetry-3-5-21/5959536, line 3246: TypeError: $(...).pinterest_grid is not a function
+1628325056431	geckodriver	INFO	Listening on 127.0.0.1:59388
+1628325059474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilen0YATR"
+*** You are running in headless mode.
+1628325059968	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilen0YATR\\search.json.mozlz4", (void 0)))
+1628325063610	Marionette	INFO	Listening on port 59396
+1628325064373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/physics/thermometry-calorimetry-thermal-expansion/topic-test-thermometry-thermal-expansion-and-calorimetry-3-5-21/5959536, line 3246: TypeError: $(...).pinterest_grid is not a function
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/physics/thermometry-calorimetry-thermal-expansion/topic-test-thermometry-calorimetry-thermal-expansion/5959301, line 3166: TypeError: $(...).pinterest_grid is not a function
+1628325874668	geckodriver	INFO	Listening on 127.0.0.1:56395
+1628325877764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiles2ofCp"
+*** You are running in headless mode.
+1628325878379	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiles2ofCp\\search.json.mozlz4", (void 0)))
+1628325883516	Marionette	INFO	Listening on port 56403
+1628325883610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/rotational-motion/7, line 2588: TypeError: $(...).pinterest_grid is not a function
+1628326786433	geckodriver	INFO	Listening on 127.0.0.1:54037
+1628326789462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileoHXant"
+*** You are running in headless mode.
+1628326790302	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileoHXant\\search.json.mozlz4", (void 0)))
+1628326794098	Marionette	INFO	Listening on port 54047
+1628326795212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/jee-main-advanced/28/physics/1/elasticity/9, line 2736: TypeError: $(...).pinterest_grid is not a function

@@ -1,10 +1,11 @@
 from fpdf import FPDF
 from fpdf import cell,image,set_font
 
-def ques():
+def ques(img):
     set_font('helvetica', size=10)
     cell(10,10,txt='Q1')
-    image(name=r".\assertion_and_reason\q_Assertion_and_Reason_84237.png", x=20, y=10, w=170)
+    im=".\assertion_and_reason\"+img
+    image(name=im, x=20, y=10, w=170)
     cell(0,10,txt="1 mark",align="R")
 
 
