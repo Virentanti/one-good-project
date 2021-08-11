@@ -23085,3 +23085,1152 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 1628329361777	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.studyadda.com/question-bank/different-measuring-instruments_q1/1051/75691, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628495849847	geckodriver	INFO	Listening on 127.0.0.1:59041
+1628495852935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile6Ul81S"
+*** You are running in headless mode.
+1628495855774	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile6Ul81S\\search.json.mozlz4", (void 0)))
+1628495867822	Marionette	INFO	Listening on port 59049
+1628495870223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436043, line 2546: TypeError: $(...).pinterest_grid is not a function
+1628495877934	Marionette	INFO	Stopped listening on port 59049
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628495886199	geckodriver	INFO	Listening on 127.0.0.1:63363
+1628495889257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileVeK1eG"
+*** You are running in headless mode.
+1628495890286	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileVeK1eG\\search.json.mozlz4", (void 0)))
+1628495893755	Marionette	INFO	Listening on port 63371
+1628495894874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436044, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628495903258	Marionette	INFO	Stopped listening on port 63371
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+[Child 4032, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628495906319	geckodriver	INFO	Listening on 127.0.0.1:63450
+1628495909330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileVnMYgq"
+*** You are running in headless mode.
+1628495910113	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileVnMYgq\\search.json.mozlz4", (void 0)))
+1628495913504	Marionette	INFO	Listening on port 63458
+1628495914356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436045, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628495920714	Marionette	INFO	Stopped listening on port 63458
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628495925590	geckodriver	INFO	Listening on 127.0.0.1:64203
+1628495928638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilenA9enu"
+*** You are running in headless mode.
+1628495929244	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilenA9enu\\search.json.mozlz4", (void 0)))
+1628495932759	Marionette	INFO	Listening on port 64213
+1628495933749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436046, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628495940552	Marionette	INFO	Stopped listening on port 64213
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 3684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628495942939	geckodriver	INFO	Listening on 127.0.0.1:64289
+1628495946048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiles43RoJ"
+*** You are running in headless mode.
+1628495946557	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiles43RoJ\\search.json.mozlz4", (void 0)))
+1628495949979	Marionette	INFO	Listening on port 64297
+1628495950947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436047, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628495957094	Marionette	INFO	Stopped listening on port 64297
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628495959778	geckodriver	INFO	Listening on 127.0.0.1:64375
+1628495962740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilexXZ8Ch"
+*** You are running in headless mode.
+1628495963475	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilexXZ8Ch\\search.json.mozlz4", (void 0)))
+1628495966854	Marionette	INFO	Listening on port 64383
+1628495967623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436048, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628495973650	Marionette	INFO	Stopped listening on port 64383
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628495976420	geckodriver	INFO	Listening on 127.0.0.1:64458
+1628495979492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileVmAIMB"
+*** You are running in headless mode.
+1628495979967	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileVmAIMB\\search.json.mozlz4", (void 0)))
+1628495983095	Marionette	INFO	Listening on port 64466
+1628495983923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436049, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628495989595	Marionette	INFO	Stopped listening on port 64466
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628495990915	geckodriver	INFO	Listening on 127.0.0.1:64540
+1628495993987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiletL472L"
+*** You are running in headless mode.
+1628495994520	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofiletL472L\\search.json.mozlz4", (void 0)))
+1628495997669	Marionette	INFO	Listening on port 64550
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628495998204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436050, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496006481	Marionette	INFO	Stopped listening on port 64550
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496009247	geckodriver	INFO	Listening on 127.0.0.1:64634
+1628496012291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileBpewuW"
+*** You are running in headless mode.
+1628496013031	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileBpewuW\\search.json.mozlz4", (void 0)))
+1628496016987	Marionette	INFO	Listening on port 64642
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628496018032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436051, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496025472	Marionette	INFO	Stopped listening on port 64642
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628496028115	geckodriver	INFO	Listening on 127.0.0.1:64719
+1628496031172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilexSLsru"
+*** You are running in headless mode.
+1628496031644	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilexSLsru\\search.json.mozlz4", (void 0)))
+1628496035294	Marionette	INFO	Listening on port 64728
+1628496036318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436052, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496042695	Marionette	INFO	Stopped listening on port 64728
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496044749	geckodriver	INFO	Listening on 127.0.0.1:54127
+1628496047815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileruHEBk"
+*** You are running in headless mode.
+1628496048336	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileruHEBk\\search.json.mozlz4", (void 0)))
+1628496051514	Marionette	INFO	Listening on port 54135
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628496052315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436053, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496059517	Marionette	INFO	Stopped listening on port 54135
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496061885	geckodriver	INFO	Listening on 127.0.0.1:54213
+1628496064955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile5tNcbN"
+*** You are running in headless mode.
+1628496065520	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile5tNcbN\\search.json.mozlz4", (void 0)))
+1628496069053	Marionette	INFO	Listening on port 54222
+1628496070063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436054, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496076359	Marionette	INFO	Stopped listening on port 54222
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496079595	geckodriver	INFO	Listening on 127.0.0.1:54297
+1628496082656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilenM2CU1"
+*** You are running in headless mode.
+1628496083247	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilenM2CU1\\search.json.mozlz4", (void 0)))
+1628496086940	Marionette	INFO	Listening on port 54305
+1628496088176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436055, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496094571	Marionette	INFO	Stopped listening on port 54305
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 13204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496096803	geckodriver	INFO	Listening on 127.0.0.1:54378
+1628496099870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileSrdmcb"
+*** You are running in headless mode.
+1628496100332	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileSrdmcb\\search.json.mozlz4", (void 0)))
+1628496103600	Marionette	INFO	Listening on port 54386
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628496104249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436056, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496110387	Marionette	INFO	Stopped listening on port 54386
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496112695	geckodriver	INFO	Listening on 127.0.0.1:54499
+1628496115745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileKYaSjU"
+*** You are running in headless mode.
+1628496116234	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileKYaSjU\\search.json.mozlz4", (void 0)))
+1628496119681	Marionette	INFO	Listening on port 54508
+1628496120747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436057, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496126723	Marionette	INFO	Stopped listening on port 54508
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496129658	geckodriver	INFO	Listening on 127.0.0.1:54584
+1628496132725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWsOvYM"
+*** You are running in headless mode.
+1628496133213	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWsOvYM\\search.json.mozlz4", (void 0)))
+1628496136426	Marionette	INFO	Listening on port 54592
+1628496136944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436058, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496142592	Marionette	INFO	Stopped listening on port 54592
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496144094	geckodriver	INFO	Listening on 127.0.0.1:54663
+1628496147166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilebF1FZ7"
+*** You are running in headless mode.
+1628496147691	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilebF1FZ7\\search.json.mozlz4", (void 0)))
+1628496151717	Marionette	INFO	Listening on port 54671
+1628496151951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436059, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496157851	Marionette	INFO	Stopped listening on port 54671
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496159901	geckodriver	INFO	Listening on 127.0.0.1:54745
+1628496162948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile5bZnMm"
+*** You are running in headless mode.
+1628496163450	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile5bZnMm\\search.json.mozlz4", (void 0)))
+1628496166380	Marionette	INFO	Listening on port 54753
+1628496166831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436060, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496172392	Marionette	INFO	Stopped listening on port 54753
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 7052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496174924	geckodriver	INFO	Listening on 127.0.0.1:54830
+1628496177965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileR68PRH"
+*** You are running in headless mode.
+1628496178460	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileR68PRH\\search.json.mozlz4", (void 0)))
+1628496181583	Marionette	INFO	Listening on port 54838
+1628496182540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436061, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496187650	Marionette	INFO	Stopped listening on port 54838
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofileR68PRH\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496188972	geckodriver	INFO	Listening on 127.0.0.1:54913
+1628496192029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileK7e9a5"
+*** You are running in headless mode.
+1628496192502	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileK7e9a5\\search.json.mozlz4", (void 0)))
+1628496195867	Marionette	INFO	Listening on port 54921
+1628496196193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436062, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496202328	Marionette	INFO	Stopped listening on port 54921
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496203875	geckodriver	INFO	Listening on 127.0.0.1:54990
+1628496206916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileLzdXgk"
+*** You are running in headless mode.
+1628496207390	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileLzdXgk\\search.json.mozlz4", (void 0)))
+1628496210756	Marionette	INFO	Listening on port 54998
+1628496211792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436063, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496217518	Marionette	INFO	Stopped listening on port 54998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496219037	geckodriver	INFO	Listening on 127.0.0.1:59882
+1628496222084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile38Rob4"
+*** You are running in headless mode.
+1628496222556	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile38Rob4\\search.json.mozlz4", (void 0)))
+1628496225769	Marionette	INFO	Listening on port 59890
+1628496227028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436064, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496232766	Marionette	INFO	Stopped listening on port 59890
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496234012	geckodriver	INFO	Listening on 127.0.0.1:61675
+1628496237053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileSQJs5T"
+*** You are running in headless mode.
+1628496237527	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileSQJs5T\\search.json.mozlz4", (void 0)))
+1628496240998	Marionette	INFO	Listening on port 61683
+1628496241430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436065, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496247299	Marionette	INFO	Stopped listening on port 61683
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496248921	geckodriver	INFO	Listening on 127.0.0.1:60853
+1628496251979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileXsWSkL"
+*** You are running in headless mode.
+1628496252485	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileXsWSkL\\search.json.mozlz4", (void 0)))
+1628496255798	Marionette	INFO	Listening on port 60861
+1628496256838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436066, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496261986	Marionette	INFO	Stopped listening on port 60861
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628496263566	geckodriver	INFO	Listening on 127.0.0.1:60934
+1628496266613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileqP8okE"
+*** You are running in headless mode.
+1628496267085	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileqP8okE\\search.json.mozlz4", (void 0)))
+1628496270854	Marionette	INFO	Listening on port 60942
+1628496271895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-physical-world-units-and-measurements_q1/5959132/436067, line 2547: TypeError: $(...).pinterest_grid is not a function
+1628496277720	Marionette	INFO	Stopped listening on port 60942
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628496279149	geckodriver	INFO	Listening on 127.0.0.1:61020
+1628496282205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile5uIBBh"
+*** You are running in headless mode.
+1628496282679	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile5uIBBh\\search.json.mozlz4", (void 0)))
+1628496285793	Marionette	INFO	Listening on port 61028
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628496286797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431770, line 2517: TypeError: $(...).pinterest_grid is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 12608, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+w.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431772, line 2518: TypeError: $(...).pinterest_grid is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+w.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431773, line 2518: TypeError: $(...).pinterest_grid is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 15244, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+_grid is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+w.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431775, line 2518: TypeError: $(...).pinterest_grid is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 12244, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12244, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12244, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628498259884	Marionette	INFO	Stopped listening on port 61459
+2518: TypeError: $(...).pinterest_grid is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 17232, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 17232, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 17232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 17232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628498270824	Marionette	INFO	Stopped listening on port 53780
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5069: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+arch: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628498284479	Marionette	INFO	Stopped listening on port 53862
+or: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 21464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+w.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431784, line 2517: TypeError: $(...).pinterest_grid is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390052,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39004A,name=PContent::Msg_RemoteType) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_RegisterBrowsingContextGroup) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39015B,name=PContent::Msg_SetupFocusedAndActive) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390146,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390005,name=PContent::Msg_ConstructBrowser) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390146,name=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/rA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390020,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageCha[Parent 22548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 22548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628498285612	Marionette	INFO	Stopped listening on port 54260
+Message) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390020,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+o/ipc/chromium/src/base/process_util_win.cc:167
+1628496811388	Marionette	INFO	Listening on port 54551
+1628496811889	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+og: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+nstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628496932252	Marionette	INFO	Listening on port 59020
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 25488, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25488, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628498290107	Marionette	INFO	Stopped listening on port 59020
+\\AppData\\Local\\Temp\\rust_mozprofileQviaq8\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628497016146	Marionette	INFO	Listening on port 59486
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 28248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628498292141	Marionette	INFO	Stopped listening on port 59486
+store/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1628497061622	Marionette	INFO	Listening on port 59562
+1628497066010	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230057,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39008D,name=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23007C,name=PBrowser::Msg_StopIMEStateManagement) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23009E,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+[Parent 25716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2123: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 25716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628498296576	Marionette	INFO	Stopped listening on port 59562
+hannel] Error: (msgtype=0x39003E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2123: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 25436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628498251784	Marionette	INFO	Stopped listening on port 59695
+g)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1628498183547	Marionette	INFO	Stopped listening on port 61765
+, (void 0)))
+1628497735221	Marionette	INFO	Listening on port 49553
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 27400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628498163201	Marionette	INFO	Stopped listening on port 49553
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5069: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+ified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 17112, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
