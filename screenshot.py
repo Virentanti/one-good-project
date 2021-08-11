@@ -9,7 +9,7 @@ def ssw(url,x,stp):
     rep=int(url[-5:])
     url=url[:-5]
     stop=stp
-    if stp>40: stop= 40
+    if stp>50: stop= 50
     bar = Bar('Scraping...', max=stp, suffix="%(percent).1f%% - %(eta)ds")
     for i in range(rep,rep+stop):
         try:
