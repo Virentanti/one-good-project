@@ -24234,3 +24234,636 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 
 A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
 JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1628659883082	geckodriver	INFO	Listening on 127.0.0.1:58093
+1628659885586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileRKB1pT"
+*** You are running in headless mode.
+1628659887120	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileRKB1pT\\search.json.mozlz4", (void 0)))
+1628659893589	Marionette	INFO	Listening on port 58134
+1628659894446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431770, line 2517: TypeError: $(...).pinterest_grid is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+gnored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431771, line 2518: TypeError: $(...).pinterest_grid is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1628660577359	Marionette	INFO	Stopped listening on port 58232
+[Parent 12852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+roviders local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+sole.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628659978889	Marionette	INFO	Listening on port 65384
+1628659979608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1628660006901	Marionette	INFO	Listening on port 65461
+1628660007293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+gnored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+arch.json.mozlz4", (void 0)))
+1628660047338	Marionette	INFO	Listening on port 51637
+1628660047882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+arch.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628660069815	Marionette	INFO	Listening on port 51701
+1628660070053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660074093	geckodriver	INFO	Listening on 127.0.0.1:51754
+1628660077341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileU9Ypt0"
+*** You are running in headless mode.
+1628660080707	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileU9Ypt0\\search.json.mozlz4", (void 0)))
+1628660091194	Marionette	INFO	Listening on port 51762
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628660092281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660096970	geckodriver	INFO	Listening on 127.0.0.1:51813
+1628660100318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileSGXFKF"
+*** You are running in headless mode.
+1628660104355	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileSGXFKF\\search.json.mozlz4", (void 0)))
+1628660116613	Marionette	INFO	Listening on port 51822
+1628660116659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660122199	geckodriver	INFO	Listening on 127.0.0.1:51876
+1628660124806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilewvBi4f"
+*** You are running in headless mode.
+1628660130298	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilewvBi4f\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628660144349	Marionette	INFO	Listening on port 51889
+1628660144837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660149905	geckodriver	INFO	Listening on 127.0.0.1:51936
+1628660152660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilemyvCgm"
+*** You are running in headless mode.
+1628660160914	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilemyvCgm\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 12896, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628660177662	Marionette	INFO	Listening on port 51951
+1628660178617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660182821	geckodriver	INFO	Listening on 127.0.0.1:52014
+1628660185276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileN8mgjk"
+*** You are running in headless mode.
+1628660192894	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileN8mgjk\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628660203161	Marionette	INFO	Listening on port 52024
+1628660203207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660208964	geckodriver	INFO	Listening on 127.0.0.1:52078
+1628660214782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWEMC1S"
+*** You are running in headless mode.
+1628660222224	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWEMC1S\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628660234495	Marionette	INFO	Listening on port 52086
+1628660235072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660240562	geckodriver	INFO	Listening on 127.0.0.1:52319
+1628660243154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWdrsCQ"
+*** You are running in headless mode.
+1628660248609	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileWdrsCQ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628660265818	Marionette	INFO	Listening on port 52327
+1628660265884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660270190	geckodriver	INFO	Listening on 127.0.0.1:52381
+1628660273050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilehPIEjf"
+*** You are running in headless mode.
+1628660284661	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilehPIEjf\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628660298265	Marionette	INFO	Listening on port 52389
+1628660298311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660304239	geckodriver	INFO	Listening on 127.0.0.1:52449
+1628660307988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileYK4Xoo"
+*** You are running in headless mode.
+1628660312393	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileYK4Xoo\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628660338162	Marionette	INFO	Listening on port 52457
+1628660338632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660373461	geckodriver	INFO	Listening on 127.0.0.1:53104
+1628660378006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileul6pb3"
+*** You are running in headless mode.
+1628660387259	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileul6pb3\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628660411154	Marionette	INFO	Listening on port 53124
+1628660412322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628660421580	geckodriver	INFO	Listening on 127.0.0.1:53208
+1628660424395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile271m03"
+*** You are running in headless mode.
+1628660438527	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile271m03\\search.json.mozlz4", (void 0)))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Parent 22664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628660486855	Marionette	INFO	Listening on port 53220
+1628660488916	geckodriver	INFO	Listening on 127.0.0.1:64956
+1628660493793	geckodriver	INFO	Listening on 127.0.0.1:64973
+1628660501276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile1sNjek"
+1628661124907	geckodriver	INFO	Listening on 127.0.0.1:62670
+1628661127998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilel231R0"
+*** You are running in headless mode.
+1628661129095	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilel231R0\\search.json.mozlz4", (void 0)))
+1628661132903	Marionette	INFO	Listening on port 62679
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628661133380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431770, line 2517: TypeError: $(...).pinterest_grid is not a function
+1628661141536	Marionette	INFO	Stopped listening on port 62679
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661144683	geckodriver	INFO	Listening on 127.0.0.1:62755
+1628661147732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilehkLYz6"
+*** You are running in headless mode.
+1628661148226	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilehkLYz6\\search.json.mozlz4", (void 0)))
+1628661151294	Marionette	INFO	Listening on port 62763
+1628661151415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431771, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661157956	Marionette	INFO	Stopped listening on port 62763
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661160372	geckodriver	INFO	Listening on 127.0.0.1:62843
+1628661163404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileNIVYv3"
+*** You are running in headless mode.
+1628661163933	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileNIVYv3\\search.json.mozlz4", (void 0)))
+1628661167532	Marionette	INFO	Listening on port 62853
+1628661167596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431772, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661173718	Marionette	INFO	Stopped listening on port 62853
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661175162	geckodriver	INFO	Listening on 127.0.0.1:62929
+1628661178184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileCSZVVJ"
+*** You are running in headless mode.
+1628661178735	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileCSZVVJ\\search.json.mozlz4", (void 0)))
+1628661182071	Marionette	INFO	Listening on port 62937
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628661182397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431773, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661189171	Marionette	INFO	Stopped listening on port 62937
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661190758	geckodriver	INFO	Listening on 127.0.0.1:63015
+1628661193803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilenxF1jA"
+*** You are running in headless mode.
+1628661194316	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilenxF1jA\\search.json.mozlz4", (void 0)))
+1628661197907	Marionette	INFO	Listening on port 63023
+1628661198022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431774, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661205019	Marionette	INFO	Stopped listening on port 63023
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661206445	geckodriver	INFO	Listening on 127.0.0.1:55539
+1628661209488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilebzeH5A"
+*** You are running in headless mode.
+1628661210024	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilebzeH5A\\search.json.mozlz4", (void 0)))
+1628661213246	Marionette	INFO	Listening on port 55547
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628661213675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431775, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661220017	Marionette	INFO	Stopped listening on port 55547
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661221357	geckodriver	INFO	Listening on 127.0.0.1:55623
+1628661224398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileFxulcY"
+*** You are running in headless mode.
+1628661224879	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileFxulcY\\search.json.mozlz4", (void 0)))
+1628661228468	Marionette	INFO	Listening on port 55631
+1628661228587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431776, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661234455	Marionette	INFO	Stopped listening on port 55631
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofileFxulcY\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661235577	geckodriver	INFO	Listening on 127.0.0.1:55703
+1628661238627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileRd1AGh"
+*** You are running in headless mode.
+1628661239091	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileRd1AGh\\search.json.mozlz4", (void 0)))
+1628661242001	Marionette	INFO	Listening on port 55711
+1628661242287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431777, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661249403	Marionette	INFO	Stopped listening on port 55711
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628661251047	geckodriver	INFO	Listening on 127.0.0.1:55787
+1628661254092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileubsbJa"
+*** You are running in headless mode.
+1628661254559	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileubsbJa\\search.json.mozlz4", (void 0)))
+1628661257824	Marionette	INFO	Listening on port 55795
+1628661259034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431778, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661265091	Marionette	INFO	Stopped listening on port 55795
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628661266507	geckodriver	INFO	Listening on 127.0.0.1:55876
+1628661269547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileJFRbCG"
+*** You are running in headless mode.
+1628661270107	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileJFRbCG\\search.json.mozlz4", (void 0)))
+1628661273461	Marionette	INFO	Listening on port 55884
+1628661273745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431779, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661279605	Marionette	INFO	Stopped listening on port 55884
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofileJFRbCG\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661281245	geckodriver	INFO	Listening on 127.0.0.1:55962
+1628661284283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileTXq0Zv"
+*** You are running in headless mode.
+1628661284848	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileTXq0Zv\\search.json.mozlz4", (void 0)))
+1628661288319	Marionette	INFO	Listening on port 55970
+1628661288448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431780, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661293777	Marionette	INFO	Stopped listening on port 55970
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofileTXq0Zv\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661295245	geckodriver	INFO	Listening on 127.0.0.1:56049
+1628661298248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile7n0QfH"
+*** You are running in headless mode.
+1628661299196	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile7n0QfH\\search.json.mozlz4", (void 0)))
+1628661303470	Marionette	INFO	Listening on port 56070
+1628661303702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431781, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661309433	Marionette	INFO	Stopped listening on port 56070
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofile7n0QfH\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661311179	geckodriver	INFO	Listening on 127.0.0.1:56166
+1628661314255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileSeRlIj"
+*** You are running in headless mode.
+1628661314765	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileSeRlIj\\search.json.mozlz4", (void 0)))
+1628661318199	Marionette	INFO	Listening on port 56174
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628661318451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628661375130	geckodriver	INFO	Listening on 127.0.0.1:56225
+1628661378183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileQVb50O"
+1628661378680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileQVb50O\\search.json.mozlz4", (void 0)))
+1628661382407	Marionette	INFO	Listening on port 56233
+1628661382509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431770, line 2517: TypeError: $(...).pinterest_grid is not a function
+1628661388123	Marionette	INFO	Stopped listening on port 56233
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofileQVb50O\protections.sqlite
+1628661389892	geckodriver	INFO	Listening on 127.0.0.1:56307
+1628661392964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilez1hNiS"
+1628661393505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilez1hNiS\\search.json.mozlz4", (void 0)))
+1628661397120	Marionette	INFO	Listening on port 56315
+1628661397284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431771, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661402607	Marionette	INFO	Stopped listening on port 56315
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofilez1hNiS\protections.sqlite
+1628661403882	geckodriver	INFO	Listening on 127.0.0.1:56385
+1628661406908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileg7VCf4"
+1628661407533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileg7VCf4\\search.json.mozlz4", (void 0)))
+1628661411710	Marionette	INFO	Listening on port 56394
+1628661411779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431772, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661417540	Marionette	INFO	Stopped listening on port 56394
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1628661419472	geckodriver	INFO	Listening on 127.0.0.1:56468
+1628661422510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile1kMKdv"
+1628661423095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofile1kMKdv\\search.json.mozlz4", (void 0)))
+1628661427079	Marionette	INFO	Listening on port 56476
+1628661427366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431773, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661433208	Marionette	INFO	Stopped listening on port 56476
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofile1kMKdv\protections.sqlite
+1628661434786	geckodriver	INFO	Listening on 127.0.0.1:56556
+1628661437859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilet2reDN"
+1628661438392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilet2reDN\\search.json.mozlz4", (void 0)))
+1628661442052	Marionette	INFO	Listening on port 56564
+1628661442146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431774, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661447194	Marionette	INFO	Stopped listening on port 56564
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no]
+allowAllCerts.disable@chrome://remote/content/marionette/cert.js:55:23
+destroy@chrome://remote/content/shared/webdriver/Session.jsm:62:19
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2254:23
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2753:8
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2245: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1628661497181	geckodriver	INFO	Listening on 127.0.0.1:56671
+1628661500259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileooVQDh"
+1628661500775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileooVQDh\\search.json.mozlz4", (void 0)))
+1628661504547	Marionette	INFO	Listening on port 56680
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628661505285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431770, line 2517: TypeError: $(...).pinterest_grid is not a function
+1628661510938	Marionette	INFO	Stopped listening on port 56680
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 21024, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628661512464	geckodriver	INFO	Listening on 127.0.0.1:56760
+1628661515511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileYTJPAp"
+1628661516080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileYTJPAp\\search.json.mozlz4", (void 0)))
+1628661519746	Marionette	INFO	Listening on port 56768
+1628661519816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431771, line 2518: TypeError: $(...).pinterest_grid is not a function
+1628661525622	Marionette	INFO	Stopped listening on port 56768
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+[Parent 8184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628661527852	geckodriver	INFO	Listening on 127.0.0.1:56839
+1628661530896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileXYHlEP"
+1628661531492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileXYHlEP\\search.json.mozlz4", (void 0)))
+1628661553517	geckodriver	INFO	Listening on 127.0.0.1:56873
+1628661556578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilejzrnls"
+1628661557093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilejzrnls\\search.json.mozlz4", (void 0)))
+1628661561029	Marionette	INFO	Listening on port 56881
+1628661561402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/numerical-value-type-questions-physical-world-units-measurement_q1/5825/431770, line 2517: TypeError: $(...).pinterest_grid is not a function
+1628661567748	Marionette	INFO	Stopped listening on port 56881
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://www.studyadda.com/assets/MathJax/MathJax.js, line 19: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628661569415	geckodriver	INFO	Listening on 127.0.0.1:56959
+1628661572452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileF79bcH"
+1628661573017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofileF79bcH\\search.json.mozlz4", (void 0)))
+1628661881977	geckodriver	INFO	Listening on 127.0.0.1:55920
+1628661885009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilekxOfjR"
+*** You are running in headless mode.
+1628661885550	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rashmi\\AppData\\Local\\Temp\\rust_mozprofilekxOfjR\\search.json.mozlz4", (void 0)))
+1628661888940	Marionette	INFO	Listening on port 55935
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628661889229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.studyadda.com/question-bank/self-evaluation-test-electromagnetic-waves_q1/5959151/437868, line 2546: TypeError: $(...).pinterest_grid is not a function
+1628661895149	Marionette	INFO	Stopped listening on port 55935
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Rashmi\AppData\Local\Temp\rust_mozprofilekxOfjR\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628661896932	geckodriver	INFO	Listening on 127.0.0.1:56012

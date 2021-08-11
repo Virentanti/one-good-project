@@ -8,8 +8,10 @@ def ssw(url,x,stp):
 
     rep=int(url[-5:])
     url=url[:-5]
+    stop=stp
+    if stp>40: stop= 40
     bar = Bar('Scraping...', max=stp, suffix="%(percent).1f%% - %(eta)ds")
-    for i in range(rep,rep+25):
+    for i in range(rep,rep+stop):
         try:
             option=Options()
             option.headless=True
@@ -36,4 +38,6 @@ def ssw(url,x,stp):
             driver.quit()
             bar.next()
         except:
-            pass
+            driver.quit()
+        finally:
+            bar.finish()
