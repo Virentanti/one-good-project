@@ -37,7 +37,13 @@ class MainWindow(QMainWindow):
 
         # PAGE 1
         self.ui.home_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.home))
+        
+        items=['Vd','Resistance','current','Voltage','Ef','u']
+        self.ui.chapter_combobox.addItems(items)
 
+        chapters=["current","electrostatics","electromagnetic","atomic physics"]
+        self.ui.generate_chater_comboBox.addItems(chapters)
+        
         # PAGE 2
         self.ui.generate_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.generate))
 
