@@ -41,7 +41,10 @@ class MainWindow(QMainWindow):
         # PAGE 2
         self.ui.generate_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.generate))
 
-        self.ui.browse_btn.clicked.connect(lambda: UIFunctions.browse(self))
+        br=lambda : UIFunctions.browse(self)
+        self.ui.browse_btn.clicked.connect(br)
+
+        self.ui.generate_generate_btn.clicked.connect(lambda: pdf_gen(self.ui.generate_chater_comboBox.currentText(), br))
 
 
         ## SHOW ==> MAIN WINDOW
