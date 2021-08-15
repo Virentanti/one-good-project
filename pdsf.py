@@ -2,44 +2,6 @@ from fpdf import FPDF
 from mysql.connector import MySQLConnection as msql
 import os
 import random
-# from fpdf import cell,image,set_font
-
-# def ques(img):
-#     set_font('helvetica', size=10)
-#     cell(10,10,txt='Q1')
-#     image(name=img, x=20, y=10, w=170)
-#     cell(0,10,txt="1 mark",align="R")
-
-
-# def ans(img):
-#     set_font('helvetica', size=10)
-#     cell(10,10,txt='Q1')
-#     image(name=img, x=20, y=10, w=170)
-#     cell(0,10,txt="1 mark",align="R")
-
-
-# imq="q_EM Waves Question Bank Mock Test - Electromagnetic Waves and Dual Nature26327.png"
-# ima="a_EM Waves Question Bank Mock Test - Electromagnetic Waves and Dual Nature26327.png"
-# # Create a PDF object
-# pdf = FPDF('P', 'mm', 'Letter')
-
-# # get total page numbers
-# pdf.alias_nb_pages()
-
-# # Set auto page break
-# pdf.set_auto_page_break(auto = True, margin = 15)
-
-# #Add Page
-# pdf.add_page()
-
-# # specify font
-# pdf.set_font('helvetica', 'BIU', 16)
-
-# pdf.set_font('times', '', 12)
-# ques(imq)
-# ans(ima)
-
-# pdf.output('pdf_2.pdf')
 
 
 class PDF(FPDF):
