@@ -7,7 +7,6 @@ from PySide2.QtWidgets import *
 
 # GUI FILE
 from ui_main import Ui_MainWindow
-from ui_login import Ui_login
 
 # IMPORT FUNCTIONS
 from ui_functions import *
@@ -42,7 +41,7 @@ class MainWindow(QMainWindow):
         items=['Vd','Resistance','current','Voltage','Ef','u']
         self.ui.chapter_combobox.addItems(items)
 
-        chapters=["current","electrostatics","electromagnetic","atomic physics"]
+        chapters=["current","electrostatics and charges","electromagnetic induction","atomic physics"]
         self.ui.generate_chater_comboBox.addItems(chapters)
         
         # PAGE 2
