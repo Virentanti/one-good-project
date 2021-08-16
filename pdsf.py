@@ -1,5 +1,5 @@
 from fpdf import FPDF
-from mysql.connector import MySQLConnection as msql
+import mysql.connector as msql
 import os
 import random
 
@@ -17,22 +17,22 @@ class PDF(FPDF):
         self.image(name=img,w=190)#, x=25, y=rel_posy, w=170)
 
 
-    def ques(self,chcode):
-        conn=msql.connect(host="localhost",user="root",passwd="root",db="questionbank")
-        cur=conn.cursor()
-        cur.execute("select * from %s"%(chcode))
-        data=cur.fetchall()
+def ques(chcode):
+    conn=msql.connect(host="localhost",user="root",passwd="root",db="questionbank")
+    cur=conn.cursor()
+    cur.execute("select * from %s"%(chcode))
+    data=cur.fetchall()
 
-        ques_lis=[]
-        for _ in range(25):
-            ques=random.choice(data)
-            if ques not in ques_lis:
-                ques_lis.append(ques)
+    ques_lis=[]
+    for _ in range(25):
+        ques=random.choice(data)
+        if ques not in ques_lis:
+            ques_lis.append(ques)
 
-        return ques_lis
+    return ques_lis
 
 def pdf_gen(chcode,dir_name):
-
+    cwd=os.getcwd()
     # Create a PDF object
     pdf = PDF('P', 'mm', 'Letter')
     pdf.set_title(title='Question paper')
@@ -50,18 +50,18 @@ def pdf_gen(chcode,dir_name):
     pdf.set_font('helvetica', 'BIU', 16)
 
     pdf.set_font('times', '', 12)
-    ques_lis=pdf.ques(chcode)
+    ques_lis=ques(chcode)
     pdf.cell(txt="Question paper",w=0,align="C")
     pdf.ln(10)
     for i in range(len(ques_lis)):
-        q=os.path.join(r":\finaldb",ques_lis[i][0])
+        q=os.path.join(cwd,os.path.join(r"\finaldb",ques_lis[i][1]))
         pdf.ques(q,i+1)
         pdf.ln()
     pdf.add_page()
     pdf.cell(txt="Answers",w=0,align="C")
     pdf.ln()
     for i in range(len(ques_lis)):
-        a=os.path.join(r":\finaldb",ques_lis[i][1])
+        a=os.path.join(cwd,os.path.join(r"\finaldb",ques_lis[i][2]))
         pdf.ans(a,i+1)
         pdf.ln()
 

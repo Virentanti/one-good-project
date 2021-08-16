@@ -79,7 +79,8 @@ class UIFunctions(MainWindow):
     def inputval(self,index):
         self.inptlisinptlis={"Voltage":[['i','R'],['P','i'],['P','R'],['q','C'],['P','E','q'],['q','r']],"Capacitance":[['q','V'],['U','V'],['A','d'],['q','U'],['n','V'],['r1r2'],['r1r2','l']],"DriftVelocity":[['i','A','q','n'],['l','t'],['E','t'],['j','n']]}
         self.ui.input_value_combobpx.clear
-        self.ui.input_value_combobpx.addItem(self.inptlis[index])
+        self.newlis=[str(i) for i in self.inptlis[index]]
+        self.ui.input_value_combobpx.addItem(self.newlis)
 
     def calc(self,index,inp,input_value):
         if index=="Voltage":
