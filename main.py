@@ -38,19 +38,21 @@ class MainWindow(QMainWindow):
         # PAGE 1
         self.ui.home_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.home))
         
-        items=['Vd','Resistance','current','Voltage','Ef','u']
+        items=["Voltage","Capacitance","DriftVelocity"]
         self.ui.chapter_combobox.addItems(items)
 
-        chapters=["current","electrostatics and charges","electromagnetic induction","atomic physics"]
+        self.ui.chapter_combobox.currentIndexChanged.connect(lambda: UIFunctions.inputval(self, self.ui.chapter_combobox.currentText()))
+
+        chapters=["current","electrostatics","electromagnetic","aphy"]
         self.ui.generate_chater_comboBox.addItems(chapters)
         
+        self.ui.calculate_btn.clicked.connect(lambda: UIFunctions.calculate(self, self.ui.generate_chater_comboBox.currentText(),self.ui.input_value_combobpx.currentText(),self.ui.values_line_edit.text()))
         # PAGE 2
         self.ui.generate_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.generate))
 
-        br=lambda : UIFunctions.browse(self)
-        self.ui.browse_btn.clicked.connect(br)
+        self.ui.browse_btn.clicked.connect(lambda: UIFunctions.browse(self))
 
-        self.ui.generate_generate_btn.clicked.connect(lambda: pdf_gen(self.ui.generate_chater_comboBox.currentText(), br))
+        self.ui.generate_generate_btn.clicked.connect(lambda: pdf_gen(self.ui.generate_chater_comboBox.currentText(), UIFunctions.retur()))
 
 
         ## SHOW ==> MAIN WINDOW

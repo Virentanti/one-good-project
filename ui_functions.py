@@ -1,6 +1,8 @@
 ## ==> GUI FILE
+from Solverr import Capacitance
 from main import *
 import mysql.connector as msql
+from Solverr import *
 
 GLOBAL_STATE=0
 
@@ -66,7 +68,23 @@ class UIFunctions(MainWindow):
 
 
     def browse(self):
-        fname=QFileDialog.getExistingDirectory(self, 'Select Directory')
-        self.ui.browse_label.setText(fname)
-        return fname
+        self.fname=QFileDialog.getExistingDirectory(self, 'Select Directory')
+        self.ui.browse_label.setText(self.fname)
+        return self.fname
         #self.fname.setText(fname[0])
+    
+    def retur(self):
+        return self.fname
+
+    def inputval(self,index):
+        self.inptlisinptlis={"Voltage":[['i','R'],['P','i'],['P','R'],['q','C'],['P','E','q'],['q','r']],"Capacitance":[['q','V'],['U','V'],['A','d'],['q','U'],['n','V'],['r1r2'],['r1r2','l']],"DriftVelocity":[['i','A','q','n'],['l','t'],['E','t'],['j','n']]}
+        self.ui.input_value_combobpx.clear
+        self.ui.input_value_combobpx.addItem(self.inptlis[index])
+
+    def calc(self,index,inp,input_value):
+        if index=="Voltage":
+            self.ui.answer_label.setText(Voltage(inp,input_value))
+        elif index=="Capacitance":
+            self.ui.answer_label.setText(Capacitance(inp,input_value))
+        elif index=="DriftVelocity":
+            self.ui.answer_label.setText(DriftVelocity(inp,input_value))

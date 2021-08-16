@@ -18,7 +18,7 @@ class PDF(FPDF):
 
 
     def ques(self,chcode):
-        conn=msql.connect(host="localhost",user="root",passwd="root",db="question_bank")
+        conn=msql.connect(host="localhost",user="root",passwd="root",db="questionbank")
         cur=conn.cursor()
         cur.execute("select * from %s"%(chcode))
         data=cur.fetchall()
