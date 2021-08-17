@@ -47,7 +47,7 @@ def strtolist(data):
 def Voltage(data,val):
         data=strtolist(data)
         val=strtolist(val)
-        val=[int(i) for i in val]
+        val=[float(i) for i in val]
         if compare(data ,V.get(0)):
           volt=val[0]*val[1]
           value=str(round (volt,2))+'V'
@@ -71,7 +71,7 @@ def Voltage(data,val):
 def Capacitance(data,val):
         data=strtolist(data)
         val=strtolist(val)
-        val=[int(i) for i in val]
+        val=[float(i) for i in val]
         if compare(data ,C.get(0)):
           cap=val[0]/val[1]
           value=str(round (cap,2))+'F'
@@ -98,7 +98,7 @@ def Capacitance(data,val):
 def DriftVelocity(data,val):
         data=strtolist(data)
         val=strtolist(val)
-        val=[int(i) for i in val]
+        val=[float(i) for i in val]
         if compare(data ,Vd.get(0)):
           vd=val[0]/val[1]*val[2]*val[3]
           value=str(round (vd,2))+'F'
