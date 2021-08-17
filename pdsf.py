@@ -54,14 +54,14 @@ def pdf_gen(chcode,dir_name):
     pdf.cell(txt="Question paper",w=0,align="C")
     pdf.ln(10)
     for i in range(len(ques_lis)):
-        q=os.path.join(cwd,os.path.join(r"\finaldb",ques_lis[i][1]))
+        q=os.path.join(cwd,os.path.join("finaldb",ques_lis[i][1]))
         pdf.ques(q,i+1)
         pdf.ln()
     pdf.add_page()
     pdf.cell(txt="Answers",w=0,align="C")
     pdf.ln()
     for i in range(len(ques_lis)):
-        a=os.path.join(cwd,os.path.join(r"\finaldb",ques_lis[i][2]))
+        a=os.path.join(cwd,os.path.join("finaldb",ques_lis[i][2]))
         pdf.ans(a,i+1)
         pdf.ln()
 
