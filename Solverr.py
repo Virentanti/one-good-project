@@ -41,31 +41,34 @@ def compare(a,b):
         return False
     
 def strtolist(data):
-    data=data.replace('[','').replace(']','')
-    data=data.split(',')
+    data=data.replace('[','').replace(']','').replace("'",'').replace('"','').replace(' ','').split(',')
     return data
 def Voltage(data,val):
         data=strtolist(data)
         val=strtolist(val)
+        print(data)
+        print(val)
         val=[float(i) for i in val]
         if compare(data ,V.get(0)):
           volt=val[0]*val[1]
           value=str(round (volt,2))+'V'
-        if compare(data ,V.get(1)):
+        elif compare(data ,V.get(1)):
           volt=val[0]/val[1]
           value=str(round (volt,2))+'V'
-        if compare(data ,V.get(2)):
+        elif compare(data ,V.get(2)):
           volt=val[0]*val[1]
           value=str(round (volt,2))+'V'
-        if compare(data ,V.get(3)):
+        elif compare(data ,V.get(3)):
           volt=val[0]/val[1]
           value=str(round (volt,2))+'V'
-        if compare(data ,V.get(4)):
+        elif compare(data ,V.get(4)):
           volt=val[0]*val[1]/val[2]
           value=str(round (volt,2))+'V'
-        if compare(data ,V.get(5)):
+        elif compare(data ,V.get(5)):
           volt=(k)*val[1]/val[2]
           value=str(round (volt,2))+'V'
+        else:
+          value="error"
         return value
 
 def Capacitance(data,val):
@@ -73,26 +76,28 @@ def Capacitance(data,val):
         val=strtolist(val)
         val=[float(i) for i in val]
         if compare(data ,C.get(0)):
-          cap=val[0]/val[1]
-          value=str(round (cap,2))+'F'
-        if compare(data ,C.get(1)):
-          cap=2*val[0]/val[1]**2
-          value=str(round (cap,2))+'F'
-        if compare(data ,C.get(2)):
-          cap=e0*val[0]/val[1]
-          value=str(round (cap,2))+'F'
-        if compare(data ,C.get(3)):
-          cap=val[0]**2/val[1]*2
-          value=str(round (cap,2))+'F'
-        if compare(data ,C.get(4)):
-          cap=e*val[0]/val[1]
-          value=str(round (cap,2))+'F'
-        if compare(data ,C.get(5)):
-          cap=(4*(3.14)*e0*val[0]*val[1])/(val[0] - val[1])
+          Cap=val[0]/val[1]
+          value=str(round (Cap,2))+'F'
+        elif compare(data ,C.get(1)):
+          Cap=2*val[0]/val[1]**2
+          value=str(round (Cap,2))+'F'
+        elif compare(data ,C.get(2)):
+          Cap=e0*val[0]/val[1]
+          value=str(round (Cap,2))+'F'
+        elif compare(data ,C.get(3)):
+          Cap=val[0]**2/val[1]*2
+          value=str(round (Cap,2))+'F'
+        elif compare(data ,C.get(4)):
+          Cap=e*val[0]/val[1]
+          value=str(round (Cap,2))+'F'
+        elif compare(data ,C.get(5)):
+          Cap=(4*(3.14)*e0*val[0]*val[1])/(val[0] - val[1])
           value=str(round(Cap*10**10, 4)),'x10^-4 uF'
-        if compare(data ,C.get(4)):
-          cap=(2*(3.14)*e0*val[2])/(math.log(val[0]/val[1]))
+        elif compare(data ,C.get(4)):
+          Cap=(2*(3.14)*e0*val[2])/(log(val[0]/val[1]))
           value=str(round(Cap*10**10, 4)),'x10^-4 uF'
+        else:
+          value="error"
         return value
 
 def DriftVelocity(data,val):
@@ -102,12 +107,15 @@ def DriftVelocity(data,val):
         if compare(data ,Vd.get(0)):
           vd=val[0]/val[1]*val[2]*val[3]
           value=str(round (vd,2))+'F'
-        if compare(data ,Vd.get(1)):
+        elif compare(data ,Vd.get(1)):
           vd=val[0]/val[1]
           value=str(round (vd,2))+'F'
-        if compare(data ,Vd.get(2)):
+        elif compare(data ,Vd.get(2)):
           vd=val[0]*val[1]*e*0.5/m
           value=str(round (vd,2))+'F'
-        if compare(data ,Vd.get(3)):
+        elif compare(data ,Vd.get(3)):
           vd=val[0]/val[1]*e
+          value=str(round (vd,2))+'F'
+        else:
+          value="error"
         return value

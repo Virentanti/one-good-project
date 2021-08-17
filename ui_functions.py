@@ -82,8 +82,11 @@ class UIFunctions(MainWindow):
         self.newlis=[str(i) for i in self.inptlis[index]]
         self.ui.input_value_combobpx.addItem(self.newlis)
 
-    def calc(self,index,inp,input_value):
+    def calculate(self,index,inp,input_value):
+        print(index,inp,input_value)
         if index=="Voltage":
+            print(inp,input_value)
+            print(Voltage(inp,input_value))
             self.ui.answer_label.setText(Voltage(inp,input_value))
         elif index=="Capacitance":
             self.ui.answer_label.setText(Capacitance(inp,input_value))

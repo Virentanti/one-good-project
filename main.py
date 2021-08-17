@@ -41,15 +41,15 @@ class MainWindow(QMainWindow):
         items=["Voltage","Capacitance","DriftVelocity"]
         self.ui.chapter_combobox.addItems(items)
 
-        inputlis=[['i','R'],['P','i'],['P','R'],['q','C'],['P','E','q'],['q','r'],['q','V'],['U','V'],['A','d'],['q','U'],['n','V'],['r1r2'],['r1r2','l'],['i','A','q','n'],['l','t'],['E','t'],['j','n']]
+        inputlis=[['i','R'],['P','i'],['P','R'],['q','C'],['P','E','q'],['q','r']]
         inputlis=[str(i) for i in inputlis]
         self.ui.input_value_combobpx.addItems(inputlis)
-        # self.ui.chapter_combobox.currentIndexChanged.connect(lambda: UIFunctions.inputval(self, self.ui.chapter_combobox.currentText()))
+        self.ui.chapter_combobox.currentIndexChanged.connect(lambda: UIFunctions.inputval(self, self.ui.chapter_combobox.currentText()))
 
-        chapters=["current","electrostatics","electromagnetic","aphy"]
+        chapters=["current","electrostatics","electromagnetic","aphy", "allques"]
         self.ui.generate_chater_comboBox.addItems(chapters)
         
-        self.ui.calculate_btn.clicked.connect(lambda: UIFunctions.calculate(self, self.ui.generate_chater_comboBox.currentText(),self.ui.input_value_combobpx.currentText(),self.ui.values_line_edit.text()))
+        self.ui.calculate_btn.clicked.connect(lambda: UIFunctions.calculate(self, self.ui.chapter_combobox.currentText(),self.ui.input_value_combobpx.currentText(),self.ui.values_line_edit.text()))
         # PAGE 2
         self.ui.generate_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.generate))
 
