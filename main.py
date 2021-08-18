@@ -42,6 +42,7 @@ class MainWindow(QMainWindow):
         self.ui.chapter_combobox.addItems(items)
 
         inputlis=[['i','R'],['P','i'],['P','R'],['q','C'],['P','E','q'],['q','r']]
+        print(inputlis)
         inputlis=[str(i) for i in inputlis]
         self.ui.input_value_combobpx.addItems(inputlis)
         self.ui.chapter_combobox.currentIndexChanged.connect(lambda: UIFunctions.inputval(self, self.ui.chapter_combobox.currentText()))

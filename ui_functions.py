@@ -77,10 +77,11 @@ class UIFunctions(MainWindow):
         return self.fname
 
     def inputval(self,index):
-        self.inptlisinptlis={"Voltage":[['i','R'],['P','i'],['P','R'],['q','C'],['P','E','q'],['q','r']],"Capacitance":[['q','V'],['U','V'],['A','d'],['q','U'],['n','V'],['r1r2'],['r1r2','l']],"DriftVelocity":[['i','A','q','n'],['l','t'],['E','t'],['j','n']]}
-        self.ui.input_value_combobpx.clear
+        self.inptlis={"Voltage":[['i','R'],['P','i'],['P','R'],['q','C'],['P','E','q'],['q','r']],"Capacitance":[['q','V'],['U','V'],['A','d'],['q','U'],['n','V'],['r1r2'],['r1r2','l']],"DriftVelocity":[['i','A','q','n'],['l','t'],['E','t'],['j','n']]}
+        self.ui.input_value_combobpx.clear()
         self.newlis=[str(i) for i in self.inptlis[index]]
-        self.ui.input_value_combobpx.addItem(self.newlis)
+        print(self.newlis)
+        self.ui.input_value_combobpx.addItems(self.newlis)
 
     def calculate(self,index,inp,input_value):
         print(index,inp,input_value)
