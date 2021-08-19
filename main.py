@@ -47,7 +47,7 @@ class MainWindow(QMainWindow):
         self.ui.input_value_combobpx.addItems(inputlis)
         self.ui.chapter_combobox.currentIndexChanged.connect(lambda: UIFunctions.inputval(self, self.ui.chapter_combobox.currentText()))
 
-        chapters=["current","electrostatics","electromagnetic","aphy", "allques"]
+        chapters=["current","electrostatics","electromagnetic","aphy", "allquestion"]
         self.ui.generate_chater_comboBox.addItems(chapters)
         
         self.ui.calculate_btn.clicked.connect(lambda: UIFunctions.calculate(self, self.ui.chapter_combobox.currentText(),self.ui.input_value_combobpx.currentText(),self.ui.values_line_edit.text()))
