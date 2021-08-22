@@ -68,6 +68,8 @@ def Voltage(data,val):
         elif compare(data ,V.get(5)):
           volt=(k)*val[1]/val[2]
           value=str(round (volt,2))+'V'
+        else:
+          value="error"
     except:
         value="error"
     return value
@@ -98,6 +100,8 @@ def Capacitance(data,val):
         elif compare(data ,C.get(4)):
           Cap=(2*(3.14)*e0*val[2])/(log(val[0]/val[1]))
           value=str(round(Cap*10**10, 4)),'x10^-4 uF'
+        else:
+          value="error"
     except:
         value="error"
     return value
@@ -119,6 +123,8 @@ def DriftVelocity(data,val):
         elif compare(data ,Vd.get(3)):
           vd=val[0]/val[1]*e
           value=str(round (vd,2))+'F'
+        else:
+          value="error"
     except:
         value="error"
     return value
