@@ -1,24 +1,5 @@
 from math import log
 
-# print('*-------------------------------THE BASIC PHYSICS NUMERICAL SOLVER--------------------------------*')
-# print("Chapter 1. Electric Charges and Fields")
-# print("Chapter 2. Electrostatic Potential And Capacitance")
-# print("Chapter 3. Current Electricity")
-# print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
-# print('For:-')
-# print('Volt=V, Current=I, Resistance=R, Charge=q, Radius=r, Electric Field=E, Power=P, Capacitance=C, Force=F')
-# print('Area=A, Distance=d, Drift velocity=Vd, Dielectric constant=K, Work done=W, Electric flux=Ef, Length=L')
-# print("Charge density=p, Induced charge=q', Polarisation=P', Volume=V, Two Charges=q1q2, Two Radius=r1r2")
-# print('Electromotive force=emf, Stored energy=u, No. of Electron=n ,Potential difference=U ')
-# print('*Shape=shape, Angle=x')
-# print('#Note: All value must be in Standard Unit')
-# print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
-
-# data=str(input("Which Values do Question have: "))  #Getting available data from the user
-# data=data.split(',')    #converting available data to list
-# print(data)
-# want=str(input("What Do Question want: ")).upper()  #getting what user wants
-#want=want.upper()   #making sure the data is in uppercase
 #----->Defined Constants
 k=9*(10**9)
 e0=8.85*(10**-12)
