@@ -50,9 +50,9 @@ def Voltage(data,val):
           volt=(k)*val[1]/val[2]
           value=str(round (volt,2))+'V'
         else:
-          value="error"
+          value="not a valid value type"
     except:
-        value="error"
+        value="invalid value given"
     return value
 
 def Capacitance(data,val):
@@ -82,9 +82,9 @@ def Capacitance(data,val):
           Cap=(2*(3.14)*e0*val[2])/(log(val[0]/val[1]))
           value=str(round(Cap*10**10, 4)),'x10^-4 uF'
         else:
-          value="error"
+          value="not a valid value type"
     except:
-        value="error"
+        value="invalid value given"
     return value
 
 def DriftVelocity(data,val):
@@ -105,7 +105,7 @@ def DriftVelocity(data,val):
           vd=val[0]/val[1]*e
           value=str(round (vd,2))+'F'
         else:
-          value="error"
+          value="not a valid value type"
     except:
-        value="error"
+        value="invalid value given"
     return value
