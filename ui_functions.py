@@ -93,3 +93,5 @@ class UIFunctions(MainWindow):
             self.ui.answer_label.setText(Capacitance(inp,input_value))
         elif index=="DriftVelocity":
             self.ui.answer_label.setText(DriftVelocity(inp,input_value))
+        else:
+            self.ui.answer_label.setText("option not available")
