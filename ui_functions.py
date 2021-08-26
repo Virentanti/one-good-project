@@ -24,12 +24,14 @@ class UIFunctions(MainWindow):
                 self.ui.menu_label.setText("Menu")
                 self.ui.home_label.setText("Home")
                 self.ui.generate_label.setText("Generate")
+                self.ui.admin_panel_label.setText("Admin Panel")
             else:       #if width is maxwidth then change it to 50
                 widthExtended = standard
                 #making labels invisible
                 self.ui.menu_label.setText("")
                 self.ui.home_label.setText("")
                 self.ui.generate_label.setText("")
+                self.ui.admin_panel_label.setText("")
 
             # ANIMATION GIVING EASING CURVE TO WIDTH CHANGE
             self.animation = QPropertyAnimation(self.ui.sidebar_frame, b"minimumWidth")
