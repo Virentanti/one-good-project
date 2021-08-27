@@ -97,3 +97,9 @@ class UIFunctions(MainWindow):
             self.ui.answer_label.setText(DriftVelocity(inp,input_value))
         else:
             self.ui.answer_label.setText("option not available")
+
+    def authorise(username,password):
+        if authenticate(username,password):
+            self.ui.setCurrentWidget(self.ui.admin_panel_dashboard)
+        else:
+            pass

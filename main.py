@@ -35,8 +35,8 @@ class MainWindow(QMainWindow):
         ########################################################################
         self.ui.menu_btn.clicked.connect(lambda: UIFunctions.toggleMenu(self, 170, True))
 
-        # PAGE 1
         self.ui.home_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.home))
+        self.ui.admin_panel_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.admin_panel_login))
         
         items=["Voltage","Capacitance","DriftVelocity"]
         self.ui.chapter_combobox.addItems(items)
