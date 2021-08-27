@@ -52,6 +52,19 @@ def add(img,chap,question,answer):
             pickle.dump(count.count_file)
             return 1
 
+def authenticate(username,password):
+    conn=msql.connect(host="localhost",
+                            user="root",
+                            passwd="root",
+                            db="questionbank")
+    cur=conn.cursor()
+    query= f'select * from auth'
+    cur.execute()
+    authtbl=cur.fetchall()
+    if (username,password) in authtbl:
+        return True
+    else:
+        return False
 
 if __name__=='__main__':
     backend()

@@ -553,7 +553,7 @@ class Ui_MainWindow(object):
         self.password_lineedit.setMinimumSize(QSize(250, 30))
         self.password_lineedit.setMaximumSize(QSize(300, 45))
         self.password_lineedit.setFont(font3)
-        self.password_lineedit.setStyleSheet(u"QLineEdit{border-radius:10px; border: 2px solid rgb(33, 0, 114);color:rgba(255, 255, 255,90);background-color:rgba(33, 0, 114,80)}")
+        self.password_lineedit.setStyleSheet(u"QLineEdit{lineedit-password-character: 9679;border-radius:10px; border: 2px solid rgb(33, 0, 114);color:rgba(255, 255, 255,90);background-color:rgba(33, 0, 114,80)}")
         self.password_lineedit.setAlignment(Qt.AlignCenter)
 
         self.verticalLayout_5.addWidget(self.password_lineedit)
