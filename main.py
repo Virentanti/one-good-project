@@ -11,6 +11,7 @@ from ui_main import Ui_MainWindow
 # IMPORT FUNCTIONS
 from ui_functions import *
 from pdsf import *
+from db import authenticate
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -58,7 +59,10 @@ class MainWindow(QMainWindow):
 
         self.ui.generate_generate_btn.clicked.connect(lambda:pdf_gen(self.ui.generate_chater_comboBox.currentText(), UIFunctions.retur(self)))
 
+        self.ui.question_btn.clicked.connect(lambda: UIFunctions.add_ques(self))
+        self.ui.answer_btn.clicked.connect(lambda: UIFunctions.add_ans(self))
 
+        self.ui.login_btn.clicked.connect(lambda: UIFunctions.login(self,self.ui.username_lineedit.text(),self.ui.password_lineedit.text()))
         ## SHOW ==> MAIN WINDOW
         ########################################################################
         self.show()
@@ -66,6 +70,7 @@ class MainWindow(QMainWindow):
 
     def mousePressEvent(self, event):
         self.dragPos = event.globalPos()
+
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

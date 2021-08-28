@@ -3,6 +3,8 @@ from Solverr import Capacitance
 from main import *
 import mysql.connector as msql
 from Solverr import *
+from db import authenticate
+from ui_main import Ui_MainWindow
 
 GLOBAL_STATE=0
 
@@ -74,6 +76,18 @@ class UIFunctions(MainWindow):
         self.ui.browse_label.setText(self.fname)
         return self.fname
         #self.fname.setText(fname[0])
+
+    def add_ans(self):
+        self.qname=QFileDialog.getOpenFileName(self, 'Select Directory',filter="*.png")
+        self.ui.question_label.setText(self.qname[0])
+        print(self.qname)
+        return self.qname
+
+    def add_ques(self):
+        self.qname=QFileDialog.getOpenFileName(self, 'Select Directory',filter="*.png")
+        self.ui.question_label.setText(self.qname[0])
+        print(self.qname)
+        return self.qname
     
     def retur(self):
         return self.fname
@@ -98,8 +112,8 @@ class UIFunctions(MainWindow):
         else:
             self.ui.answer_label.setText("option not available")
 
-    def authorise(username,password):
+    def login(self,username,password):
         if authenticate(username,password):
-            self.ui.setCurrentWidget(self.ui.admin_panel_dashboard)
+            self.ui.stacked_widgets.setCurrentWidget(self.ui.admin_panel_dashboard)
         else:
-            pass
+            print("wrong username or password")

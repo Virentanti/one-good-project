@@ -2,6 +2,8 @@ import mysql.connector as msql
 import os
 import pickle
 from shutil import copy
+from cryptography.fernet import Fernet
+
 
 def backend(passwd):
     conn=msql.connect(host="localhost",
@@ -25,10 +27,15 @@ def backend(passwd):
                 x=x.split()
                 query=f'insert into {chapter}(Sno,question,answer) values({count},"{x[0]}","{x[1]}")'
                 cur.execute(query)
-                print(x)
+                #print(x)
                 conn.commit()
         except EOFError:
             print("done")
+
+    admin_table=f'create table auth(username varchar(255) primary key, password varchar(255));'
+    query=f'insert into auth(username, password) values("root","gAAAAABhKf60jFpEaosPLqgIuvPAnyxAPAf76yxtBdZbBwbhBvAG0GspfhbSpWhc87ydxjEmuBs_vF4P0fGJhHpUugdPenw0AQ==");'
+    cur.execute(admin_table)
+    cur.execute(query)
 
 def add(img,chap,question,answer):
 
@@ -43,7 +50,7 @@ def add(img,chap,question,answer):
         chapters=["electrostatics","electromagnetic","current","aphy", "allquestion"]
         if chap in chapters:
             copy(img,dst)
-            query=f'insert into {chapter}(Sno,question,answer) values({count[chap]+1},"{ques}","{answer}")'
+            query=f'insert into {chap}(Sno,question,answer) values({count[chap]+1},"{question}","{answer}")'
             cur.execute(query)
             cur.commit()
             count_file.seek(0)
@@ -59,8 +66,11 @@ def authenticate(username,password):
                             db="questionbank")
     cur=conn.cursor()
     query= f'select * from auth'
-    cur.execute()
+    cur.execute(query)
     authtbl=cur.fetchall()
+    key=b"rIAyt0uH1sgM8bC-WPQfSFomx5BGSz6_2MW2geye3I4="
+    fernet=Fernet(key)
+    authtbl=[(i[0],fernet.decrypt(authtbl[0][1].encode()).decode()) for i in authtbl]
     if (username,password) in authtbl:
         return True
     else:
