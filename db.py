@@ -3,14 +3,14 @@ import os
 import pickle
 from shutil import copy
 
-def backend():
+def backend(passwd):
     conn=msql.connect(host="localhost",
                     user="root",
-                    passwd="root")
+                    passwd=passwd)
     cur=conn.cursor()
     cur.execute('CREATE DATABASE IF NOT EXISTS questionbank;')
     cur.execute('use questionbank')
-    chapters=["electrostatics","electromagnetic","aphy", "allquestion"]
+    chapters=["electrostatics","electromagnetic","current","aphy", "allquestion"]
     for chapter in chapters:
         fl=chapter+'.txt'
         file=open(fl,'r')
@@ -32,7 +32,7 @@ def backend():
 
 def add(img,chap,question,answer):
 
-    with open('count.DAT', 'rb+') as count_file:
+    with open('count.dat', 'rb+') as count_file:
         conn=msql.connect(host="localhost",
                         user="root",
                         passwd="root",
@@ -40,10 +40,10 @@ def add(img,chap,question,answer):
         cur=conn.cursor()
         dst=os.path.join(os.getcwd(),'finaldb')
         count=pickle.load(count_file)
-        chapters=["electrostatics","electromagnetic","aphy", "allquestion"]
+        chapters=["electrostatics","electromagnetic","current","aphy", "allquestion"]
         if chap in chapters:
             copy(img,dst)
-            query=f'insert into {chapter}(Sno,question,answer) values({count[chap]},"{ques}","{answer}")'
+            query=f'insert into {chapter}(Sno,question,answer) values({count[chap]+1},"{ques}","{answer}")'
             cur.execute(query)
             cur.commit()
             count_file.seek(0)
@@ -67,4 +67,5 @@ def authenticate(username,password):
         return False
 
 if __name__=='__main__':
-    backend()
+    passwd=str(input('Enter your MySQL password: '))
+    backend(passwd)
