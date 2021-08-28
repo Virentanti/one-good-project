@@ -77,17 +77,17 @@ class UIFunctions(MainWindow):
         return self.fname
         #self.fname.setText(fname[0])
 
-    def add_ans(self):
-        self.qname=QFileDialog.getOpenFileName(self, 'Select Directory',filter="*.png")
+    def add_ques(self):
+        self.qname=QFileDialog.getOpenFileName(self, 'Select Question',filter="*.png")
         self.ui.question_label.setText(self.qname[0])
         print(self.qname)
         return self.qname
 
-    def add_ques(self):
-        self.qname=QFileDialog.getOpenFileName(self, 'Select Directory',filter="*.png")
-        self.ui.question_label.setText(self.qname[0])
-        print(self.qname)
-        return self.qname
+    def add_ans(self):
+        self.aname=QFileDialog.getOpenFileName(self, 'Select Answer',filter="*.png")
+        self.ui.question_label.setText(self.aname[0])
+        print(self.aname)
+        return self.aname
     
     def retur(self):
         return self.fname
