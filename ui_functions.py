@@ -75,7 +75,9 @@ class UIFunctions(MainWindow):
         self.fname=QFileDialog.getExistingDirectory(self, 'Select Directory')
         self.ui.browse_label.setText(self.fname)
         return self.fname
-        #self.fname.setText(fname[0])
+
+    def retur(self):
+        return self.fname
 
     def add_ques(self):
         self.qname=QFileDialog.getOpenFileName(self, 'Select Question',filter="*.png")
@@ -83,14 +85,17 @@ class UIFunctions(MainWindow):
         print(self.qname)
         return self.qname
 
+    def returq(self):
+        return self.qname[0]
+
     def add_ans(self):
         self.aname=QFileDialog.getOpenFileName(self, 'Select Answer',filter="*.png")
         self.ui.question_label.setText(self.aname[0])
         print(self.aname)
         return self.aname
     
-    def retur(self):
-        return self.fname
+    def retura(self):
+        return self.aname[0]
 
     def inputval(self,index):
         self.inptlis={"Voltage":[['i','R'],['P','i'],['P','R'],['q','C'],['P','E','q'],['q','r']],"Capacitance":[['q','V'],['U','V'],['A','d'],['q','U'],['n','V'],['r1r2'],['r1r2','l']],"DriftVelocity":[['i','A','q','n'],['l','t'],['E','t'],['j','n']]}

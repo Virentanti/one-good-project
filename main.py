@@ -10,8 +10,8 @@ from ui_main import Ui_MainWindow
 
 # IMPORT FUNCTIONS
 from ui_functions import *
-from pdsf import *
-from db import authenticate
+from pdsf import pdf_gen
+from db import authenticate,add
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -63,6 +63,7 @@ class MainWindow(QMainWindow):
         self.ui.answer_btn.clicked.connect(lambda: UIFunctions.add_ans(self))
 
         self.ui.login_btn.clicked.connect(lambda: UIFunctions.login(self,self.ui.username_lineedit.text(),self.ui.password_lineedit.text()))
+        # self.ui.generate_generate_btn_2.clicked.connect(lambda: add())
         ## SHOW ==> MAIN WINDOW
         ########################################################################
         self.show()

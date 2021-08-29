@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-
-################################################################################
-## Form generated from reading UI file 'homeJchHgq.ui'
-##
-## Created by: Qt User Interface Compiler version 5.14.1
-##
-## WARNING! All changes made in this file will be lost when recompiling UI file!
-################################################################################
-
 from PySide2.QtCore import (QCoreApplication, QMetaObject, QObject, QPoint,
     QRect, QSize, QUrl, Qt)
 from PySide2.QtGui import (QBrush, QColor, QConicalGradient, QCursor, QFont,
@@ -81,7 +71,7 @@ class Ui_MainWindow(object):
         self.menu_label.setStyleSheet(u"color: rgb(255, 255, 255);")
         font = QFont()
         font.setFamily(u"Uni Sans Demo Heavy CAPS")
-        font.setPointSize(12)
+        font.setPointSize(16)
         font.setBold(False)
         font.setWeight(50)
         self.menu_label.setFont(font)
@@ -112,7 +102,7 @@ class Ui_MainWindow(object):
         self.home_label.setMaximumSize(QSize(16777215, 30))
         font = QFont()
         font.setFamily(u"Uni Sans Demo Heavy CAPS")
-        font.setPointSize(12)
+        font.setPointSize(16)
         font.setBold(False)
         font.setWeight(50)
         self.home_label.setFont(font)
@@ -147,7 +137,7 @@ class Ui_MainWindow(object):
         self.generate_label.setMaximumSize(QSize(16777215, 30))
         font = QFont()
         font.setFamily(u"Uni Sans Demo Heavy CAPS")
-        font.setPointSize(12)
+        font.setPointSize(16)
         font.setBold(False)
         font.setWeight(50)
         self.generate_label.setFont(font)
@@ -165,8 +155,8 @@ class Ui_MainWindow(object):
         self.admin_panel_btn.setObjectName(u"admin_panel_btn")
         self.admin_panel_btn.setMinimumSize(QSize(30, 30))
         self.admin_panel_btn.setMaximumSize(QSize(30, 30))
-        self.admin_panel_btn.setStyleSheet(u"QPushButton{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/user.png);}\n"
-"QPushButton:hover{border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/user(hover).png);}")
+        self.admin_panel_btn.setStyleSheet(u"QPushButton{border-image:url("+cwd+"/images/user.png);}\n"
+"QPushButton:hover{border-image:url("+cwd+"/images/user(hover).png);}")
 
         self.admin_panel_layout.addWidget(self.admin_panel_btn)
 
@@ -205,7 +195,7 @@ class Ui_MainWindow(object):
         self.title_label.setObjectName(u"title_label")
         font = QFont()
         font.setFamily(u"Uni Sans Demo Heavy CAPS")
-        font.setPointSize(12)
+        font.setPointSize(16)
         font.setBold(False)
         font.setWeight(50)
         self.title_label.setFont(font)
@@ -315,7 +305,7 @@ class Ui_MainWindow(object):
         self.chapter_combobox.setMaximumSize(QSize(300, 45))
         font1 = QFont()
         font1.setFamily(u"Uni Sans Demo")
-        font1.setPointSize(10)
+        font1.setPointSize(12)
         self.chapter_combobox.setFont(font1)
         self.chapter_combobox.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 10px 1px 90px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url("+cwd+"/images/down_arrow.png); width: 10px; height: 10px; }")
         self.chapter_combobox.setEditable(True)
@@ -330,7 +320,7 @@ class Ui_MainWindow(object):
         self.input_value_combobpx.setMaximumSize(QSize(300, 45))
         font2 = QFont()
         font2.setFamily(u"MS Sans Serif")
-        font2.setPointSize(10)
+        font2.setPointSize(12)
         self.input_value_combobpx.setFont(font2)
         self.input_value_combobpx.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 0px 1px 80px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url("+cwd+"/images/down_arrow.png); width: 10px; height: 10px; }")
         self.input_value_combobpx.setEditable(True)
@@ -353,7 +343,7 @@ class Ui_MainWindow(object):
         self.values_line_edit.setMaximumSize(QSize(300, 45))
         font3 = QFont()
         font3.setFamily(u"Uni Sans Demo Heavy CAPS")
-        font3.setPointSize(10)
+        font3.setPointSize(12)
         self.values_line_edit.setFont(font3)
         self.values_line_edit.setStyleSheet(u"QLineEdit{border-radius:10px; border: 2px solid rgb(33, 0, 114);color:rgba(255, 255, 255,90);background-color:rgba(33, 0, 114,80)}")
         self.values_line_edit.setAlignment(Qt.AlignCenter)
@@ -381,7 +371,7 @@ class Ui_MainWindow(object):
         self.answer_label.setMaximumSize(QSize(300, 45))
         font4 = QFont()
         font4.setFamily(u"Uni Sans Demo Heavy CAPS")
-        font4.setPointSize(10)
+        font4.setPointSize(12)
         font4.setBold(True)
         font4.setWeight(75)
         self.answer_label.setFont(font4)
@@ -724,7 +714,6 @@ class Ui_MainWindow(object):
         self.chapter_combobox.setCurrentText(QCoreApplication.translate("MainWindow", u"select chapter", None))
         self.input_value_combobpx.setCurrentText(QCoreApplication.translate("MainWindow", u"select input value", None))
         self.input_value_combobpx.setProperty("placeholderText", "")
-        self.values_line_edit.setText("")
         self.values_line_edit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"ENTER VALUES", None))
         self.calculate_btn.setText(QCoreApplication.translate("MainWindow", u"calculate", None))
         self.answer_label.setText(QCoreApplication.translate("MainWindow", u"ANSWER", None))
