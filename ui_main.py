@@ -699,18 +699,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
-        self.menu_btn.setText("")
-        self.menu_label.setText("")
-        self.home_btn.setText("")
-        self.home_label.setText("")
-        self.generate_btn.setText("")
-        self.generate_label.setText("")
-        self.admin_panel_btn.setText("")
-        self.admin_panel_label.setText("")
         self.title_label.setText(QCoreApplication.translate("MainWindow", u"Physics Numerical Solver", None))
-        self.minimize_btn.setText("")
-        self.restore_btn.setText("")
-        self.close_btn.setText("")
         self.chapter_combobox.setCurrentText(QCoreApplication.translate("MainWindow", u"select chapter", None))
         self.input_value_combobpx.setCurrentText(QCoreApplication.translate("MainWindow", u"select input value", None))
         self.input_value_combobpx.setProperty("placeholderText", "")
