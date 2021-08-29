@@ -50,6 +50,8 @@ class MainWindow(QMainWindow):
 
         chapters=["current","electrostatics","electromagnetic","aphy", "allquestion"]
         self.ui.generate_chater_comboBox.addItems(chapters)
+        self.ui.chapter_combobox_2.addItems(chapters)
+
         
         self.ui.calculate_btn.clicked.connect(lambda: UIFunctions.calculate(self, self.ui.chapter_combobox.currentText(),self.ui.input_value_combobpx.currentText(),self.ui.values_line_edit.text()))
         # PAGE 2
@@ -63,7 +65,7 @@ class MainWindow(QMainWindow):
         self.ui.answer_btn.clicked.connect(lambda: UIFunctions.add_ans(self))
 
         self.ui.login_btn.clicked.connect(lambda: UIFunctions.login(self,self.ui.username_lineedit.text(),self.ui.password_lineedit.text()))
-        # self.ui.generate_generate_btn_2.clicked.connect(lambda: add())
+        self.ui.generate_generate_btn_2.clicked.connect(lambda: add(self.ui.chapter_combobox_2.currentText(), UIFunctions.returq(self), UIFunctions.retura(self)))
         ## SHOW ==> MAIN WINDOW
         ########################################################################
         self.show()

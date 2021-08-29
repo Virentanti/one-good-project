@@ -307,7 +307,7 @@ class Ui_MainWindow(object):
         font1.setFamily(u"Uni Sans Demo")
         font1.setPointSize(12)
         self.chapter_combobox.setFont(font1)
-        self.chapter_combobox.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 10px 1px 90px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url("+cwd+"/images/down_arrow.png); width: 10px; height: 10px; }")
+        self.chapter_combobox.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 10px 1px 90px; color:rgba(255, 255, 255,90) } QComboBox QAbstractItemView {background-color:rgba(33, 0, 114,80); padding: 1px 10px 1px 50px; color: white; selection-background-color: transparent;} QComboBox::drop-down { background-color:rgba(33, 0, 114,80);subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgrey;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url("+cwd+"/images/down_arrow.png); width: 10px; height: 10px; }")
         self.chapter_combobox.setEditable(True)
 
         self.verticalLayout_3.addWidget(self.chapter_combobox)
@@ -371,7 +371,7 @@ class Ui_MainWindow(object):
         self.answer_label.setMaximumSize(QSize(300, 45))
         font4 = QFont()
         font4.setFamily(u"Uni Sans Demo Heavy CAPS")
-        font4.setPointSize(12)
+        font4.setPointSize(10)
         font4.setBold(True)
         font4.setWeight(75)
         self.answer_label.setFont(font4)
@@ -507,14 +507,41 @@ class Ui_MainWindow(object):
         self.verticalLayout_7.addLayout(self.generate_verticalLayout)
 
         self.stacked_widgets.addWidget(self.generate)
-
         self.admin_panel_login = QWidget()
         self.admin_panel_login.setObjectName(u"admin_panel_login")
-        self.verticalLayout_6 = QVBoxLayout(self.admin_panel_login)
-        self.verticalLayout_6.setObjectName(u"verticalLayout_6")
+        self.verticalLayout_10 = QVBoxLayout(self.admin_panel_login)
+        self.verticalLayout_10.setObjectName(u"verticalLayout_10")
         self.Spacer_3 = QSpacerItem(20, 108, QSizePolicy.Minimum, QSizePolicy.Expanding)
 
-        self.verticalLayout_6.addItem(self.Spacer_3)
+        # self.verticalLayout_6.addItem(self.Spacer_3)
+        self.verticalLayout_10.addItem(self.Spacer_3)
+
+        self.verticalLayout_6 = QVBoxLayout()
+        self.verticalLayout_6.setObjectName(u"verticalLayout_6")
+        self.horizontalLayout_11 = QHBoxLayout()
+        self.horizontalLayout_11.setObjectName(u"horizontalLayout_11")
+        self.Spacer_8 = QSpacerItem(40, 20, QSizePolicy.Expanding, QSizePolicy.Minimum)
+
+        self.horizontalLayout_11.addItem(self.Spacer_8)
+
+        self.frame_2 = QFrame(self.admin_panel_login)
+        self.frame_2.setObjectName(u"frame_2")
+        sizePolicy1.setHeightForWidth(self.frame_2.sizePolicy().hasHeightForWidth())
+        self.frame_2.setSizePolicy(sizePolicy1)
+        self.frame_2.setMinimumSize(QSize(120, 120))
+        self.frame_2.setMaximumSize(QSize(120, 120))
+        self.frame_2.setStyleSheet(u"border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/user.png);")
+        self.frame_2.setFrameShape(QFrame.StyledPanel)
+        self.frame_2.setFrameShadow(QFrame.Raised)
+
+        self.horizontalLayout_11.addWidget(self.frame_2)
+
+        self.Spacer_7 = QSpacerItem(40, 20, QSizePolicy.Expanding, QSizePolicy.Minimum)
+
+        self.horizontalLayout_11.addItem(self.Spacer_7)
+
+
+        self.verticalLayout_6.addLayout(self.horizontalLayout_11)
 
         self.admin_panel_login_mainframe = QHBoxLayout()
         self.admin_panel_login_mainframe.setObjectName(u"admin_panel_login_mainframe")
@@ -570,10 +597,10 @@ class Ui_MainWindow(object):
 
 
         self.verticalLayout_6.addLayout(self.admin_panel_login_mainframe)
-
+        self.verticalLayout_10.addLayout(self.verticalLayout_6)
         self.Spacer_4 = QSpacerItem(20, 108, QSizePolicy.Minimum, QSizePolicy.Expanding)
 
-        self.verticalLayout_6.addItem(self.Spacer_4)
+        self.verticalLayout_10.addItem(self.Spacer_4)
 
         self.stacked_widgets.addWidget(self.admin_panel_login)
         self.admin_panel_dashboard = QWidget()
@@ -584,14 +611,26 @@ class Ui_MainWindow(object):
 
         self.verticalLayout_9.addItem(self.generate_verticalSpacer_6)
 
-        self.horizontalLayout_11 = QHBoxLayout()
-        self.horizontalLayout_11.setObjectName(u"horizontalLayout_11")
+        self.horizontalLayout_5 = QHBoxLayout()
+        self.horizontalLayout_5.setObjectName(u"horizontalLayout_5")
         self.home_horizontalSpacer_8 = QSpacerItem(40, 20, QSizePolicy.Expanding, QSizePolicy.Minimum)
 
-        self.horizontalLayout_11.addItem(self.home_horizontalSpacer_8)
+        self.horizontalLayout_5.addItem(self.home_horizontalSpacer_8)
 
         self.verticalLayout_8 = QVBoxLayout()
         self.verticalLayout_8.setObjectName(u"verticalLayout_8")
+        self.chapter_combobox_2 = QComboBox(self.admin_panel_dashboard)
+        self.chapter_combobox_2.setObjectName(u"chapter_combobox_2")
+        sizePolicy4.setHeightForWidth(self.chapter_combobox_2.sizePolicy().hasHeightForWidth())
+        self.chapter_combobox_2.setSizePolicy(sizePolicy4)
+        self.chapter_combobox_2.setMinimumSize(QSize(300, 30))
+        self.chapter_combobox_2.setMaximumSize(QSize(300, 45))
+        self.chapter_combobox_2.setFont(font1)
+        self.chapter_combobox_2.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 10px 1px 90px; color:rgba(255, 255, 255,90) } QComboBox QAbstractItemView {background-color:rgba(33, 0, 114,80); padding: 1px 10px 1px 50px; color: white; selection-background-color: transparent;} QComboBox::drop-down { background-color:rgba(33, 0, 114,80);subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgrey;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url("+cwd+"/images/down_arrow.png); width: 10px; height: 10px; }")
+        self.chapter_combobox_2.setEditable(True)
+
+        self.verticalLayout_8.addWidget(self.chapter_combobox_2)
+
         self.horizontalLayout_8 = QHBoxLayout()
         self.horizontalLayout_8.setObjectName(u"horizontalLayout_8")
         self.question_label = QLabel(self.admin_panel_dashboard)
@@ -663,14 +702,14 @@ class Ui_MainWindow(object):
         self.verticalLayout_8.addLayout(self.horizontalLayout_10)
 
 
-        self.horizontalLayout_11.addLayout(self.verticalLayout_8)
+        self.horizontalLayout_5.addLayout(self.verticalLayout_8)
 
         self.home_horizontalSpacer_7 = QSpacerItem(40, 20, QSizePolicy.Expanding, QSizePolicy.Minimum)
 
-        self.horizontalLayout_11.addItem(self.home_horizontalSpacer_7)
+        self.horizontalLayout_5.addItem(self.home_horizontalSpacer_7)
 
 
-        self.verticalLayout_9.addLayout(self.horizontalLayout_11)
+        self.verticalLayout_9.addLayout(self.horizontalLayout_5)
 
         self.generate_verticalSpacer_5 = QSpacerItem(20, 107, QSizePolicy.Minimum, QSizePolicy.Expanding)
 
@@ -713,6 +752,7 @@ class Ui_MainWindow(object):
         self.username_lineedit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"Username", None))
         self.password_lineedit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"Password", None))
         self.login_btn.setText(QCoreApplication.translate("MainWindow", u"Login", None))
+        self.chapter_combobox_2.setCurrentText(QCoreApplication.translate("MainWindow", u"select chapter", None))
         self.question_label.setText(QCoreApplication.translate("MainWindow", u"Browse Path", None))
         self.question_btn.setText(QCoreApplication.translate("MainWindow", u"Add Question", None))
         self.answer_label_2.setText(QCoreApplication.translate("MainWindow", u"Browse Path", None))

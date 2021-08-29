@@ -90,7 +90,7 @@ class UIFunctions(MainWindow):
 
     def add_ans(self):
         self.aname=QFileDialog.getOpenFileName(self, 'Select Answer',filter="*.png")
-        self.ui.question_label.setText(self.aname[0])
+        self.ui.answer_label_2.setText(self.aname[0])
         print(self.aname)
         return self.aname
     

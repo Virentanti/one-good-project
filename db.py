@@ -20,6 +20,9 @@ def backend(passwd):
         count=0
         table=f'create table {chapter}(sno int primary key, question varchar(255), answer varchar(255))'
         cur.execute(table)
+        with open('count.dat', 'wb') as count_file:
+            pickle.dump({'electrostatics': 670, 'current': 981, 'electromagnetic': 70, 'aphy': 140, 'allquestion': 1861},count_file)
+
         try :
             while x:
                 count+=1
@@ -44,25 +47,28 @@ def add(chap,question,answer):
                         passwd="root",
                         db="questionbank")
         cur=conn.cursor()
-        question=os.path.basename(question)
-        answer=os.path.basename(answer)
-        qdst=os.path.join(os.path.join(os.getcwd(),'finaldb'),question)
-        adst=os.path.join(os.path.join(os.getcwd(),'finaldb'),answer)
+        question_name =os.path.basename(question)
+        answer_name =os.path.basename(answer)
+        qdst=os.path.join(os.path.join(os.getcwd(),'finaldb'),question_name)
+        adst=os.path.join(os.path.join(os.getcwd(),'finaldb'),answer_name)
         count=pickle.load(count_file)
         chapters=["electrostatics","electromagnetic","current","aphy", "allquestion"]
-        try:
-            if chap in chapters:
-                copy(question,qdst)
-                copy(answer,adst)
-                query=f'insert into {chap}(Sno,question,answer) values({count[chap]+1},"{question}","{answer}")'
-                cur.execute(query)
-                cur.commit()
-                count_file.seek(0)
-                count[chap]+=1
-                count_file.seek(0)
-                pickle.dump(count.count_file)
-                return True
-        except: return False
+
+        if chap in chapters:
+            copy(question,qdst)
+            copy(answer,adst)
+            query=f'insert into {chap}(Sno,question,answer) values({count[chap]+2},"{question}","{answer}")'
+            cur.execute(query)
+
+            query=f'insert into allquestion(Sno,question,answer) values({count["allquestion"]+2},"{question}","{answer}")'
+            cur.execute(query)
+            conn.commit()
+            count[chap]+=1
+            count["allquestion"]+=1
+            count_file.seek(0)
+            pickle.dump(count,count_file)
+            return True
+
 
 def authenticate(username,password):
     conn=msql.connect(host="localhost",

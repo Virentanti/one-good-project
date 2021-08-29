@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ################################################################################
-## Form generated from reading UI file 'homeQNUoac.ui'
+## Form generated from reading UI file 'homejotlMn.ui'
 ##
 ## Created by: Qt User Interface Compiler version 5.15.2
 ##
@@ -491,11 +491,38 @@ class Ui_MainWindow(object):
         self.stacked_widgets.addWidget(self.generate)
         self.admin_panel_login = QWidget()
         self.admin_panel_login.setObjectName(u"admin_panel_login")
-        self.verticalLayout_6 = QVBoxLayout(self.admin_panel_login)
-        self.verticalLayout_6.setObjectName(u"verticalLayout_6")
+        self.verticalLayout_10 = QVBoxLayout(self.admin_panel_login)
+        self.verticalLayout_10.setObjectName(u"verticalLayout_10")
         self.Spacer_3 = QSpacerItem(20, 108, QSizePolicy.Minimum, QSizePolicy.Expanding)
 
-        self.verticalLayout_6.addItem(self.Spacer_3)
+        self.verticalLayout_10.addItem(self.Spacer_3)
+
+        self.verticalLayout_6 = QVBoxLayout()
+        self.verticalLayout_6.setObjectName(u"verticalLayout_6")
+        self.horizontalLayout_11 = QHBoxLayout()
+        self.horizontalLayout_11.setObjectName(u"horizontalLayout_11")
+        self.Spacer_8 = QSpacerItem(40, 20, QSizePolicy.Expanding, QSizePolicy.Minimum)
+
+        self.horizontalLayout_11.addItem(self.Spacer_8)
+
+        self.frame_2 = QFrame(self.admin_panel_login)
+        self.frame_2.setObjectName(u"frame_2")
+        sizePolicy1.setHeightForWidth(self.frame_2.sizePolicy().hasHeightForWidth())
+        self.frame_2.setSizePolicy(sizePolicy1)
+        self.frame_2.setMinimumSize(QSize(120, 120))
+        self.frame_2.setMaximumSize(QSize(120, 120))
+        self.frame_2.setStyleSheet(u"border-image:url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/user.png);")
+        self.frame_2.setFrameShape(QFrame.StyledPanel)
+        self.frame_2.setFrameShadow(QFrame.Raised)
+
+        self.horizontalLayout_11.addWidget(self.frame_2)
+
+        self.Spacer_7 = QSpacerItem(40, 20, QSizePolicy.Expanding, QSizePolicy.Minimum)
+
+        self.horizontalLayout_11.addItem(self.Spacer_7)
+
+
+        self.verticalLayout_6.addLayout(self.horizontalLayout_11)
 
         self.admin_panel_login_mainframe = QHBoxLayout()
         self.admin_panel_login_mainframe.setObjectName(u"admin_panel_login_mainframe")
@@ -550,28 +577,40 @@ class Ui_MainWindow(object):
 
 
         self.verticalLayout_6.addLayout(self.admin_panel_login_mainframe)
-
+        self.verticalLayout_10.addLayout(self.verticalLayout_6)
         self.Spacer_4 = QSpacerItem(20, 108, QSizePolicy.Minimum, QSizePolicy.Expanding)
 
-        self.verticalLayout_6.addItem(self.Spacer_4)
+        self.verticalLayout_10.addItem(self.Spacer_4)
 
         self.stacked_widgets.addWidget(self.admin_panel_login)
         self.admin_panel_dashboard = QWidget()
         self.admin_panel_dashboard.setObjectName(u"admin_panel_dashboard")
         self.verticalLayout_9 = QVBoxLayout(self.admin_panel_dashboard)
         self.verticalLayout_9.setObjectName(u"verticalLayout_9")
-        self.generate_verticalSpacer_6 = QSpacerItem(20, 106, QSizePolicy.Minimum, QSizePolicy.Expanding)
+        self.generate_verticalSpacer_6 = QSpacerItem(17, 88, QSizePolicy.Minimum, QSizePolicy.Expanding)
 
         self.verticalLayout_9.addItem(self.generate_verticalSpacer_6)
 
-        self.horizontalLayout_11 = QHBoxLayout()
-        self.horizontalLayout_11.setObjectName(u"horizontalLayout_11")
+        self.horizontalLayout_5 = QHBoxLayout()
+        self.horizontalLayout_5.setObjectName(u"horizontalLayout_5")
         self.home_horizontalSpacer_8 = QSpacerItem(40, 20, QSizePolicy.Expanding, QSizePolicy.Minimum)
 
-        self.horizontalLayout_11.addItem(self.home_horizontalSpacer_8)
+        self.horizontalLayout_5.addItem(self.home_horizontalSpacer_8)
 
         self.verticalLayout_8 = QVBoxLayout()
         self.verticalLayout_8.setObjectName(u"verticalLayout_8")
+        self.chapter_combobox_2 = QComboBox(self.admin_panel_dashboard)
+        self.chapter_combobox_2.setObjectName(u"chapter_combobox_2")
+        sizePolicy4.setHeightForWidth(self.chapter_combobox_2.sizePolicy().hasHeightForWidth())
+        self.chapter_combobox_2.setSizePolicy(sizePolicy4)
+        self.chapter_combobox_2.setMinimumSize(QSize(250, 30))
+        self.chapter_combobox_2.setMaximumSize(QSize(300, 45))
+        self.chapter_combobox_2.setFont(font1)
+        self.chapter_combobox_2.setStyleSheet(u"QComboBox { background-color:rgba(33, 0, 114,80); border-style: solid;  border: 2px solid rgb(33, 0, 114); ; border-radius: 10px;  padding: 1px 10px 1px 90px; color:rgba(255, 255, 255,90) } QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; width: 15px; color: white; border-left-width: 0px; border-left-color: darkgray;  border-left-style: solid;  border-top-right-radius: 3px;  border-bottom-right-radius: 3px; padding-left: 10px;  } QComboBox::down-arrow { image: url(C:/Users/Rashmi/Desktop/Development/one-good-project/images/down_arrow.png); width: 10px; height: 10px; }")
+        self.chapter_combobox_2.setEditable(True)
+
+        self.verticalLayout_8.addWidget(self.chapter_combobox_2)
+
         self.horizontalLayout_8 = QHBoxLayout()
         self.horizontalLayout_8.setObjectName(u"horizontalLayout_8")
         self.question_label = QLabel(self.admin_panel_dashboard)
@@ -641,16 +680,16 @@ class Ui_MainWindow(object):
         self.verticalLayout_8.addLayout(self.horizontalLayout_10)
 
 
-        self.horizontalLayout_11.addLayout(self.verticalLayout_8)
+        self.horizontalLayout_5.addLayout(self.verticalLayout_8)
 
         self.home_horizontalSpacer_7 = QSpacerItem(40, 20, QSizePolicy.Expanding, QSizePolicy.Minimum)
 
-        self.horizontalLayout_11.addItem(self.home_horizontalSpacer_7)
+        self.horizontalLayout_5.addItem(self.home_horizontalSpacer_7)
 
 
-        self.verticalLayout_9.addLayout(self.horizontalLayout_11)
+        self.verticalLayout_9.addLayout(self.horizontalLayout_5)
 
-        self.generate_verticalSpacer_5 = QSpacerItem(20, 107, QSizePolicy.Minimum, QSizePolicy.Expanding)
+        self.generate_verticalSpacer_5 = QSpacerItem(17, 89, QSizePolicy.Minimum, QSizePolicy.Expanding)
 
         self.verticalLayout_9.addItem(self.generate_verticalSpacer_5)
 
@@ -676,22 +715,9 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
-        self.menu_btn.setText("")
-        self.menu_label.setText("")
-        self.home_btn.setText("")
-        self.home_label.setText("")
-        self.generate_btn.setText("")
-        self.generate_label.setText("")
-        self.admin_panel_btn.setText("")
-        self.admin_panel_label.setText("")
         self.title_label.setText(QCoreApplication.translate("MainWindow", u"Physics Numerical Solver", None))
-        self.minimize_btn.setText("")
-        self.restore_btn.setText("")
-        self.close_btn.setText("")
         self.chapter_combobox.setCurrentText(QCoreApplication.translate("MainWindow", u"select chapter", None))
         self.input_value_combobpx.setCurrentText(QCoreApplication.translate("MainWindow", u"select input value", None))
-        self.input_value_combobpx.setPlaceholderText("")
-        self.values_line_edit.setText("")
         self.values_line_edit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"ENTER VALUES", None))
         self.calculate_btn.setText(QCoreApplication.translate("MainWindow", u"calculate", None))
         self.answer_label.setText(QCoreApplication.translate("MainWindow", u"ANSWER", None))
@@ -699,11 +725,10 @@ class Ui_MainWindow(object):
         self.browse_btn.setText(QCoreApplication.translate("MainWindow", u"Browse", None))
         self.generate_chater_comboBox.setCurrentText(QCoreApplication.translate("MainWindow", u"Select Chapter", None))
         self.generate_generate_btn.setText(QCoreApplication.translate("MainWindow", u"Generate", None))
-        self.username_lineedit.setText(QCoreApplication.translate("MainWindow", u"Username", None))
-        self.username_lineedit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"ENTER VALUES", None))
-        self.password_lineedit.setText(QCoreApplication.translate("MainWindow", u"Password", None))
-        self.password_lineedit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"ENTER VALUES", None))
+        self.username_lineedit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"Username", None))
+        self.password_lineedit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"Password", None))
         self.login_btn.setText(QCoreApplication.translate("MainWindow", u"Login", None))
+        self.chapter_combobox_2.setCurrentText(QCoreApplication.translate("MainWindow", u"select chapter", None))
         self.question_label.setText(QCoreApplication.translate("MainWindow", u"Browse Path", None))
         self.question_btn.setText(QCoreApplication.translate("MainWindow", u"Add Question", None))
         self.answer_label_2.setText(QCoreApplication.translate("MainWindow", u"Browse Path", None))
