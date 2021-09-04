@@ -87,11 +87,11 @@ def authenticate(username,password):
     else: return False
 
 def add_admin(username,password,passwd):
-        conn=msql.connect(host="localhost",
-                            user="root",
-                            passwd=passwd,
-                            db="questionbank")
-        cur=conn.cursor()
+    conn=msql.connect(host="localhost",
+                        user="root",
+                        passwd=passwd,
+                        db="questionbank")
+    cur=conn.cursor()
     key=b"rIAyt0uH1sgM8bC-WPQfSFomx5BGSz6_2MW2geye3I4="
     fernet=Fernet(key)
     enc_password=fernet.encrypt(password.encode())
@@ -102,13 +102,13 @@ def add_admin(username,password,passwd):
 
 if __name__=='__main__':
     passwd=str(input('Enter your MySQL password: '))
-    while True
+    while True:
         op=str(input('1. Create Backend \n 2. Add Admin \n 3. Exit \n Enter your choice: '))
 
-        if op='1' or op='1.': backend(passwd)
+        if op=='1' or op=='1.': backend(passwd)
         
-        elif op='2' or op='2.':
+        elif op=='2' or op=='2.':
             username=str(input('enter username for admin'))
             password=str(input('enter password for admin'))
             add_admin(username,password,passwd)
-        elif op='3' or op='3.': break
+        elif op=='3' or op=='3.': break

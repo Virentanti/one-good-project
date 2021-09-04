@@ -1,7 +1,6 @@
 ## ==> GUI FILE
 from Solverr import Capacitance
 from main import *
-import mysql.connector as msql
 from Solverr import *
 from db import authenticate
 from ui_main import Ui_MainWindow
