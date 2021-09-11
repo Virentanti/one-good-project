@@ -28,7 +28,6 @@ def backend(passwd):
             while x:
                 x = file.readline()
                 x=x.split()
-                print(x)
                 if len(x)==2:
                     count+=1
                     query=f'insert into {chapter}(Sno,question,answer) values({count},"{x[0]}","{x[1]}")'
