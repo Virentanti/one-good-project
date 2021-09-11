@@ -39,6 +39,7 @@ def backend(passwd):
     query=f'insert into auth(username, password) values("root","gAAAAABhKf60jFpEaosPLqgIuvPAnyxAPAf76yxtBdZbBwbhBvAG0GspfhbSpWhc87ydxjEmuBs_vF4P0fGJhHpUugdPenw0AQ==");'
     cur.execute(admin_table)
     cur.execute(query)
+    conn.commit()
 
 def add(chap,question,answer):
 
