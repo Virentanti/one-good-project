@@ -10,7 +10,8 @@ def backend(passwd):
                     user="root",
                     passwd=passwd)
     cur=conn.cursor()
-    cur.execute('CREATE DATABASE IF NOT EXISTS questionbank;')
+    cur.execute('drop database if exists questionbank;')
+    cur.execute('CREATE DATABASE questionbank;')
     cur.execute('use questionbank')
     chapters=["electrostatics","electromagnetic","current","aphy", "allquestion"]
     for chapter in chapters:
@@ -25,13 +26,14 @@ def backend(passwd):
 
         try :
             while x:
-                count+=1
                 x = file.readline()
                 x=x.split()
-                query=f'insert into {chapter}(Sno,question,answer) values({count},"{x[0]}","{x[1]}")'
-                cur.execute(query)
-                #print(x)
-                conn.commit()
+                print(x)
+                if len(x)==2:
+                    count+=1
+                    query=f'insert into {chapter}(Sno,question,answer) values({count},"{x[0]}","{x[1]}")'
+                    cur.execute(query)
+                    conn.commit()
         except EOFError: print("done")
 
     admin_table=f'create table auth(username varchar(255) primary key, password varchar(255));'
@@ -103,7 +105,7 @@ def add_admin(username,password,passwd):
 if __name__=='__main__':
     passwd=str(input('Enter your MySQL password: '))
     while True:
-        op=str(input('1. Create Backend \n 2. Add Admin \n 3. Exit \n Enter your choice: '))
+        op=str(input(' 1. Create Backend \n 2. Add Admin \n 3. Exit \n Enter your choice: '))
 
         if op=='1' or op=='1.': backend(passwd)
         
