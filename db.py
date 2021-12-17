@@ -4,6 +4,10 @@ import pickle
 from shutil import copy
 from cryptography.fernet import Fernet
 import sys
+import datetime
+
+if __name__!='__main__':
+    sys.stdout=open(f'log {datetime.date.today()}.txt','a')
 
 
 def backend(passwd):
@@ -86,8 +90,12 @@ def authenticate(username,password):
     fernet=Fernet(key)
     authtbl=[(i[0],fernet.decrypt(authtbl[0][1].encode()).decode()) for i in authtbl]
 
-    if (username,password) in authtbl: return True
-    else: return False
+    if (username,password) in authtbl: 
+        print(f'[{datetime.datetime.now()}]{username} has logged in')
+        return True
+    else: 
+        print(f'[{datetime.datetime.now()}]{username} has failed to login')
+        return False
 
 def add_admin(username,password,passwd):
     conn=msql.connect(host="localhost",

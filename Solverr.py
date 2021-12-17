@@ -1,4 +1,8 @@
 from math import log
+import sys
+import datetime
+
+sys.stdout=open(f'log {datetime.date.today()}.txt','a')
 
 #----->Defined Constants
 k=9*(10**9)
@@ -28,8 +32,8 @@ def Voltage(data,val):
     try:
         data=strtolist(data)
         val=strtolist(val)
-        print(data)
-        print(val)
+        print(f'[{datetime.datetime.now()}]:',data)
+        print(f'[{datetime.datetime.now()}]:',val)
         val=[float(i) for i in val]
         if compare(data ,V.get(0)):
           volt=val[0]*val[1]
@@ -53,12 +57,15 @@ def Voltage(data,val):
           value="not a valid value type"
     except:
         value="invalid value given"
+    print(f'[{datetime.datetime.now()}]:',value)
     return value
 
 def Capacitance(data,val):
     try:
         data=strtolist(data)
         val=strtolist(val)
+        print(f'[{datetime.datetime.now()}]:',data)
+        print(f'[{datetime.datetime.now()}]:',val)
         val=[float(i) for i in val]
         if compare(data ,C.get(0)):
           Cap=val[0]/val[1]
@@ -85,12 +92,15 @@ def Capacitance(data,val):
           value="not a valid value type"
     except:
         value="invalid value given"
+    print(f'[{datetime.datetime.now()}]:',value)
     return value
 
 def DriftVelocity(data,val):
     try:
         data=strtolist(data)
         val=strtolist(val)
+        print(f'[{datetime.datetime.now()}]:',data)
+        print(f'[{datetime.datetime.now()}]:',val)
         val=[float(i) for i in val]
         if compare(data ,Vd.get(0)):
           vd=val[0]/val[1]*val[2]*val[3]
@@ -108,4 +118,5 @@ def DriftVelocity(data,val):
           value="not a valid value type"
     except:
         value="invalid value given"
+    print(f'[{datetime.datetime.now()}]:',value)
     return value
