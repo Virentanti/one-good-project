@@ -59,7 +59,7 @@ def pdf_gen(chcode,dir_name):
     print(f'[{datetime.datetime.now()}]: Page added')
 
     #specify font
-    font_style=_FontStyle()
+    font_style='helvetica'
     font_size=16
     pdf.set_font( font_style, 'BIU', font_size)
     print(f'[{datetime.datetime.now()}]: Font set to {font_style} {font_size}')
