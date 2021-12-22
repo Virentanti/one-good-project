@@ -81,7 +81,7 @@ class UIFunctions(MainWindow):
     def add_ques(self):
         self.qname=QFileDialog.getOpenFileName(self, 'Select Question',filter="*.png")
         self.ui.question_label.setText(self.qname[0])
-        print(self.qname)
+        # print(self.qname)
         return self.qname
 
     def returq(self):
@@ -90,7 +90,7 @@ class UIFunctions(MainWindow):
     def add_ans(self):
         self.aname=QFileDialog.getOpenFileName(self, 'Select Answer',filter="*.png")
         self.ui.answer_label_2.setText(self.aname[0])
-        print(self.aname)
+        # print(self.aname)
         return self.aname
     
     def retura(self):
@@ -100,14 +100,14 @@ class UIFunctions(MainWindow):
         self.inptlis={"Voltage":[['i','R'],['P','i'],['P','R'],['q','C'],['P','E','q'],['q','r']],"Capacitance":[['q','V'],['U','V'],['A','d'],['q','U'],['n','V'],['r1r2'],['r1r2','l']],"DriftVelocity":[['i','A','q','n'],['l','t'],['E','t'],['j','n']]}
         self.ui.input_value_combobpx.clear()
         self.newlis=[str(i) for i in self.inptlis[index]]
-        print(self.newlis)
+        # print(self.newlis)
         self.ui.input_value_combobpx.addItems(self.newlis)
 
     def calculate(self,index,inp,input_value):
         print(index,inp,input_value)
         if index=="Voltage":
-            print(inp,input_value)
-            print(Voltage(inp,input_value))
+            # print(inp,input_value)
+            # print(Voltage(inp,input_value))
             self.ui.answer_label.setText(Voltage(inp,input_value))
         elif index=="Capacitance":
             self.ui.answer_label.setText(Capacitance(inp,input_value))
@@ -120,4 +120,4 @@ class UIFunctions(MainWindow):
         if authenticate(username,password):
             self.ui.stacked_widgets.setCurrentWidget(self.ui.admin_panel_dashboard)
         else:
-            print("wrong username or password")
+            # print("wrong username or password")

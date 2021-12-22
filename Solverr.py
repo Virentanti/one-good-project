@@ -28,6 +28,7 @@ def compare(a,b):
 def strtolist(data):
     data=data.replace('[','').replace(']','').replace("'",'').replace('"','').replace(' ','').split(',')
     return data
+    
 def Voltage(data,val):
     try:
         data=strtolist(data)
