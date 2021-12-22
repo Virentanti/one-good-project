@@ -114,15 +114,15 @@ def add_admin(username,password,passwd):
 if __name__=='__main__':
 
     if len(sys.argv)>1:
-        if sys.argv[1]=='-h' or '--help':
+        if sys.argv[1]=='-h':
             print('''
             use:
             \t<mysql password> -c to create backend 
             \t<mysql password> -a <username> <password> to add admin''')
 
-        elif sys.argv[2]=='-c': backend(sys.argv[1])
+        elif sys.argv[2]=='-c': print('creating backend'); backend(sys.argv[1]); print('created backend')
 
-        elif sys.argv[2]=='-c': add_admin(sys.argv[3],sys.argv[4],sys.argv[1])
+        elif sys.argv[2]=='-c': print('adding admin'); add_admin(sys.argv[3],sys.argv[4],sys.argv[1]); print('added admin and authorised')
     else:
         passwd=str(input('Enter your MySQL password: '))
         while True:
