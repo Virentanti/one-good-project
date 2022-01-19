@@ -121,3 +121,4 @@ class UIFunctions(MainWindow):
             self.ui.stacked_widgets.setCurrentWidget(self.ui.admin_panel_dashboard)
         else:
             # print("wrong username or password")
+            pass

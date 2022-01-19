@@ -34,7 +34,7 @@ class MainWindow(QMainWindow):
         self.ui.titlebar_frame.mouseMoveEvent = move_window
         ## TOGGLE/BURGUER MENU
         ########################################################################
-        self.ui.menu_btn.clicked.connect(lambda: UIFunctions.toggleMenu(self, 170, True))
+        self.ui.menu_btn.clicked.connect(lambda: UIFunctions.toggleMenu(self, 200, True))
 
         self.ui.home_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.home))
         self.ui.admin_panel_btn.clicked.connect(lambda: self.ui.stacked_widgets.setCurrentWidget(self.ui.admin_panel_login))
